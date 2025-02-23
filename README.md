@@ -25,46 +25,46 @@ This project sets up a Pacman hook to automatically track explicitly installed p
    ```
 2. **Copy and paste the following content:**
    ```sh
-    [Trigger]
-    Operation = Install
-    Operation = Upgrade
-    Operation = Remove
-    Type = Package
-    Target = *
+   [Trigger]
+   Operation = Install
+   Operation = Upgrade
+   Operation = Remove
+   Type = Package
+   Target = *
 
-    [Action]
-    Depends = coreutils
-    When = PostTransaction
-    Exec = /root/pkglist-git/pkglist.sh
+   [Action]
+   Depends = coreutils
+   When = PostTransaction
+   Exec = /root/pkglist-git/pkglist.sh
    ```
 3. **Create the Script**
    ```sh
-    sudo mkdir -p /root/pkglist-git
-    sudo nano /root/pkglist-git/pkglist.sh
+   sudo mkdir -p /root/pkglist-git
+   sudo nano /root/pkglist-git/pkglist.sh
    ```
 4. **Copy and paste the following content:**
    ```sh
-    #!/bin/sh
+   #!/bin/sh
 
-    pacman -Qe > /root/pkglist-git/pkglist.txt
-    cd /root/pkglist-git
-    git add pkglist.txt
-    git commit -m "$(date)"
-    git push
+   pacman -Qe > /root/pkglist-git/pkglist.txt
+   cd /root/pkglist-git
+   git add pkglist.txt
+   git commit -m "$(date)"
+   git push
    ```
 5. **Make the Script Executable**
    ```sh
-    sudo chmod +x /root/pkglist-git/pkglist.sh
+   sudo chmod +x /root/pkglist-git/pkglist.sh
    ```
 6. **Initialize Git Repository (If Not Already Done)**
    ```sh
-    cd /root/pkglist-git
-    git init
-    git remote add origin <your-repo-url>
-    git pull origin main  # Ensure you're synced with the remote repo
-    git add pkglist.txt
-    git commit -m "Initial commit"
-    git push -u origin main
+   cd /root/pkglist-git
+   git init
+   git remote add origin <your-repo-url>
+   git pull origin main  # Ensure you're synced with the remote repo
+   git add pkglist.txt
+   git commit -m "Initial commit"
+   git push -u origin main
    ```
 ## Purpose & Benefits
 - Automatically keeps track of explicitly installed packages.
