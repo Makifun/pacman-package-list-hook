@@ -66,7 +66,7 @@ lib32-nvidia-utils 570.86.16-1
 lib32-vulkan-icd-loader 1.4.303-1
 libva-nvidia-driver 0.0.13-1
 libva-utils 2.22.0-1
-linux 6.13.3.arch1-1
+linux 6.13.4.arch1-1
 linux-firmware 20250210.5bc5868b-1
 lsp-plugins 1.2.20-1
 lutris 0.5.18-3
@@ -90,7 +90,7 @@ nexusmods-app-bin 0.7.3-1
 noto-fonts-cjk 20240730-1
 noto-fonts-tc 2:20201206-1
 ntp 4.2.8.p18-2
-nvidia 570.86.16-6
+nvidia 570.86.16-7
 nvidia-settings 570.86.16-1
 nvme-cli 2.11-1
 nvtop 3.1.0-1
@@ -140,7 +140,7 @@ tuxclocker 1.5.1-2
 vdpauinfo 1.5-2
 vim 9.1.1120-1
 virtualbox 7.1.6-2
-virtualbox-host-modules-arch 7.1.6-8
+virtualbox-host-modules-arch 7.1.6-9
 visual-studio-code-bin 1.97.2-1
 vlc 3.0.21-13
 whois 5.5.23-1
