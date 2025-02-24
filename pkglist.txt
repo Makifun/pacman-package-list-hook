@@ -103,6 +103,7 @@ openssh 9.9p2-1
 partitionmanager 24.12.2-1
 pinta 2.1.2-2
 pipewire-alsa 1:1.2.7-1
+pkgstats 3.3.1-1
 plasma-browser-integration 6.3.1-1
 plasma-desktop 6.3.1.1-1
 plasma-firewall 6.3.1-1
