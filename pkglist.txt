@@ -132,7 +132,7 @@ spotify 1:1.2.50.335-1
 sshfs 3.7.3-2
 steam 1.0.0.82-1
 sudo 1.9.16.p2-2
-teamviewer 15.61.3-1
+teamviewer 15.62.4-1
 terraform 1.10.5-1
 ttf-firacode-nerd 3.3.0-1
 ttf-meslo-nerd-font-powerlevel10k 2.3.3-1
