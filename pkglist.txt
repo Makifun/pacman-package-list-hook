@@ -18,7 +18,7 @@ brave-bin 1:1.75.180-1
 breeze-gtk 6.3.1-1
 calf 0.90.4-1
 copyq 9.1.0-1
-discord 0.0.86-1
+discord 0.0.87-1
 dnsproxy 0.75.0-1
 dolphin 24.12.2-1
 easyeffects 7.2.3-2
@@ -29,14 +29,14 @@ fastfetch 2.37.0-1
 ffmpegthumbs 24.12.2-1
 firefox 135.0.1-1
 flatpak 1:1.16.0-1
-fzf 0.60.0-1
+fzf 0.60.2-1
 gamemode 1.8.2-1
 git 2.48.1-2
 godot 4.3-6
 goverlay 1.2-2
 gparted 1.7.0-1
-grub 2:2.12-3
-gsmartcontrol 1.1.4-1
+grub 2:2.12.r212.g4dc616657-2
+gsmartcontrol 2.0.1-1
 gst-plugin-pipewire 1:1.2.7-1
 gst-plugins-bad 1.24.12-3
 gwe 0.15.9-1
@@ -69,7 +69,7 @@ libva-utils 2.22.0-1
 linux 6.13.4.arch1-1
 linux-firmware 20250210.5bc5868b-1
 lsp-plugins 1.2.20-1
-lutris 0.5.18-3
+lutris 0.5.19-1
 lvm2 2.03.30-1
 makepkg-git-lfs-proto 1-1
 man-db 2.13.0-1
