@@ -64,6 +64,8 @@ lib32-gamemode 1.8.2-1
 lib32-mangohud 0.8.0-2
 lib32-nvidia-utils 570.86.16-1
 lib32-vulkan-icd-loader 1.4.303-1
+librewolf-bin 135.0.1-1
+librewolf-bin-debug 135.0.1-1
 libva-nvidia-driver 0.0.13-1
 libva-utils 2.22.0-1
 linux 6.13.4.arch1-1
@@ -130,7 +132,6 @@ spacecadetpinball-bin 2.1.0-2
 spectacle 1:6.3.1.2-1
 spotify 1:1.2.50.335-1
 sshfs 3.7.3-2
-startup-notification 0.12-8
 steam 1.0.0.82-1
 sudo 1.9.16.p2-2
 teamviewer 15.62.4-1
