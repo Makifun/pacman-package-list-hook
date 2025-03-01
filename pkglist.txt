@@ -102,6 +102,7 @@ obs-vkcapture-git r317.553fbb1-1
 okular 24.12.2-1
 onefetch 2.23.1-1
 openssh 9.9p2-1
+pacman-contrib 1.11.0-1
 partitionmanager 24.12.2-1
 pinta 2.1.2-2
 pipewire-alsa 1:1.2.7-1
