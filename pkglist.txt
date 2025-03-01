@@ -119,6 +119,11 @@ powerdevil 6.3.1-1
 proton-ge-custom-bin 1:GE_Proton9_25-1
 protontricks 1.12.0-1
 protonup-qt 2.11.1-1
+python-cachecontrol 1:0.14.2-1
+python-docopt 0.6.2-14
+python-feedparser 6.0.11-3
+python-html2text 2024.2.26-2
+python-lockfile 0.12.2-14
 qbittorrent 5.0.4-3
 r2modman 3.1.55-1
 reflector 2023-3
