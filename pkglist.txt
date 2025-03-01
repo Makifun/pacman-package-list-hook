@@ -65,7 +65,6 @@ lib32-mangohud 0.8.0-2
 lib32-nvidia-utils 570.86.16-1
 lib32-vulkan-icd-loader 1.4.303-1
 librewolf-bin 135.0.1-1
-librewolf-bin-debug 135.0.1-1
 libva-nvidia-driver 0.0.13-1
 libva-utils 2.22.0-1
 linux 6.13.4.arch1-1
@@ -102,6 +101,7 @@ obs-vkcapture-git r317.553fbb1-1
 okular 24.12.2-1
 onefetch 2.23.1-1
 openssh 9.9p2-1
+pacman-contrib 1.11.0-1
 partitionmanager 24.12.2-1
 pinta 2.1.2-2
 pipewire-alsa 1:1.2.7-1
