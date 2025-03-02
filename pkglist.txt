@@ -44,7 +44,7 @@ gwe 0.15.9-1
 gwenview 24.12.2-1
 hdparm 9.65-2
 helvum 0.5.1-1
-heroic-games-launcher-bin 2.15.2-1
+heroic-games-launcher-bin 2.16.0-2
 htop 3.3.0-3
 inetutils 2.5-1
 informant 0.6.0-1
