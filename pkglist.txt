@@ -67,7 +67,6 @@ lib32-mangohud 0.8.0-2
 lib32-nvidia-utils 570.124.04-1
 lib32-vulkan-icd-loader 1.4.304.1-1
 librewolf-bin 135.0.1-1
-librewolf-extension-darkreader 4.9.74-1
 libva-nvidia-driver 0.0.13-1
 libva-utils 2.22.0-1
 linux 6.13.5.arch1-1
