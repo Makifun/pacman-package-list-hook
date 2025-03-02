@@ -34,7 +34,7 @@ fzf 0.60.2-1
 gamemode 1.8.2-1
 git 2.48.1-2
 godot 4.3-6
-goverlay 1.2-2
+goverlay 1.3-1
 gparted 1.7.0-1
 grub 2:2.12.r226.g56ccc5ed-1
 gsmartcontrol 2.0.2-1
@@ -73,7 +73,7 @@ linux 6.13.5.arch1-1
 linux-firmware 20250210.5bc5868b-1
 lsp-plugins 1.2.20-1
 lutris 0.5.19-1
-lvm2 2.03.30-1
+lvm2 2.03.31-1
 makepkg-git-lfs-proto 1-1
 man-db 2.13.0-1
 mangohud 0.8.0-3
@@ -88,7 +88,7 @@ nano 8.3-1
 ncdu 2.7-1
 neofetch 7.1.0-2
 nerd-fonts-sf-mono-ligatures 3.3.0-2
-networkmanager 1.50.3-1
+networkmanager 1.52.0-1
 nexusmods-app-bin 0.7.3-1
 noto-fonts-cjk 20240730-1
 noto-fonts-tc 2:20201206-1
