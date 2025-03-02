@@ -135,6 +135,7 @@ spectacle 1:6.3.2.1-1
 spotify 1:1.2.50.335-1
 sshfs 3.7.3-2
 steam 1.0.0.82-1
+strip-nondeterminism 1.14.1-1
 sudo 1.9.16.p2-2
 teamviewer 15.62.4-1
 terraform 1.11.0-1
