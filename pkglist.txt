@@ -67,6 +67,7 @@ lib32-mangohud 0.8.0-2
 lib32-nvidia-utils 570.124.04-1
 lib32-vulkan-icd-loader 1.4.304.1-1
 librewolf-bin 135.0.1-1
+librewolf-extension-darkreader 4.9.74-1
 libva-nvidia-driver 0.0.13-1
 libva-utils 2.22.0-1
 linux 6.13.5.arch1-1
@@ -135,7 +136,6 @@ spectacle 1:6.3.2.1-1
 spotify 1:1.2.50.335-1
 sshfs 3.7.3-2
 steam 1.0.0.82-1
-strip-nondeterminism 1.14.1-1
 sudo 1.9.16.p2-2
 teamviewer 15.62.4-1
 terraform 1.11.0-1
