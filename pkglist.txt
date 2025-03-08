@@ -116,7 +116,6 @@ plasma-pa 6.3.2-1
 plasma-systemmonitor 6.3.2-1
 playerctl 2.4.1-4
 plocate 1.1.23-1
-ponysay 3.0.3-5
 power-profiles-daemon 0.30-1
 powerdevil 6.3.2-1
 proton-ge-custom-bin 1:GE_Proton9_25-1
@@ -137,6 +136,7 @@ spotify 1:1.2.50.335-1
 sshfs 3.7.3-2
 steam 1.0.0.82-1
 sudo 1.9.16.p2-2
+systemdgenie 0.99.0-6
 teamviewer 15.63.4-1
 terraform 1.11.1-1
 tldr 3.3.0-2
