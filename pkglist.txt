@@ -34,7 +34,7 @@ fzf 0.60.3-1
 gamemode 1.8.2-1
 git 2.48.1-2
 godot 4.4-1
-goverlay 1.3_1-1
+goverlay 1.3_2-1
 gparted 1.7.0-1
 grub 2:2.12.r226.g56ccc5ed-1
 gsmartcontrol 2.0.2-1
@@ -129,7 +129,7 @@ sddm 0.21.0-6
 sddm-astronaut-theme 66.5e39e08-1
 sddm-kcm 6.3.2-1
 sdl2-compat 2.32.52-1
-signal-desktop 7.45.0-1
+signal-desktop 7.45.1-1
 spacecadetpinball-bin 2.1.0-2
 spectacle 1:6.3.2.1-1
 spotify 1:1.2.50.335-1
