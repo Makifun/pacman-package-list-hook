@@ -18,7 +18,6 @@ brave-bin 1:1.76.73-1
 breeze-gtk 6.3.2-1
 calf 0.90.4-1
 copyq 9.1.0-1
-cowsay 3.8.4-1
 desktop-patcher-hook v1.0.0.r25.g276de29-1
 discord 0.0.87-1
 dnsproxy 0.75.0-1
