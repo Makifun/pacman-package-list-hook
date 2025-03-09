@@ -39,7 +39,7 @@ gparted 1.7.0-1
 grub 2:2.12.r226.g56ccc5ed-1
 gsmartcontrol 2.0.2-1
 gst-plugin-pipewire 1:1.2.7-1
-gst-plugins-bad 1.24.12-3
+gst-plugins-bad 1.24.12-4
 gwe 0.15.9-1
 gwenview 24.12.3-1
 hdparm 9.65-2
@@ -149,7 +149,7 @@ vim 9.1.1165-1
 virtualbox 7.1.6-2
 virtualbox-host-modules-arch 7.1.6-10
 visual-studio-code-bin 1.98.0-1
-vlc 3.0.21-13
+vlc 3.0.21-14
 whois 5.5.23-1
 xdg-desktop-portal-kde 6.3.2-1
 xmousepasteblock 1.4-3
