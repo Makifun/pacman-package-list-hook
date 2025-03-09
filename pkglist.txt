@@ -119,7 +119,7 @@ plocate 1.1.23-1
 power-profiles-daemon 0.30-1
 powerdevil 6.3.2-1
 proton-ge-custom-bin 1:GE_Proton9_25-1
-protontricks 1.12.0-1
+protontricks 1.12.1-1
 protonup-qt 2.11.1-1
 python-pip 25.0.1-1
 qbittorrent 5.0.4-3
@@ -138,7 +138,7 @@ steam 1.0.0.82-1
 sudo 1.9.16.p2-2
 systemdgenie 0.99.0-6
 teamviewer 15.63.4-1
-terraform 1.11.1-1
+terraform 1.11.1-2
 tldr 3.3.0-2
 ttf-firacode-nerd 3.3.0-1
 ttf-meslo-nerd-font-powerlevel10k 2.3.3-1
