@@ -38,14 +38,14 @@ goverlay 1.3_2-1
 gparted 1.7.0-1
 grub 2:2.12.r226.g56ccc5ed-1
 gsmartcontrol 2.0.2-1
-gst-plugin-pipewire 1:1.2.7-1
+gst-plugin-pipewire 1:1.4.0-2
 gst-plugins-bad 1.24.12-4
 gwe 0.15.9-1
 gwenview 24.12.3-1
 hdparm 9.65-2
 helvum 0.5.1-1
 heroic-games-launcher-bin 2.16.0-2
-htop 3.3.0-3
+htop 3.4.0-1
 inetutils 2.5-1
 informant 0.6.0-1
 jq 1.7.1-2
@@ -69,7 +69,7 @@ lib32-vulkan-icd-loader 1.4.304.1-1
 librewolf-bin 1:136.0.0_2-1
 libva-nvidia-driver 0.0.13-1
 libva-utils 2.22.0-1
-linux 6.13.5.arch1-1
+linux 6.13.6.arch1-1
 linux-firmware 20250210.5bc5868b-1
 lsp-plugins 1.2.21-1
 lutris 0.5.19-1
@@ -93,7 +93,7 @@ nexusmods-app-bin 0.7.3-1
 noto-fonts-cjk 20240730-1
 noto-fonts-tc 2:20201206-1
 ntp 4.2.8.p18-2
-nvidia 570.124.04-2
+nvidia 570.124.04-3
 nvidia-settings 570.124.04-1
 nvme-cli 2.11-1
 nvtop 3.1.0-1
@@ -106,7 +106,7 @@ openssh 9.9p2-1
 paccache-hook 1.2.0-1
 partitionmanager 24.12.3-1
 pinta 2.1.2-2
-pipewire-alsa 1:1.2.7-1
+pipewire-alsa 1:1.4.0-2
 pkgstats 3.3.1-1
 plasma-browser-integration 6.3.2-1
 plasma-desktop 6.3.2-1
@@ -147,7 +147,7 @@ tuxclocker 1.5.1-2
 vdpauinfo 1.5-2
 vim 9.1.1165-1
 virtualbox 7.1.6-2
-virtualbox-host-modules-arch 7.1.6-10
+virtualbox-host-modules-arch 7.1.6-11
 visual-studio-code-bin 1.98.0-1
 vlc 3.0.21-14
 whois 5.5.23-1
