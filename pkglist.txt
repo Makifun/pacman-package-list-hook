@@ -19,7 +19,7 @@ breeze-gtk 6.3.2-1
 calf 0.90.4-1
 copyq 9.1.0-1
 desktop-patcher-hook v1.0.0.r25.g276de29-1
-discord 0.0.87-1
+discord 0.0.88-1
 dnsproxy 0.75.0-1
 dolphin 24.12.3-1
 easyeffects 7.2.3-2
@@ -44,7 +44,7 @@ gwe 0.15.9-1
 gwenview 24.12.3-1
 hdparm 9.65-2
 helvum 0.5.1-1
-heroic-games-launcher-bin 2.16.0-2
+heroic-games-launcher-bin 2.16.1-1
 htop 3.4.0-1
 inetutils 2.5-1
 informant 0.6.0-1
@@ -148,7 +148,7 @@ vdpauinfo 1.5-2
 vim 9.1.1165-1
 virtualbox 7.1.6-2
 virtualbox-host-modules-arch 7.1.6-11
-visual-studio-code-bin 1.98.0-1
+visual-studio-code-bin 1.98.1-1
 vlc 3.0.21-14
 whois 5.5.23-1
 xdg-desktop-portal-kde 6.3.2-1
