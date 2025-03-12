@@ -40,7 +40,6 @@ grub 2:2.12.r226.g56ccc5ed-1
 gsmartcontrol 2.0.2-1
 gst-plugin-pipewire 1:1.4.0-2
 gst-plugins-bad 1.24.12-4
-gwe 0.15.9-1
 gwenview 24.12.3-1
 hdparm 9.65-2
 helvum 0.5.1-1
@@ -64,10 +63,9 @@ kwalletmanager 24.12.3-1
 ldns 1.8.4-1
 lib32-gamemode 1.8.2-1
 lib32-mangohud 0.8.1-1
-lib32-nvidia-utils 570.124.04-1
 lib32-vulkan-icd-loader 1.4.304.1-1
+lib32-vulkan-radeon 1:24.3.4-1
 librewolf-bin 1:136.0.0_2-1
-libva-nvidia-driver 0.0.13-1
 libva-utils 2.22.0-1
 linux 6.13.6.arch1-1
 linux-firmware 20250311.b69d4b74-2
@@ -93,8 +91,6 @@ nexusmods-app-bin 0.7.3-1
 noto-fonts-cjk 20240730-1
 noto-fonts-tc 2:20201206-1
 ntp 4.2.8.p18-2
-nvidia 570.124.04-3
-nvidia-settings 570.124.04-1
 nvme-cli 2.11-1
 nvtop 3.1.0-1
 obs-plugin-input-overlay 5.0.6-1
@@ -150,6 +146,7 @@ virtualbox 7.1.6-2
 virtualbox-host-modules-arch 7.1.6-11
 visual-studio-code-bin 1.98.1-1
 vlc 3.0.21-14
+vulkan-radeon 1:24.3.4-1
 whois 5.5.23-1
 xdg-desktop-portal-kde 6.3.3-1
 xmousepasteblock 1.4-3
