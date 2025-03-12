@@ -147,6 +147,7 @@ virtualbox-host-modules-arch 7.1.6-11
 visual-studio-code-bin 1.98.1-1
 vlc 3.0.21-14
 vulkan-radeon 1:24.3.4-1
+vulkan-tools 1.4.304.1-1
 whois 5.5.23-1
 xdg-desktop-portal-kde 6.3.3-1
 xmousepasteblock 1.4-3
