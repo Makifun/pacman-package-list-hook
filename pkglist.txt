@@ -64,7 +64,7 @@ ldns 1.8.4-1
 lib32-gamemode 1.8.2-1
 lib32-mangohud 0.8.1-1
 lib32-vulkan-icd-loader 1.4.304.1-1
-lib32-vulkan-radeon 1:24.3.4-1
+lib32-vulkan-radeon 1:25.0.1-2
 librewolf-bin 1:136.0.0_2-1
 libva-utils 2.22.0-1
 linux 6.13.6.arch1-1
@@ -146,7 +146,7 @@ virtualbox 7.1.6-2
 virtualbox-host-modules-arch 7.1.6-11
 visual-studio-code-bin 1.98.1-1
 vlc 3.0.21-14
-vulkan-radeon 1:24.3.4-1
+vulkan-radeon 1:25.0.1-2
 vulkan-tools 1.4.304.1-1
 whois 5.5.23-1
 xdg-desktop-portal-kde 6.3.3-1
