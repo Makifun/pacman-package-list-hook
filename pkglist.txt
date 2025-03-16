@@ -35,7 +35,7 @@ gamemode 1.8.2-1
 gamescope 3.16.2-1
 git 2.49.0-1
 godot 4.4-1
-goverlay 1.3_2-1
+goverlay 1.3_3-1
 gparted 1.7.0-1
 grub 2:2.12.r226.g56ccc5ed-1
 gsmartcontrol 2.0.2-1
@@ -68,7 +68,7 @@ lib32-vulkan-icd-loader 1.4.304.1-1
 lib32-vulkan-radeon 1:25.0.1-2
 librewolf-bin 1:136.0.1_1-1
 libva-utils 2.22.0-1
-linux 6.13.6.arch1-1
+linux 6.13.7.arch1-1
 linux-firmware 20250311.b69d4b74-2
 lsp-plugins 1.2.21-1
 lutris 0.5.19-1
@@ -104,7 +104,7 @@ paccache-hook 1.2.0-1
 partitionmanager 24.12.3-1
 pinta 2.1.2-2
 pipewire-alsa 1:1.4.1-1
-pkgstats 3.3.1-1
+pkgstats 3.3.2-1
 plasma-browser-integration 6.3.3-1
 plasma-desktop 6.3.3-1
 plasma-firewall 6.3.3-1
@@ -147,7 +147,7 @@ vim 9.1.1198-1
 virtualbox 7.1.6-2
 virtualbox-host-modules-arch 7.1.6-12
 visual-studio-code-bin 1.98.2-1
-vlc 3.0.21-14
+vlc 3.0.21-15
 vulkan-radeon 1:25.0.1-2
 vulkan-tools 1.4.304.1-1
 whois 5.5.23-1
