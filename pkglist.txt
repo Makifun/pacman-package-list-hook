@@ -14,7 +14,7 @@ bat 0.25.0-4
 bat-extras 2024.08.24-1
 bitwarden 2025.2.1-1
 bluedevil 1:6.3.3-1
-brave-bin 1:1.76.74-1
+brave-bin 1:1.76.80-1
 breeze-gtk 6.3.3-1
 calf 0.90.4-1
 copyq 9.1.0-1
@@ -26,7 +26,7 @@ easyeffects 7.2.3-2
 efibootmgr 18-3
 electron24-bin 24.8.8-4
 eza 0.20.24-1
-fastfetch 2.38.0-1
+fastfetch 2.39.1-1
 ffmpegthumbs 24.12.3-1
 firefox 136.0.2-1
 flatpak 1:1.16.0-1
@@ -65,7 +65,7 @@ ldns 1.8.4-1
 lib32-gamemode 1.8.2-1
 lib32-mangohud 0.8.1-1
 lib32-vulkan-icd-loader 1.4.304.1-1
-lib32-vulkan-radeon 1:25.0.1-2
+lib32-vulkan-radeon 1:25.0.2-1
 librewolf-bin 1:136.0.2_1-1
 libva-utils 2.22.0-1
 linux 6.13.7.arch1-1
@@ -88,7 +88,7 @@ ncdu 2.7-1
 neofetch 7.1.0-2
 nerd-fonts-sf-mono-ligatures 3.3.0-2
 networkmanager 1.52.0-1
-nexusmods-app-bin 0.7.3-1
+nexusmods-app-bin 0.8.2-1
 noto-fonts-cjk 20240730-1
 noto-fonts-tc 2:20201206-1
 ntp 4.2.8.p18-2
@@ -127,7 +127,7 @@ sddm 0.21.0-6
 sddm-astronaut-theme 66.5e39e08-1
 sddm-kcm 6.3.3-1
 sdl2-compat 2.32.52-1
-signal-desktop 7.46.1-1
+signal-desktop 7.47.0-1
 spacecadetpinball-bin 2.1.0-2
 spectacle 1:6.3.3-1
 spotify 1:1.2.50.335-1
@@ -149,7 +149,7 @@ virtualbox 7.1.6-2
 virtualbox-host-modules-arch 7.1.6-12
 visual-studio-code-bin 1.98.2-1
 vlc 3.0.21-15
-vulkan-radeon 1:25.0.1-2
+vulkan-radeon 1:25.0.2-1
 vulkan-tools 1.4.304.1-1
 whois 5.5.23-1
 xdg-desktop-portal-kde 6.3.3-1
