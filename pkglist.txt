@@ -19,7 +19,7 @@ breeze-gtk 6.3.3-1
 calf 0.90.4-1
 copyq 9.1.0-1
 desktop-patcher-hook v1.0.0.r25.g276de29-1
-discord 0.0.88-1
+discord 0.0.88-2
 dnsproxy 0.75.2-1
 dolphin 24.12.3-1
 easyeffects 7.2.3-2
@@ -55,7 +55,7 @@ kdeconnect 24.12.3-1
 kdenlive 24.12.3-1
 kdeplasma-addons 6.3.3-1
 kdiskmark 3.1.4-1
-kitty 0.40.0-1
+kitty 0.40.1-1
 klassy 6.2.breeze6.2.1-5
 konsole 24.12.3-1
 kscreen 6.3.3-1
@@ -64,7 +64,7 @@ kwalletmanager 24.12.3-1
 ldns 1.8.4-1
 lib32-gamemode 1.8.2-1
 lib32-mangohud 0.8.1-1
-lib32-vulkan-icd-loader 1.4.304.1-1
+lib32-vulkan-icd-loader 1.4.309.0-1
 lib32-vulkan-radeon 1:25.0.2-1
 librewolf-bin 1:136.0.2_1-1
 libva-utils 2.22.0-1
@@ -81,7 +81,7 @@ mediainfo 24.12-1
 mediainfo-gui 24.12-1
 mesa-utils 9.0.0-5
 meson 1.7.0-1
-microsoft-edge-stable-bin 134.0.3124.68-1
+microsoft-edge-stable-bin 134.0.3124.83-1
 mkinitcpio-firmware 1.4.0-1
 nano 8.3-1
 ncdu 2.7-1
@@ -143,14 +143,15 @@ ttf-firacode-nerd 3.3.0-1
 ttf-meslo-nerd-font-powerlevel10k 2.3.3-1
 ttf-tw 2:5.0-3
 tuxclocker 1.5.1-2
+unrar 1:7.1.5-1
 vdpauinfo 1.5-2
 vim 9.1.1198-1
 virtualbox 7.1.6-2
 virtualbox-host-modules-arch 7.1.6-12
 visual-studio-code-bin 1.98.2-1
-vlc 3.0.21-15
+vlc 3.0.21-16
 vulkan-radeon 1:25.0.2-1
-vulkan-tools 1.4.304.1-1
+vulkan-tools 1.4.309.0-1
 whois 5.5.23-1
 xdg-desktop-portal-kde 6.3.3-1
 xmousepasteblock 1.4-3
