@@ -83,6 +83,7 @@ mesa-utils 9.0.0-5
 meson 1.7.0-1
 microsoft-edge-stable-bin 134.0.3124.95-1
 mkinitcpio-firmware 1.4.0-1
+mupen64plus 2.6.0-1
 nano 8.3-1
 ncdu 2.7-1
 neofetch 7.1.0-2
