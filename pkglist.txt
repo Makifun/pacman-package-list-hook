@@ -37,7 +37,7 @@ git 2.49.0-1
 godot 4.4.1-1
 goverlay 1.3_3-1
 gparted 1.7.0-1
-grub 2:2.12.r226.g56ccc5ed-2
+grub 2:2.12.r260.gaae2ea61-1
 gsmartcontrol 2.0.2-1
 gst-plugin-pipewire 1:1.4.1-1
 gst-plugins-bad 1.26.0-2
@@ -94,7 +94,7 @@ noto-fonts-cjk 20240730-1
 noto-fonts-tc 2:20201206-1
 ntp 4.2.8.p18-2
 nvme-cli 2.12-1
-nvtop 3.1.0-1
+nvtop 3.2.0-1
 obs-plugin-input-overlay 5.0.6-2
 obs-studio 31.0.3-1
 obs-vkcapture-git r317.553fbb1-1
