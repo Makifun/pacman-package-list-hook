@@ -19,7 +19,7 @@ breeze-gtk 6.3.3-1
 calf 0.90.6-1
 copyq 9.1.0-1
 desktop-patcher-hook v1.0.0.r25.g276de29-1
-discord 0.0.89-1
+discord_arch_electron 0.0.90-1
 dnsproxy 0.75.2-1
 dolphin 24.12.3-1
 easyeffects 7.2.3-2
@@ -28,7 +28,7 @@ electron24-bin 24.8.8-4
 eza 0.20.24-1
 fastfetch 2.39.1-1
 ffmpegthumbs 24.12.3-1
-firefox 136.0.4-1
+firefox 137.0-1
 flatpak 1:1.16.0-2
 fzf 0.60.3-1
 gamemode 1.8.2-1
@@ -127,14 +127,14 @@ rsync 3.4.1-2
 sddm 0.21.0-6
 sddm-astronaut-theme 66.5e39e08-1
 sddm-kcm 6.3.3-1
-sdl2-compat 2.32.52-1
+sdl2-compat 2.32.54-1
 signal-desktop 7.48.0-1
 spacecadetpinball-bin 2.1.0-2
 spectacle 1:6.3.3-1
 spotify 1:1.2.50.335-1
 sqlitebrowser 3.13.1-1
 sshfs 3.7.3-3
-steam 1.0.0.82-1
+steam 1.0.0.82-2
 steamtinkerlaunch 12.12-1
 sudo 1.9.16.p2-2
 systemdgenie 0.99.0-6
@@ -160,7 +160,7 @@ xmousepasteblock 1.4-3
 xwaylandvideobridge 0.4.0-2
 yay 12.4.2-1
 yay-debug 12.4.2-1
-yt-dlp 2025.03.27-1
+yt-dlp 2025.03.31-1
 zam-plugins-lv2 4.3-1
 zsh 5.9-5
 zsh-autosuggestions 0.7.1-1
