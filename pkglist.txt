@@ -26,7 +26,7 @@ easyeffects 7.2.3-2
 efibootmgr 18-3
 electron24-bin 24.8.8-4
 eza 0.21.0-1
-fastfetch 2.40.2-1
+fastfetch 2.40.3-1
 ffmpegthumbs 24.12.3-1
 firefox 137.0-1
 flatpak 1:1.16.0-2
@@ -139,7 +139,7 @@ steam 1.0.0.82-1
 steamtinkerlaunch 12.12-1
 sudo 1.9.16.p2-2
 systemdgenie 0.99.0-6
-teamviewer 15.63.4-1
+teamviewer 15.64.3-1
 terraform 1.11.3-1
 tldr 3.3.0-2
 ttf-firacode-nerd 3.3.0-1
