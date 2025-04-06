@@ -32,7 +32,7 @@ firefox 137.0-1
 flatpak 1:1.16.0-2
 fzf 0.60.3-1
 gamemode 1.8.2-1
-gamescope 3.16.2-1
+gamescope 3.16.3-1
 git 2.49.0-1
 godot 4.4.1-1
 goverlay 1.3_3-1
@@ -66,7 +66,7 @@ lib32-gamemode 1.8.2-1
 lib32-mangohud 0.8.1-1
 lib32-vulkan-icd-loader 1.4.309.0-1
 lib32-vulkan-radeon 1:25.0.3-1
-librewolf-bin 1:136.0.4_1-1
+librewolf-bin 1:137.0.0_3-1
 libva-utils 2.22.0-1
 linux 6.14.arch1-1
 linux-firmware 20250311.b69d4b74-3
