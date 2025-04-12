@@ -19,7 +19,7 @@ breeze-gtk 6.3.4-1
 calf 0.90.6-1
 copyq 10.0.0-1
 desktop-patcher-hook v1.0.0.r25.g276de29-1
-discord_arch_electron 0.0.90-1
+discord 0.0.90-1
 dnsproxy 0.75.2-1
 dolphin 24.12.3-1
 easyeffects 7.2.3-2
@@ -39,7 +39,7 @@ goverlay 1.3_3-1
 gparted 1.7.0-1
 grub 2:2.12.r260.gaae2ea61-1
 gsmartcontrol 2.0.2-1
-gst-plugin-pipewire 1:1.4.1-1
+gst-plugin-pipewire 1:1.4.1-2
 gst-plugins-bad 1.26.0-3
 gwenview 24.12.3-1
 hdparm 9.65-2
@@ -103,8 +103,8 @@ onefetch 2.23.1-1
 openssh 10.0p1-3
 paccache-hook 1.2.0-1
 partitionmanager 24.12.3-1
-pinta 2.1.2-2
-pipewire-alsa 1:1.4.1-1
+pinta 3.0-1
+pipewire-alsa 1:1.4.1-2
 pkgstats 3.3.2-1
 plasma-browser-integration 6.3.4-1
 plasma-desktop 6.3.4-1
