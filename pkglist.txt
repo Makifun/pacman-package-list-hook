@@ -32,7 +32,7 @@ firefox 137.0.1-1
 flatpak 1:1.16.0-2
 fzf 0.60.3-1
 gamemode 1.8.2-1
-gamescope 3.16.3-1
+gamescope 3.16.2-1
 git 2.49.0-1
 godot 4.4.1-1
 goverlay 1.3_3-1
@@ -99,7 +99,7 @@ obs-plugin-input-overlay 5.0.6-2
 obs-studio 31.0.3-1
 obs-vkcapture-git r317.553fbb1-1
 okular 24.12.3-1
-onefetch 2.23.1-1
+onefetch 2.24.0-1
 openssh 10.0p1-3
 paccache-hook 1.2.0-1
 partitionmanager 24.12.3-1
