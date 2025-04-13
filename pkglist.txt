@@ -14,12 +14,13 @@ bat 0.25.0-4
 bat-extras 2024.08.24-1
 bitwarden 2025.2.1-1
 bluedevil 1:6.3.4-1
+bottles 2:51.21-2
 brave-bin 1:1.77.97-1
 breeze-gtk 6.3.4-1
 calf 0.90.6-1
 copyq 10.0.0-1
 desktop-patcher-hook v1.0.0.r25.g276de29-1
-discord 0.0.90-1
+discord_arch_electron 0.0.90-1
 dnsproxy 0.75.2-1
 dolphin 24.12.3-1
 easyeffects 7.2.3-2
@@ -42,6 +43,7 @@ gsmartcontrol 2.0.2-1
 gst-plugin-pipewire 1:1.4.1-2
 gst-plugins-bad 1.26.0-3
 gwenview 24.12.3-1
+handbrake 1.9.2-1
 hdparm 9.65-2
 helvum 0.5.1-1
 heroic-games-launcher-bin 2.16.1-1
