@@ -40,7 +40,7 @@ goverlay 1.3_3-1
 gparted 1.7.0-1
 grub 2:2.12.r260.gaae2ea61-1
 gsmartcontrol 2.0.2-1
-gst-plugin-pipewire 1:1.4.1-2
+gst-plugin-pipewire 1:1.4.2-1
 gst-plugins-bad 1.26.0-3
 gwenview 24.12.3-1
 handbrake 1.9.2-1
@@ -106,7 +106,7 @@ openssh 10.0p1-3
 paccache-hook 1.2.0-1
 partitionmanager 24.12.3-1
 pinta 3.0-1
-pipewire-alsa 1:1.4.1-2
+pipewire-alsa 1:1.4.2-1
 pkgstats 3.3.2-1
 plasma-browser-integration 6.3.4-1
 plasma-desktop 6.3.4-1
@@ -129,7 +129,7 @@ rsync 3.4.1-2
 sddm 0.21.0-6
 sddm-astronaut-theme 66.5e39e08-1
 sddm-kcm 6.3.4-1
-sdl2-compat 2.32.54-1
+sdl2-compat 2.32.54-2
 shotcut 25.03.29-1
 signal-desktop 7.50.0-1
 spacecadetpinball-bin 2.1.0-2
