@@ -1,6 +1,6 @@
 adobe-source-han-sans-otc-fonts 2.004-2
 adobe-source-han-serif-otc-fonts 2.003-1
-alsa-utils 1.2.13-2
+alsa-utils 1.2.14-1
 amd-ucode 20250408.c1a774f3-1
 ansible 11.4.0-2
 ansible-lint 25.2.1-1
@@ -20,7 +20,7 @@ breeze-gtk 6.3.4-1
 calf 0.90.6-1
 copyq 10.0.0-1
 desktop-patcher-hook v1.0.0.r25.g276de29-1
-discord_arch_electron 0.0.90-1
+discord_arch_electron 1:0.0.89-1
 dnsproxy 0.75.2-1
 dolphin 24.12.3-1
 easyeffects 7.2.3-2
@@ -29,7 +29,7 @@ electron24-bin 24.8.8-4
 eza 0.21.0-1
 fastfetch 2.40.4-1
 ffmpegthumbs 24.12.3-1
-firefox 137.0.1-1
+firefox 137.0.2-1
 flatpak 1:1.16.0-2
 fzf 0.60.3-1
 gamemode 1.8.2-1
@@ -48,7 +48,7 @@ hdparm 9.65-2
 helvum 0.5.1-1
 heroic-games-launcher-bin 2.16.1-1
 htop 3.4.1-1
-inetutils 2.5-1
+inetutils 2.6-1
 informant 0.6.0-1
 jq 1.7.1-2
 kate 24.12.3-1
@@ -151,8 +151,8 @@ tuxclocker 1.5.1-2
 unrar 1:7.1.6-1
 vdpauinfo 1.5-2
 vim 9.1.1236-1
-virtualbox 7.1.6-2
-virtualbox-host-modules-arch 7.1.6-16
+virtualbox 7.1.8-1
+virtualbox-host-modules-arch 7.1.8-1
 visual-studio-code-bin 1.99.2-1
 vlc 3.0.21-16
 vulkan-radeon 1:25.0.3-1
