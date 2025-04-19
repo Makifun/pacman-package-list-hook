@@ -26,7 +26,7 @@ dolphin 24.12.3-1
 easyeffects 7.2.3-2
 efibootmgr 18-3
 electron24-bin 24.8.8-4
-eza 0.21.0-1
+eza 0.21.1-1
 fastfetch 2.41.0-1
 ffmpegthumbs 24.12.3-1
 firefox 137.0.2-1
