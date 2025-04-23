@@ -15,12 +15,12 @@ bat-extras 2024.08.24-1
 bitwarden 2025.2.1-1
 bluedevil 1:6.3.4-1
 bottles 2:51.21-2
-brave-bin 1:1.77.100-1
+brave-bin 1:1.77.101-1
 breeze-gtk 6.3.4-1
 calf 0.90.6-1
 copyq 10.0.0-1
 desktop-patcher-hook v1.0.0.r25.g276de29-1
-discord_arch_electron 1:0.0.91-1
+discord_arch_electron 1:0.0.92-1
 dnsproxy 0.75.3-1
 dolphin 25.04.0-1
 easyeffects 7.2.3-2
@@ -132,7 +132,7 @@ sddm-astronaut-theme 66.5e39e08-1
 sddm-kcm 6.3.4-1
 sdl2-compat 2.32.54-2
 shotcut 25.03.29-1
-signal-desktop 7.51.0-1
+signal-desktop 7.52.0-1
 spacecadetpinball-bin 2.1.0-2
 spectacle 1:6.3.4-1
 spotify 1:1.2.50.335-1
@@ -151,7 +151,7 @@ ttf-tw 2:5.0-3
 tuxclocker 1.5.1-2
 unrar 1:7.1.6-1
 vdpauinfo 1.5-2
-vim 9.1.1236-3
+vim 9.1.1337-1
 virtualbox 7.1.8-1
 virtualbox-host-modules-arch 7.1.8-2
 visual-studio-code-bin 1.99.3-1
