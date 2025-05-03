@@ -14,7 +14,7 @@ bat 0.25.0-4
 bat-extras 2024.08.24-1
 bitwarden 2025.2.1-1
 bluedevil 1:6.3.4-1
-bottles 2:51.21-2
+bottles 2:51.21-3
 brave-bin 1:1.78.94-1
 breeze-gtk 6.3.4-1
 calf 0.90.6-1
@@ -26,7 +26,7 @@ dolphin 25.04.0-2
 easyeffects 7.2.3-2
 efibootmgr 18-3
 electron24-bin 24.8.8-4
-eza 0.21.2-1
+eza 0.21.3-1
 fastfetch 2.42.0-3
 ffmpegthumbs 25.04.0-1
 firefox 138.0.1-1
@@ -71,7 +71,7 @@ lib32-gamemode 1.8.2-1
 lib32-mangohud 0.8.1-1
 lib32-vulkan-icd-loader 1.4.309.0-1
 lib32-vulkan-radeon 1:25.0.5-1
-librewolf-bin 1:137.0.2_1-1
+librewolf-bin 1:138.0.1_1-1
 libva-utils 2.22.0-1
 linux 6.14.4.arch1-2
 linux-firmware 20250408.c1a774f3-1
@@ -82,8 +82,8 @@ makepkg-git-lfs-proto 1-1
 man-db 2.13.0-1
 mangohud 0.8.1-1
 mda.lv2 1.2.10-2
-mediainfo 25.03-1
-mediainfo-gui 25.03-1
+mediainfo 25.04-1
+mediainfo-gui 25.04-1
 mesa-utils 9.0.0-5
 meson 1.8.0-1
 microsoft-edge-stable-bin 136.0.3240.50-1
@@ -94,7 +94,7 @@ ncdu 2.7-1
 neofetch 7.1.0-2
 nerd-fonts-sf-mono-ligatures 3.3.0-2
 networkmanager 1.52.0-1
-nexusmods-app-bin 0.9.2-1
+nexusmods-app-bin 0.10.2-1
 nmap 7.95-1
 noto-fonts-cjk 20240730-1
 noto-fonts-tc 2:20201206-1
@@ -128,7 +128,7 @@ proton-ge-custom-bin 1:GE_Proton9_27-1
 protontricks 1.12.1-1
 protonup-qt 2.12.0-1
 pwgen 2.08-3
-python-pip 25.1-1
+python-pip 25.1.1-1
 qbittorrent 5.1.0-1
 reflector 2023-3
 rsync 3.4.1-2
