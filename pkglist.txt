@@ -21,7 +21,7 @@ calf 0.90.6-1
 copyq 10.0.0-1
 desktop-patcher-hook v1.0.0.r25.g276de29-1
 discord_arch_electron 1:0.0.93-1
-dnsproxy 0.75.3-1
+dnsproxy 0.75.3-2
 dolphin 25.04.0-2
 easyeffects 7.2.3-2
 efibootmgr 18-3
@@ -73,13 +73,13 @@ lib32-vulkan-icd-loader 1.4.309.0-1
 lib32-vulkan-radeon 1:25.0.5-1
 librewolf-bin 1:138.0.1_1-1
 libva-utils 2.22.0-1
-linux 6.14.4.arch1-2
+linux 6.14.5.arch1-1
 linux-firmware 20250408.c1a774f3-1
 lsp-plugins 1.2.21-1
 lutris 0.5.19-2
 lvm2 2.03.31-1
 makepkg-git-lfs-proto 1-1
-man-db 2.13.0-1
+man-db 2.13.1-1
 mangohud 0.8.1-1
 mda.lv2 1.2.10-2
 mediainfo 25.04-1
@@ -156,9 +156,9 @@ ttf-tw 2:5.0-3
 tuxclocker 1.5.1-2
 unrar 1:7.1.6-1
 vdpauinfo 1.5-2
-vim 9.1.1337-1
+vim 9.1.1362-1
 virtualbox 7.1.8-2
-virtualbox-host-modules-arch 7.1.8-4
+virtualbox-host-modules-arch 7.1.8-5
 visual-studio-code-bin 1.99.3-1
 vlc 3.0.21-19
 vulkan-radeon 1:25.0.5-1
