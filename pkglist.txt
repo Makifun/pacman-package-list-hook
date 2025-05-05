@@ -98,7 +98,7 @@ nexusmods-app-bin 0.10.2-1
 nmap 7.95-1
 noto-fonts-cjk 20240730-1
 noto-fonts-tc 2:20201206-1
-ntp 4.2.8.p18-2
+ntp 4.2.8.p18-3
 nvme-cli 2.13-1
 nvtop 3.2.0-1
 obs-plugin-input-overlay 5.0.6-2
@@ -135,7 +135,7 @@ rsync 3.4.1-2
 sddm 0.21.0-6
 sddm-astronaut-theme 66.5e39e08-1
 sddm-kcm 6.3.4-1
-sdl2-compat 2.32.54-2
+sdl2-compat 2.32.56-1
 shotcut 25.03.29-1
 signal-desktop 7.53.0-1
 spacecadetpinball-bin 2.1.0-2
