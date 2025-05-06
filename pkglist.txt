@@ -20,7 +20,7 @@ breeze-gtk 6.3.4-1
 calf 0.90.6-1
 copyq 10.0.0-1
 desktop-patcher-hook v1.0.0.r25.g276de29-1
-discord_arch_electron 1:0.0.93-1
+discord_arch_electron 1:0.0.94-1
 dnsproxy 0.75.3-2
 dolphin 25.04.0-2
 easyeffects 7.2.3-2
@@ -77,7 +77,7 @@ linux 6.14.5.arch1-1
 linux-firmware 20250408.c1a774f3-1
 lsp-plugins 1.2.21-1
 lutris 0.5.19-2
-lvm2 2.03.31-1
+lvm2 2.03.32-1
 makepkg-git-lfs-proto 1-1
 man-db 2.13.1-1
 mangohud 0.8.1-1
