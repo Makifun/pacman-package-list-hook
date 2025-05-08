@@ -15,13 +15,13 @@ bat-extras 2024.08.24-1
 bitwarden 2025.2.1-1
 bluedevil 1:6.3.4-1
 bottles 2:51.21-3
-brave-bin 1:1.78.94-1
+brave-bin 1:1.78.97-1
 breeze-gtk 6.3.4-1
 calf 0.90.6-1
 copyq 10.0.0-1
 desktop-patcher-hook v1.0.0.r25.g276de29-1
 discord_arch_electron 1:0.0.94-1
-dnsproxy 0.75.3-2
+dnsproxy 0.75.4-1
 dolphin 25.04.0-2
 easyeffects 7.2.3-2
 efibootmgr 18-3
@@ -69,7 +69,7 @@ kwalletmanager 25.04.0-1
 ldns 1.8.4-1
 lib32-gamemode 1.8.2-1
 lib32-mangohud 0.8.1-1
-lib32-vulkan-icd-loader 1.4.309.0-1
+lib32-vulkan-icd-loader 1.4.313.0-1
 lib32-vulkan-radeon 1:25.0.5-1
 librewolf-bin 1:138.0.1_2-1
 libva-utils 2.22.0-1
@@ -162,7 +162,7 @@ virtualbox-host-modules-arch 7.1.8-5
 visual-studio-code-bin 1.99.3-1
 vlc 3.0.21-19
 vulkan-radeon 1:25.0.5-1
-vulkan-tools 1.4.309.0-1
+vulkan-tools 1.4.313.0-1
 whois 5.5.23-1
 xdg-desktop-portal-kde 6.3.4-1
 xmousepasteblock 1.4-3
