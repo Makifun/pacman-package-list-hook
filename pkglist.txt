@@ -31,11 +31,11 @@ fastfetch 2.42.0-3
 ffmpegthumbs 25.04.0-1
 firefox 138.0.1-1
 flatpak 1:1.16.0-3
-fzf 0.61.3-1
+fzf 0.62.0-1
 gamemode 1.8.2-1
 gamescope 3.16.4-1
 gdu 5.30.1-1
-git 2.49.0-1
+git 2.49.0-2
 godot 4.4.1-2
 goverlay 1.3_3-1
 gparted 1.7.0-1
@@ -60,7 +60,7 @@ kdeconnect 25.04.0-1
 kdenlive 25.04.0-1
 kdeplasma-addons 6.3.5-1
 kdiskmark 3.1.4-2
-kitty 0.41.1-1
+kitty 0.42.0-1
 klassy 6.3.breeze6.3.5-1
 konsole 25.04.0-1
 kscreen 6.3.5-1
@@ -76,7 +76,7 @@ libva-utils 2.22.0-1
 linux 6.14.6.arch1-1
 linux-firmware 20250508.788aadc8-1
 lsp-plugins 1.2.21-1
-lutris 0.5.19-2
+lutris 0.5.19-4
 lvm2 2.03.32-1
 makepkg-git-lfs-proto 1-1
 man-db 2.13.1-1
