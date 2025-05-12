@@ -30,7 +30,7 @@ eza 0.21.3-1
 fastfetch 2.42.0-3
 ffmpegthumbs 25.04.0-1
 firefox 138.0.1-1
-flatpak 1:1.16.0-3
+flatpak 1:1.16.1-1
 fzf 0.62.0-1
 gamemode 1.8.2-1
 gamescope 3.16.4-1
@@ -76,7 +76,7 @@ libva-utils 2.22.0-1
 linux 6.14.6.arch1-1
 linux-firmware 20250508.788aadc8-1
 lsp-plugins 1.2.21-1
-lutris 0.5.19-4
+lutris 0.5.19-5
 lvm2 2.03.32-1
 makepkg-git-lfs-proto 1-1
 man-db 2.13.1-1
@@ -101,7 +101,7 @@ noto-fonts-tc 2:20201206-1
 ntp 4.2.8.p18-3
 nvme-cli 2.13-1
 nvtop 3.2.0-1
-obs-plugin-input-overlay 5.0.6-2
+obs-plugin-input-overlay 5.1.0-1
 obs-studio 31.0.3-2
 obs-vkcapture-git r317.553fbb1-1
 ocs-url 3.1.0-7
@@ -137,7 +137,7 @@ sddm 0.21.0-6
 sddm-astronaut-theme 66.5e39e08-1
 sddm-kcm 6.3.5-1
 sdl2-compat 2.32.56-1
-shotcut 25.03.29-1
+shotcut 25.05.11-1
 signal-desktop 7.53.0-1
 spacecadetpinball-bin 2.1.0-2
 spectacle 1:6.3.5-1
