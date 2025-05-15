@@ -15,7 +15,7 @@ bat-extras 2024.08.24-1
 bitwarden 2025.4.2-1
 bluedevil 1:6.3.5-1
 bottles 2:51.21-3
-brave-bin 1:1.78.97-1
+brave-bin 1:1.78.102-1
 breeze-gtk 6.3.5-1
 calf 0.90.6-1
 copyq 10.0.0-1
@@ -71,7 +71,7 @@ lib32-gamemode 1.8.2-1
 lib32-mangohud 0.8.1-1
 lib32-vulkan-icd-loader 1.4.313.0-1
 lib32-vulkan-radeon 1:25.1.0-1
-librewolf-bin 1:138.0.1_2-1
+librewolf-bin 1:138.0.3_1-1
 libva-utils 2.22.0-1
 linux 6.14.6.arch1-1
 linux-firmware 20250508.788aadc8-1
@@ -86,7 +86,7 @@ mediainfo 25.04-1
 mediainfo-gui 25.04-1
 mesa-utils 9.0.0-6
 meson 1.8.0-1
-microsoft-edge-stable-bin 136.0.3240.64-1
+microsoft-edge-stable-bin 136.0.3240.76-1
 mkinitcpio-firmware 1.5.0-1
 mpv 1:0.40.0-2
 nano 8.4-1
@@ -125,7 +125,7 @@ plocate 1.1.23-1
 portproton 1.7.1-1
 power-profiles-daemon 0.30-1
 powerdevil 6.3.5-1
-proton-ge-custom-bin 1:GE_Proton10_1-1
+proton-ge-custom-bin 1:GE_Proton10_1-2
 protontricks 1.12.1-1
 protonup-qt 2.12.0-1
 pwgen 2.08-3
