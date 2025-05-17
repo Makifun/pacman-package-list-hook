@@ -20,7 +20,7 @@ breeze-gtk 6.3.5-1
 calf 0.90.6-1
 copyq 10.0.0-1
 desktop-patcher-hook v1.0.0.r25.g276de29-1
-discord_arch_electron 1:0.0.94-1
+discord_arch_electron 1:0.0.94-2
 dnsproxy 0.75.5-1
 dolphin 25.04.1-1
 easyeffects 7.2.3-2
@@ -33,7 +33,7 @@ firefox 138.0.3-1
 flatpak 1:1.16.1-1
 fzf 0.62.0-1
 gamemode 1.8.2-1
-gamescope 3.16.5-1
+gamescope 3.16.9-1
 gdu 5.30.1-1
 git 2.49.0-2
 godot 4.4.1-2
@@ -160,7 +160,7 @@ vdpauinfo 1.5-2
 vim 9.1.1376-1
 virtualbox 7.1.8-2
 virtualbox-host-modules-arch 7.1.8-6
-visual-studio-code-bin 1.100.1-1
+visual-studio-code-bin 1.100.2-1
 vlc 3.0.21-19
 vulkan-radeon 1:25.1.0-1
 vulkan-tools 1.4.313.0-1
