@@ -17,7 +17,7 @@ bluedevil 1:6.3.5-1
 bottles 2:51.21-3
 brave-bin 1:1.78.102-1
 breeze-gtk 6.3.5-1
-calf 0.90.6-1
+calf 0.90.7-1
 copyq 10.0.0-1
 desktop-patcher-hook v1.0.0.r25.g276de29-1
 discord_arch_electron 1:0.0.94-2
@@ -75,7 +75,7 @@ librewolf-bin 1:138.0.3_1-1
 libva-utils 2.22.0-1
 linux 6.14.7.arch1-1
 linux-firmware 20250508.788aadc8-1
-lsp-plugins 1.2.21-1
+lsp-plugins 1.2.22-1
 lutris 0.5.19-5
 lvm2 2.03.32-1
 makepkg-git-lfs-proto 1-1
@@ -125,7 +125,7 @@ plocate 1.1.23-1
 portproton 1.7.1-1
 power-profiles-daemon 0.30-1
 powerdevil 6.3.5-1
-proton-ge-custom-bin 1:GE_Proton10_1-2
+proton-ge-custom-bin 1:GE_Proton10_2-1
 protontricks 1.12.1-1
 protonup-qt 2.12.0-1
 pwgen 2.08-3
@@ -133,6 +133,7 @@ python-pip 25.1.1-1
 qbittorrent 5.1.0-1
 reflector 2023-3
 rsync 3.4.1-2
+s3cmd 2.4.0-4
 sddm 0.21.0-6
 sddm-astronaut-theme 66.5e39e08-1
 sddm-kcm 6.3.5-1
