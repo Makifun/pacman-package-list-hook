@@ -120,6 +120,7 @@ plasma-firewall 6.3.5-1
 plasma-nm 6.3.5-1
 plasma-pa 6.3.5-1
 plasma-systemmonitor 6.3.5-1
+plasma6-applets-wallhaven-reborn-git r86.489449c-1
 playerctl 2.4.1-4
 plocate 1.1.23-1
 portproton 1.7.1-1
