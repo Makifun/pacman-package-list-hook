@@ -171,7 +171,7 @@ vim 9.1.1376-1
 virtualbox 7.1.8-4
 virtualbox-host-modules-arch 7.1.8-8
 visual-studio-code-bin 1.100.2-1
-vlc 3.0.21-19
+vlc 3.0.21-20
 vulkan-radeon 1:25.1.1-1
 vulkan-tools 1.4.313.0-1
 whois 5.5.23-1
