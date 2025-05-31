@@ -28,10 +28,10 @@ dysk 2.10.1-1
 easyeffects 7.2.3-2
 efibootmgr 18-3
 electron24-bin 24.8.8-4
-eza 0.21.3-1
+eza 0.21.4-1
 fastfetch 2.44.0-1
 ffmpegthumbs 25.04.1-1
-firefox 139.0-1
+firefox 139.0.1-1
 flatpak 1:1.16.1-1
 fzf 0.62.0-1
 gamemode 1.8.2-1
@@ -45,7 +45,7 @@ grub 2:2.12.r292.g73d1c959-1
 grub-customizer 5.2.5-2
 gsmartcontrol 2.0.2-1
 gst-plugin-pipewire 1:1.4.4-1
-gst-plugins-bad 1.26.1-1
+gst-plugins-bad 1.26.2-1
 gwenview 25.04.1-1
 handbrake 1.9.2-3
 hdparm 9.65-2
