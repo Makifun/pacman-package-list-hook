@@ -21,7 +21,7 @@ calf 0.90.7-1
 copyq 10.0.0-1
 desktop-patcher-hook v1.0.0.r25.g276de29-1
 discord_arch_electron 1:0.0.95-1
-docker 1:28.1.1-1
+docker 1:28.2.0-1
 docker-compose 2.36.2-1
 dolphin 25.04.1-1
 dysk 2.10.1-1
@@ -96,7 +96,7 @@ mkinitcpio-firmware 1.6.0-1
 mpv 1:0.40.0-3
 mtr 0.95-6
 nano 8.4-1
-ncdu 2.8.2-1
+ncdu 2.8.2-2
 neofetch 7.1.0-2
 nerd-fonts-sf-mono-ligatures 3.3.0-2
 networkmanager 1.52.0-1
