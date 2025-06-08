@@ -116,7 +116,7 @@ openssh 10.0p1-3
 opentofu 1.9.1-1
 paccache-hook 1.2.0-1
 partitionmanager 25.04.2-1
-pinta 3.0-3
+pinta 3.0.1-1
 pipewire-alsa 1:1.4.5-1
 pkgstats 3.3.2-1
 plasma-browser-integration 6.3.5-1
