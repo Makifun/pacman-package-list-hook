@@ -1,9 +1,9 @@
 adobe-source-han-sans-otc-fonts 2.004-2
 adobe-source-han-serif-otc-fonts 2.003-1
 alsa-utils 1.2.14-1
-amd-ucode 20250613.12fe085f-2
+amd-ucode 20250613.12fe085f-4
 ansible 11.6.0-1
-ansible-lint 25.5.0-1
+ansible-lint 25.6.0-1
 archlinux-artwork 1.6-6
 aria2 1.37.0-2
 ark 25.04.2-1
@@ -19,7 +19,7 @@ breeze-gtk 6.3.5-1
 calf 0.90.7-1
 copyq 10.0.0-1
 desktop-patcher-hook v1.0.0.r25.g276de29-1
-discord_arch_electron 1:0.0.97-1
+discord_arch_electron 1:0.0.98-1
 docker 1:28.2.2-1
 docker-compose 2.37.1-1
 dolphin 25.04.2-1
@@ -78,7 +78,7 @@ libva-utils 2.22.0-1
 libva-vdpau-driver 0.7.4-7
 libvdpau-va-gl 0.4.2-4
 linux 6.15.2.arch1-1
-linux-firmware 20250613.12fe085f-2
+linux-firmware 20250613.12fe085f-4
 lshw B.02.20-1
 lsp-plugins 1.2.22-1
 lvm2 2.03.32-1
