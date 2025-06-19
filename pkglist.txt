@@ -3,7 +3,7 @@ adobe-source-han-serif-otc-fonts 2.003-1
 alsa-utils 1.2.14-1
 amd-ucode 20250613.12fe085f-5
 ansible 11.7.0-1
-ansible-lint 25.6.0-1
+ansible-lint 25.6.1-1
 archlinux-artwork 1.6-6
 aria2 1.37.0-2
 ark 25.04.2-1
@@ -73,11 +73,11 @@ ldns 1.8.4-1
 lib32-gamemode 1.8.2-1
 lib32-mangohud 0.8.1-1
 lib32-vulkan-icd-loader 1.4.313.0-1
-lib32-vulkan-radeon 1:25.1.3-3
+lib32-vulkan-radeon 1:25.1.4-1
 libva-utils 2.22.0-1
 libva-vdpau-driver 0.7.4-7
 libvdpau-va-gl 0.4.2-4
-linux 6.15.2.arch1-1
+linux 6.15.3.arch1-1
 linux-firmware 20250613.12fe085f-5
 lshw B.02.20-1
 lsp-plugins 1.2.22-1
@@ -169,10 +169,10 @@ vdpauinfo 1.5-2
 ventoy-bin 1.1.05-1
 vim 9.1.1431-1
 virtualbox 7.1.10-1
-virtualbox-host-modules-arch 7.1.10-5
-visual-studio-code-bin 1.101.0-1
+virtualbox-host-modules-arch 7.1.10-6
+visual-studio-code-bin 1.101.1-1
 vlc 3.0.21-24
-vulkan-radeon 1:25.1.3-3
+vulkan-radeon 1:25.1.4-1
 vulkan-tools 1.4.313.0-1
 whois 5.6.1-1
 xdg-desktop-portal-kde 6.4.0-1
