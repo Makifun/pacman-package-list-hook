@@ -30,7 +30,7 @@ electron24-bin 24.8.8-4
 eza 0.21.6-1
 fastfetch 2.46.0-1
 ffmpegthumbs 25.04.2-1
-firefox 140.0.1-1
+firefox 140.0.2-1
 flatpak 1:1.16.1-1
 fzf 0.62.0-1
 gamemode 1.8.2-1
