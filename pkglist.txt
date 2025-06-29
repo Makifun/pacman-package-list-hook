@@ -1,4 +1,4 @@
-adobe-source-han-sans-otc-fonts 2.004-2
+adobe-source-han-sans-otc-fonts 2.005-1
 adobe-source-han-serif-otc-fonts 2.003-1
 alsa-utils 1.2.14-1
 amd-ucode 20250627-1
@@ -136,7 +136,7 @@ protontricks 1.12.1-1
 protonup-qt 2.12.0-1
 pwgen 2.08-3
 python-pip 25.1.1-1
-qbittorrent 5.1.1-1
+qbittorrent 5.1.1-2
 reflector 2023-3
 rsync 3.4.1-2
 s3cmd 2.4.0-4
