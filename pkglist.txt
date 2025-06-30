@@ -131,7 +131,7 @@ portproton 1.7.1-1
 power-profiles-daemon 0.30-1
 powerdevil 6.4.1-1
 procs 0.14.10-1
-proton-ge-custom-bin 1:GE_Proton10_5-1
+proton-ge-custom-bin 1:GE_Proton10_7-1
 protontricks 1.12.1-1
 protonup-qt 2.12.0-1
 pwgen 2.08-3
@@ -153,7 +153,7 @@ sqlitebrowser 3.13.1-1
 sshfs 3.7.3-3
 steam 1.0.0.82-2
 steamtinkerlaunch 12.12-1
-sudo 1.9.16.p2-2
+sudo 1.9.17.p1-1
 systemdgenie 0.99.0-6
 teamviewer 15.67.3-1
 tldr 3.4.1-1
@@ -167,7 +167,7 @@ unp 1:2.0-1
 unrar 1:7.1.8-1
 vdpauinfo 1.5-2
 ventoy-bin 1.1.05-1
-vim 9.1.1492-1
+vim 9.1.1497-1
 virtualbox 7.1.10-1
 virtualbox-host-modules-arch 7.1.10-9
 visual-studio-code-bin 1.101.2-1
