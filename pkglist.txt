@@ -77,7 +77,7 @@ lib32-vulkan-radeon 1:25.1.5-1
 libva-utils 2.22.0-1
 libva-vdpau-driver 0.7.4-7
 libvdpau-va-gl 0.4.2-4
-linux 6.15.4.arch2-1
+linux 6.15.5.arch1-1
 linux-firmware 20250627-1
 lshw B.02.20-1
 lsp-plugins 1.2.22-1
@@ -111,7 +111,7 @@ obs-studio 31.0.4-1
 obs-vkcapture-git r317.553fbb1-1
 ocs-url 3.1.0-7
 okular 25.04.3-1
-onefetch 2.24.0-2
+onefetch 2.25.0-1
 openssh 10.0p1-3
 opentofu 1.10.2-1
 paccache-hook 1.2.0-1
@@ -169,9 +169,9 @@ vdpauinfo 1.5-2
 ventoy-bin 1.1.05-1
 vim 9.1.1497-1
 virtualbox 7.1.10-1
-virtualbox-host-modules-arch 7.1.10-9
+virtualbox-host-modules-arch 7.1.10-10
 visual-studio-code-bin 1.101.2-1
-vlc 3.0.21-25
+vlc 3.0.21-26
 vulkan-radeon 1:25.1.5-1
 vulkan-tools 1.4.313.0-1
 whois 5.6.1-1
