@@ -1,7 +1,7 @@
 adobe-source-han-sans-otc-fonts 2.005-1
 adobe-source-han-serif-otc-fonts 2.003-1
 alsa-utils 1.2.14-1
-amd-ucode 20250627-1
+amd-ucode 20250708-1
 ansible 11.7.0-1
 ansible-lint 25.6.1-1
 archlinux-artwork 1.6-6
@@ -32,7 +32,7 @@ fastfetch 2.47.0-1
 ffmpegthumbs 25.04.3-1
 firefox 140.0.4-1
 flatpak 1:1.16.1-1
-fzf 0.62.0-1
+fzf 0.64.0-1
 gamemode 1.8.2-1
 gamescope 3.16.14-1
 gdu 5.31.0-1
@@ -78,7 +78,7 @@ libva-utils 2.22.0-1
 libva-vdpau-driver 0.7.4-7
 libvdpau-va-gl 0.4.2-4
 linux 6.15.5.arch1-1
-linux-firmware 20250627-1
+linux-firmware 20250708-1
 lshw B.02.20-1
 lsp-plugins 1.2.22-1
 lvm2 2.03.33-1
@@ -98,13 +98,13 @@ nano 8.5-1
 ncdu 2.8.2-3
 neofetch 7.1.0-2
 nerd-fonts-sf-mono-ligatures 3.3.0-2
-networkmanager 1.52.0-1
+networkmanager 1.52.1-1
 nexusmods-app-bin 0.13.4-1
 nmap 7.97-1
 noto-fonts-cjk 20240730-1
 noto-fonts-tc 2:20201206-1
 ntp 4.2.8.p18-3
-nvme-cli 2.13-1
+nvme-cli 2.14-1
 nvtop 3.2.0-1
 obs-plugin-input-overlay 5.1.0-1
 obs-studio 31.0.4-1
