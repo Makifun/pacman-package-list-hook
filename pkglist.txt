@@ -145,7 +145,7 @@ sddm-astronaut-theme 66.5e39e08-1
 sddm-kcm 6.4.2-1
 sdl2-compat 2.32.56-2
 shotcut 25.05.11-1
-signal-desktop 7.60.0-1
+signal-desktop 7.61.0-1
 spacecadetpinball-bin 2.1.0-2
 spectacle 1:6.4.2-2
 spotify 1:1.2.63.394-1
