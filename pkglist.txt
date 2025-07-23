@@ -49,7 +49,7 @@ gwenview 25.04.3-1
 handbrake 1.9.2-3
 hdparm 9.65-2
 helvum 0.5.1-1
-heroic-games-launcher-bin 2.17.2-1
+heroic-games-launcher-bin 2.18.0-1
 htop 3.4.1-1
 inetutils 2.6-1
 informant 0.6.0-1
@@ -170,7 +170,7 @@ ventoy-bin 1.1.05-1
 vim 9.1.1552-1
 virtualbox 7.1.12-1
 virtualbox-host-modules-arch 7.1.12-2
-visual-studio-code-bin 1.102.1-1
+visual-studio-code-bin 1.102.2-1
 vlc 3.0.21-26
 vulkan-radeon 1:25.1.6-1
 vulkan-tools 1.4.321.0-1
