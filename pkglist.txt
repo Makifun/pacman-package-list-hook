@@ -12,14 +12,14 @@ base-devel 1-2
 bash-completion 2.16.0-1
 bat 0.25.0-4
 bat-extras 2024.08.24-1
-bitwarden 2025.4.2-1
+bitwarden 2025.7.0-1
 bluedevil 1:6.4.3-1
 bottles 2:51.21-3
 breeze-gtk 6.4.3-1
 calf 0.90.8-2
 copyq 10.0.0-1
 desktop-patcher-hook v1.0.0.r25.g276de29-1
-discord_arch_electron 1:0.0.102-1
+discord_arch_electron 1:0.0.103-1
 docker 1:28.3.2-1
 docker-compose 2.39.1-1
 dolphin 25.04.3-1
@@ -170,7 +170,7 @@ ventoy-bin 1.1.05-1
 vim 9.1.1552-1
 virtualbox 7.1.12-1
 virtualbox-host-modules-arch 7.1.12-3
-visual-studio-code-bin 1.102.2-1
+visual-studio-code-bin 1.102.3-1
 vlc 3.0.21-27
 vulkan-radeon 1:25.1.6-1
 vulkan-tools 1.4.321.0-1
