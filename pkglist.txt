@@ -28,7 +28,7 @@ easyeffects 7.2.5-1
 efibootmgr 18-3
 electron24-bin 24.8.8-4
 eza 0.23.0-1
-fastfetch 2.48.1-1
+fastfetch 2.49.0-1
 ffmpegthumbs 25.04.3-1
 firefox 141.0-1
 flatpak 1:1.16.1-1
@@ -73,7 +73,7 @@ ldns 1.8.4-1
 lib32-gamemode 1.8.2-1
 lib32-mangohud 0.8.1-1
 lib32-vulkan-icd-loader 1.4.321.0-1
-lib32-vulkan-radeon 1:25.1.6-1
+lib32-vulkan-radeon 1:25.1.7-1
 libva-utils 2.22.0-1
 libva-vdpau-driver 0.7.4-7
 libvdpau-va-gl 0.4.2-4
@@ -89,7 +89,7 @@ mda.lv2 1.2.10-2
 mediainfo 25.07-1
 mediainfo-gui 25.07-1
 mesa-utils 9.0.0-7
-meson 1.8.2-2
+meson 1.8.3-1
 microsoft-edge-stable-bin 138.0.3351.95-1
 mkinitcpio-firmware 1.6.0-1
 mpv 1:0.40.0-5
@@ -135,7 +135,7 @@ proton-ge-custom-bin 1:GE_Proton10_10-1
 protontricks 1.12.1-1
 protonup-qt 2.13.0-1
 pwgen 2.08-3
-python-pip 25.1.1-1
+python-pip 25.2-1
 qbittorrent 5.1.2-1
 reflector 2023-3
 rsync 3.4.1-2
@@ -145,7 +145,7 @@ sddm-astronaut-theme 66.5e39e08-1
 sddm-kcm 6.4.3-1
 sdl2-compat 2.32.56-2
 shotcut 25.07.26-1
-signal-desktop 7.63.0-1
+signal-desktop 7.64.0-1
 spacecadetpinball-bin 2.1.0-2
 spectacle 1:6.4.3-1
 spotify 1:1.2.63.394-1
@@ -172,7 +172,7 @@ virtualbox 7.1.12-1
 virtualbox-host-modules-arch 7.1.12-4
 visual-studio-code-bin 1.102.3-1
 vlc 3.0.21-27
-vulkan-radeon 1:25.1.6-1
+vulkan-radeon 1:25.1.7-1
 vulkan-tools 1.4.321.0-1
 whois 5.6.1-1
 xdg-desktop-portal-kde 6.4.3-1
