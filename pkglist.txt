@@ -49,7 +49,7 @@ gwenview 25.04.3-1
 handbrake 1.9.2-3
 hdparm 9.65-2
 helvum 0.5.1-1
-heroic-games-launcher-bin 2.18.0-1
+heroic-games-launcher-bin 2.18.1-1
 htop 3.4.1-1
 inetutils 2.6-1
 informant 0.6.0-1
