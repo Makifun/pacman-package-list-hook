@@ -32,7 +32,7 @@ fastfetch 2.49.0-1
 ffmpegthumbs 25.04.3-1
 firefox 141.0-1
 flatpak 1:1.16.1-1
-fzf 0.65.0-1
+fzf 0.65.1-1
 gamemode 1.8.2-1
 gamescope 3.16.15-1
 gdu 5.31.0-1
@@ -77,7 +77,7 @@ lib32-vulkan-radeon 1:25.1.7-1
 libva-utils 2.22.0-1
 libva-vdpau-driver 0.7.4-7
 libvdpau-va-gl 0.4.2-4
-linux 6.15.9.arch1-1
+linux 6.16.arch1-1
 linux-firmware 20250708-1
 lshw B.02.20-1
 lsp-plugins 1.2.22-1
@@ -155,7 +155,7 @@ steam 1.0.0.82-2
 steamtinkerlaunch 12.12-1
 sudo 1.9.17.p1-1
 systemdgenie 0.99.0-6
-teamviewer 15.67.4-1
+teamviewer 15.68.5-1
 tldr 3.4.1-1
 tree 2.2.1-1
 ttf-firacode-nerd 3.4.0-1
@@ -169,7 +169,7 @@ vdpauinfo 1.5-2
 ventoy-bin 1.1.05-1
 vim 9.1.1552-1
 virtualbox 7.1.12-1
-virtualbox-host-modules-arch 7.1.12-5
+virtualbox-host-modules-arch 7.1.12-6
 visual-studio-code-bin 1.102.3-1
 vlc 3.0.21-27
 vulkan-radeon 1:25.1.7-1
