@@ -73,7 +73,7 @@ ldns 1.8.4-1
 lib32-gamemode 1.8.2-1
 lib32-mangohud 0.8.1-1
 lib32-vulkan-icd-loader 1.4.321.0-1
-lib32-vulkan-radeon 1:25.1.7-1
+lib32-vulkan-radeon 1:25.2.0-1
 libva-utils 2.22.0-1
 libva-vdpau-driver 0.7.4-7
 libvdpau-va-gl 0.4.2-4
@@ -172,7 +172,7 @@ virtualbox 7.1.12-1
 virtualbox-host-modules-arch 7.1.12-6
 visual-studio-code-bin 1.102.3-1
 vlc 3.0.21-27
-vulkan-radeon 1:25.1.7-1
+vulkan-radeon 1:25.2.0-1
 vulkan-tools 1.4.321.0-1
 whois 5.6.1-1
 xdg-desktop-portal-kde 6.4.4-1
