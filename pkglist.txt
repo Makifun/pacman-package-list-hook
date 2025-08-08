@@ -1,7 +1,7 @@
 adobe-source-han-sans-otc-fonts 2.005-1
 adobe-source-han-serif-otc-fonts 2.003-1
 alsa-utils 1.2.14-1
-amd-ucode 20250708-1
+amd-ucode 20250808-1
 ansible 11.8.0-1
 ansible-lint 25.7.0-1
 archlinux-artwork 1.6-6
@@ -44,7 +44,7 @@ grub 2:2.12.r292.g73d1c959-1
 grub-customizer 5.2.5-2
 gsmartcontrol 2.0.2-1
 gst-plugin-pipewire 1:1.4.7-1
-gst-plugins-bad 1.26.4-1
+gst-plugins-bad 1.26.5-1
 gwenview 25.04.3-1
 handbrake 1.9.2-3
 hdparm 9.65-2
@@ -78,7 +78,7 @@ libva-utils 2.22.0-1
 libva-vdpau-driver 0.7.4-7
 libvdpau-va-gl 0.4.2-4
 linux 6.16.arch1-1
-linux-firmware 20250708-1
+linux-firmware 20250808-1
 lshw B.02.20-1
 lsp-plugins 1.2.22-1
 lvm2 2.03.34-1
