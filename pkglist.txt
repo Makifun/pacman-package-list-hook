@@ -30,7 +30,7 @@ electron24-bin 24.8.8-4
 eza 0.23.0-1
 fastfetch 2.49.0-1
 ffmpegthumbs 25.04.3-1
-firefox 141.0.2-1
+firefox 141.0.3-1
 flatpak 1:1.16.1-1
 fzf 0.65.1-1
 gamemode 1.8.2-1
@@ -145,7 +145,7 @@ sddm-astronaut-theme 66.5e39e08-1
 sddm-kcm 6.4.4-1
 sdl2-compat 2.32.56-2
 shotcut 25.07.26-1
-signal-desktop 7.64.0-1
+signal-desktop 7.65.0-1
 spacecadetpinball-bin 2.1.0-2
 spectacle 1:6.4.4-1
 spotify 1:1.2.63.394-1
@@ -170,7 +170,7 @@ ventoy-bin 1.1.05-1
 vim 9.1.1552-1
 virtualbox 7.1.12-1
 virtualbox-host-modules-arch 7.1.12-6
-visual-studio-code-bin 1.102.3-1
+visual-studio-code-bin 1.103.0-1
 vlc 3.0.21-27
 vulkan-radeon 1:25.2.0-1
 vulkan-tools 1.4.321.0-1
