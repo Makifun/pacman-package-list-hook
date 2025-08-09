@@ -46,7 +46,7 @@ gsmartcontrol 2.0.2-1
 gst-plugin-pipewire 1:1.4.7-1
 gst-plugins-bad 1.26.5-1
 gwenview 25.04.3-1
-handbrake 1.9.2-3
+handbrake 1.10.0-1
 hdparm 9.65-2
 helvum 0.5.1-1
 heroic-games-launcher-bin 2.18.1-1
