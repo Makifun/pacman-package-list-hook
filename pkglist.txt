@@ -21,7 +21,7 @@ copyq 10.0.0-1
 desktop-patcher-hook v1.0.0.r25.g276de29-1
 discord_arch_electron 1:0.0.104-1
 docker 1:28.3.3-1
-docker-compose 2.39.1-1
+docker-compose 2.39.2-1
 dolphin 25.04.3-1
 dysk 2.10.1-1
 easyeffects 7.2.5-1
@@ -107,7 +107,7 @@ ntp 4.2.8.p18-3
 nvme-cli 2.15-1
 nvtop 3.2.0-1
 obs-plugin-input-overlay 5.1.0-1
-obs-studio 31.1.1-1
+obs-studio 31.1.2-1
 obs-vkcapture-git r317.553fbb1-1
 ocs-url 3.1.0-7
 okular 25.04.3-1
