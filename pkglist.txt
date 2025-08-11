@@ -127,7 +127,7 @@ plasma-pa 6.4.4-1
 plasma-systemmonitor 6.4.4-1
 playerctl 2.4.1-4
 plocate 1.1.23-1
-portproton 1.7.2-2
+portproton 1.7.3-1
 power-profiles-daemon 0.30-1
 powerdevil 6.4.4-1
 procs 0.14.10-1
