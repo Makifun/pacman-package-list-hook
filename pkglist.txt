@@ -113,7 +113,7 @@ ocs-url 3.1.0-7
 okular 25.08.0-1
 onefetch 2.25.0-1
 openssh 10.0p1-4
-opentofu 1.10.3-1
+opentofu 1.10.5-1
 paccache-hook 1.2.0-1
 partitionmanager 25.08.0-1
 pinta 3.0.3-1
