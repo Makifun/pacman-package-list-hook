@@ -23,7 +23,7 @@ discord_arch_electron 1:0.0.104-1
 docker 1:28.3.3-1
 docker-compose 2.39.2-1
 dolphin 25.08.0-1
-dysk 2.10.1-1
+dysk 3.0.0-1
 easyeffects 7.2.5-1
 efibootmgr 18-3
 electron24-bin 24.8.8-4
@@ -36,7 +36,7 @@ fzf 0.65.1-1
 gamemode 1.8.2-1
 gamescope 3.16.15-1
 gdu 5.31.0-1
-git 2.50.1-3
+git 2.51.0-1
 godot 4.4.1-6
 goverlay 1.4.1-1
 gparted 1.7.0-1
@@ -166,7 +166,7 @@ tuxclocker 1.5.1-2
 unp 1:2.0-1
 unrar 1:7.1.10-1
 vdpauinfo 1.5-2
-ventoy-bin 1.1.05-1
+ventoy-bin 1.1.07-1
 vim 9.1.1623-1
 virtualbox 7.2.0-1
 virtualbox-host-modules-arch 7.2.0-2
