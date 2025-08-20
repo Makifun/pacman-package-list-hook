@@ -19,7 +19,7 @@ breeze-gtk 6.4.4-1
 calf 0.90.8-3
 copyq 10.0.0-1
 desktop-patcher-hook v1.0.0.r25.g276de29-1
-discord_arch_electron 1:0.0.104-1
+discord_arch_electron 1:0.0.105-1
 docker 1:28.3.3-1
 docker-compose 2.39.2-1
 dolphin 25.08.0-1
@@ -30,7 +30,7 @@ electron24-bin 24.8.8-4
 eza 0.23.0-1
 fastfetch 2.50.2-1
 ffmpegthumbs 25.08.0-1
-firefox 141.0.3-1
+firefox 142.0-1
 flatpak 1:1.16.1-1
 fzf 0.65.1-1
 gamemode 1.8.2-1
@@ -132,7 +132,7 @@ power-profiles-daemon 0.30-1
 powerdevil 6.4.4-1
 procs 0.14.10-1
 proton-ge-custom-bin 1:GE_Proton10_12-2
-protontricks 1.12.1-1
+protontricks 1.13.0-2
 protonup-qt 2.13.0-1
 pwgen 2.08-3
 python-pip 25.2-1
@@ -144,7 +144,7 @@ sddm 0.21.0-6
 sddm-astronaut-theme 66.5e39e08-1
 sddm-kcm 6.4.4-1
 sdl2-compat 2.32.56-2
-shotcut 25.07.26-1
+shotcut 25.08.16-1
 signal-desktop 7.66.0-1
 spacecadetpinball-bin 2.1.0-2
 spectacle 1:6.4.4-1
