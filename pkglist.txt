@@ -3,7 +3,7 @@ adobe-source-han-serif-otc-fonts 2.003-1
 alsa-utils 1.2.14-1
 amd-ucode 20250808-1
 ansible 11.9.0-1
-ansible-lint 25.8.1-1
+ansible-lint 25.8.2-1
 archlinux-artwork 1.6-6
 aria2 1.37.0-2
 ark 25.08.0-1
@@ -170,7 +170,7 @@ ventoy-bin 1.1.07-1
 vim 9.1.1623-1
 virtualbox 7.2.0-1
 virtualbox-host-modules-arch 7.2.0-3
-visual-studio-code-bin 1.103.1-1
+visual-studio-code-bin 1.103.2-1
 vlc 3.0.21-27
 vulkan-radeon 1:25.2.1-1
 vulkan-tools 1.4.321.0-1
@@ -180,7 +180,7 @@ xmousepasteblock 1.4-3
 xwaylandvideobridge 0.4.0-2
 yay 12.5.0-1
 youtube-music 3.10.0-1
-yt-dlp 2025.07.21-1
+yt-dlp 2025.08.20-1
 zam-plugins-lv2 4.4-1
 zsh 5.9-5
 zsh-autosuggestions 0.7.1-1
