@@ -24,7 +24,6 @@ docker 1:28.3.3-1
 docker-compose 2.39.2-1
 dolphin 25.08.0-1
 dysk 3.0.0-1
-easyeffects 7.2.5-1
 efibootmgr 18-3
 electron24-bin 24.8.8-4
 eza 0.23.0-1
