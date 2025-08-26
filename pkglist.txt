@@ -19,7 +19,7 @@ breeze-gtk 6.4.4-1
 calf 0.90.8-3
 copyq 11.0.0-1
 desktop-patcher-hook v1.0.0.r25.g276de29-1
-discord_arch_electron 1:0.0.106-1
+discord_arch_electron 1:0.0.107-1
 docker 1:28.3.3-1
 docker-compose 2.39.2-1
 dolphin 25.08.0-1
@@ -183,4 +183,4 @@ yt-dlp 2025.08.22-1
 zam-plugins-lv2 4.4-1
 zsh 5.9-5
 zsh-autosuggestions 0.7.1-1
-zsh-completions 0.35.0-2
+zsh-completions 0.35.0-3
