@@ -15,7 +15,7 @@ bat 0.25.0-4
 bat-extras 2024.08.24-1
 bitwarden 2025.8.1-1
 bluedevil 1:6.4.4-1
-bottles 2:51.21-3
+bottles 2:51.24-1
 breeze-gtk 6.4.4-1
 calf 0.90.8-3
 copyq 11.0.0-1
@@ -24,11 +24,11 @@ discord_arch_electron 1:0.0.107-1
 docker 1:28.3.3-1
 docker-compose 2.39.2-1
 dolphin 25.08.0-1
-dysk 3.0.0-1
+dysk 3.1.0-1
 efibootmgr 18-3
 electron24-bin 24.8.8-4
 eza 0.23.0-1
-fastfetch 2.50.2-1
+fastfetch 2.51.1-1
 ffmpegthumbs 25.08.0-1
 firefox 142.0.1-1
 flatpak 1:1.16.1-1
@@ -73,7 +73,7 @@ ldns 1.8.4-1
 lib32-gamemode 1.8.2-1
 lib32-mangohud 0.8.1-1
 lib32-vulkan-icd-loader 1.4.321.0-1
-lib32-vulkan-radeon 1:25.2.1-1
+lib32-vulkan-radeon 1:25.2.1-5
 libva-utils 2.22.0-1
 libva-vdpau-driver 0.7.4-7
 libvdpau-va-gl 0.4.2-4
@@ -155,7 +155,7 @@ steam 1.0.0.82-2
 steamtinkerlaunch 12.12-1
 sudo 1.9.17.p2-1
 systemdgenie 0.99.0-6
-teamviewer 15.68.5-1
+teamviewer 15.69.4-1
 tldr 3.4.1-1
 tree 2.2.1-1
 ttf-firacode-nerd 3.4.0-1
@@ -172,7 +172,7 @@ virtualbox 7.2.0-1
 virtualbox-host-modules-arch 7.2.0-5
 visual-studio-code-bin 1.103.2-1
 vlc 3.0.21-28
-vulkan-radeon 1:25.2.1-4
+vulkan-radeon 1:25.2.1-5
 vulkan-tools 1.4.321.0-1
 whois 5.6.4-1
 xdg-desktop-portal-kde 6.4.4-1
