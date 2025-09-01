@@ -27,7 +27,7 @@ dolphin 25.08.0-1
 dysk 3.1.0-1
 efibootmgr 18-3
 electron24-bin 24.8.8-4
-eza 0.23.0-1
+eza 0.23.1-1
 fastfetch 2.51.1-1
 ffmpegthumbs 25.08.0-1
 firefox 142.0.1-1
