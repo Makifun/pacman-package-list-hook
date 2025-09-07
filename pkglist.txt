@@ -13,7 +13,7 @@ base-devel 1-2
 bash-completion 2.16.0-1
 bat 0.25.0-4
 bat-extras 2024.08.24-1
-bitwarden 2025.8.1-1
+bitwarden 2025.8.2-2
 bluedevil 1:6.4.4-1
 bottles 2:51.24-1
 breeze-gtk 6.4.4-1
@@ -27,7 +27,7 @@ dolphin 25.08.0-1
 dysk 3.1.0-1
 efibootmgr 18-3
 electron24-bin 24.8.8-4
-eza 0.23.1-1
+eza 0.23.2-1
 fastfetch 2.52.0-1
 ffmpegthumbs 25.08.0-1
 firefox 142.0.1-1
@@ -46,7 +46,7 @@ gsmartcontrol 2.0.2-1
 gst-plugin-pipewire 1:1.4.7-1
 gst-plugins-bad 1.26.5-2
 gwenview 25.08.0-1
-handbrake 1.10.1-1
+handbrake 1.10.2-1
 hdparm 9.65-3
 helvum 0.5.1-1
 heroic-games-launcher-bin 2.18.1-1
@@ -118,7 +118,7 @@ paccache-hook 1.2.0-1
 partitionmanager 25.08.0-1
 pinta 3.0.3-1
 pipewire-alsa 1:1.4.7-1
-pkgstats 3.3.3-1
+pkgstats 3.3.4-1
 plasma-browser-integration 6.4.4-1
 plasma-desktop 6.4.4-1
 plasma-firewall 6.4.4-1
