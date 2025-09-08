@@ -34,9 +34,10 @@ firefox 142.0.1-1
 flatpak 1:1.16.1-1
 fzf 0.65.2-1
 gamemode 1.8.2-1
-gamescope 3.16.16-1
+gamescope 3.16.17-1
 gdu 5.31.0-1
 git 2.51.0-1
+gnu-netcat 0.7.1-12
 godot 4.4.1-6
 goverlay 1.4.1-1
 gparted 1.7.0-1
@@ -151,7 +152,7 @@ spectacle 1:6.4.4-1
 spotify 1:1.2.63.394-1
 sqlitebrowser 3.13.1-1
 sshfs 3.7.3-3
-steam 1.0.0.82-2
+steam 1.0.0.84-1
 steamtinkerlaunch 12.12-1
 sudo 1.9.17.p2-1
 systemdgenie 0.99.0-6
@@ -180,7 +181,7 @@ xmousepasteblock 1.4-3
 xwaylandvideobridge 0.4.0-2
 yay 12.5.0-1
 youtube-music 3.11.0-1
-yt-dlp 2025.08.27-1
+yt-dlp 2025.09.05-1
 zam-plugins-lv2 4.4-1
 zsh 5.9-5
 zsh-autosuggestions 0.7.1-1
