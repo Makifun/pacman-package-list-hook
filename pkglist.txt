@@ -73,7 +73,7 @@ ldns 1.8.4-1
 lib32-gamemode 1.8.2-1
 lib32-mangohud 0.8.1-1
 lib32-vulkan-icd-loader 1.4.321.0-1
-lib32-vulkan-radeon 1:25.2.2-1
+lib32-vulkan-radeon 1:25.2.2-2
 libva-utils 2.22.0-1
 libva-vdpau-driver 0.7.4-7
 libvdpau-va-gl 0.4.2-4
@@ -113,7 +113,7 @@ ocs-url 3.1.0-7
 okular 25.08.0-1
 onefetch 2.25.0-1
 openssh 10.0p1-4
-opentofu 1.10.5-1
+opentofu 1.10.6-1
 paccache-hook 1.2.0-1
 partitionmanager 25.08.0-1
 pinta 3.0.3-1
@@ -172,14 +172,14 @@ virtualbox 7.2.0-2
 virtualbox-host-modules-arch 7.2.0-6
 visual-studio-code-bin 1.103.2-1
 vlc 3.0.21-28
-vulkan-radeon 1:25.2.2-1
+vulkan-radeon 1:25.2.2-2
 vulkan-tools 1.4.321.0-1
 whois 5.6.4-1
 xdg-desktop-portal-kde 6.4.4-1
 xmousepasteblock 1.4-3
 xwaylandvideobridge 0.4.0-2
 yay 12.5.0-1
-youtube-music 3.10.0-1
+youtube-music 3.11.0-1
 yt-dlp 2025.08.27-1
 zam-plugins-lv2 4.4-1
 zsh 5.9-5
