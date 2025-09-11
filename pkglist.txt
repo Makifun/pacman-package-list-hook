@@ -78,7 +78,7 @@ lib32-vulkan-radeon 1:25.2.2-2
 libva-utils 2.22.0-1
 libva-vdpau-driver 0.7.4-7
 libvdpau-va-gl 0.4.2-4
-linux 6.16.5.arch1-1
+linux 6.16.6.arch1-1
 linux-firmware 20250808-1
 lshw B.02.20-1
 lsp-plugins 1.2.23-1
@@ -170,7 +170,7 @@ vdpauinfo 1.5-2
 ventoy-bin 1.1.07-1
 vim 9.1.1734-1
 virtualbox 7.2.0-2
-virtualbox-host-modules-arch 7.2.0-6
+virtualbox-host-modules-arch 7.2.0-7
 visual-studio-code-bin 1.103.2-1
 vlc 3.0.21-28
 vulkan-radeon 1:25.2.2-2
