@@ -114,7 +114,7 @@ ocs-url 3.1.0-7
 okular 25.08.1-1
 onefetch 2.25.0-1
 openssh 10.0p1-4
-opentofu 1.10.6-1
+opentofu 1.10.6-2
 paccache-hook 1.2.0-1
 partitionmanager 25.08.1-1
 pinta 3.0.3-1
@@ -157,7 +157,7 @@ steamtinkerlaunch 12.12-1
 sudo 1.9.17.p2-1
 systemdgenie 0.99.0-6
 teamviewer 15.69.4-1
-tldr 3.4.1-1
+tldr 3.4.2-1
 tree 2.2.1-1
 ttf-firacode-nerd 3.4.0-1
 ttf-meslo-nerd-font-powerlevel10k 2.3.3-1
