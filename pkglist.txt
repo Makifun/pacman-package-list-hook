@@ -133,7 +133,7 @@ power-profiles-daemon 0.30-1
 powerdevil 6.4.5-1
 procs 0.14.10-1
 proton-ge-custom-bin 1:GE_Proton10_15-2
-protontricks 1.13.0-2
+protontricks 1.13.0-3
 protonup-qt 2.13.0-1
 pwgen 2.08-3
 python-pip 25.2-1
