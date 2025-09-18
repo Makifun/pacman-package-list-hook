@@ -1,7 +1,7 @@
 adobe-source-han-sans-otc-fonts 2.005-1
 adobe-source-han-serif-otc-fonts 2.003-1
 alsa-utils 1.2.14-1
-amd-ucode 20250808-1
+amd-ucode 20250917-1
 ansible 12.0.0-1
 ansible-lint 25.9.0-1
 archlinux-artwork 1.6-6
@@ -44,7 +44,7 @@ gparted 1.7.0-1
 grub 2:2.12.r359.g19c698d12-1
 grub-customizer 5.2.5-2
 gsmartcontrol 2.0.2-1
-gst-plugin-pipewire 1:1.4.8-1
+gst-plugin-pipewire 1:1.4.8-2
 gst-plugins-bad 1.26.6-1
 gwenview 25.08.1-1
 handbrake 1.10.2-2
@@ -74,12 +74,12 @@ ldns 1.8.4-1
 lib32-gamemode 1.8.2-1
 lib32-mangohud 0.8.1-1
 lib32-vulkan-icd-loader 1.4.321.0-1
-lib32-vulkan-radeon 1:25.2.2-2
+lib32-vulkan-radeon 1:25.2.3-1
 libva-utils 2.22.0-1
 libva-vdpau-driver 0.7.4-7
 libvdpau-va-gl 0.4.2-4
 linux 6.16.7.arch1-1
-linux-firmware 20250808-1
+linux-firmware 20250917-1
 lshw B.02.20-1
 lsp-plugins 1.2.23-1
 lvm2 2.03.35-1
@@ -99,12 +99,12 @@ nano 8.6-1
 ncdu 2.8.2-3
 neofetch 7.1.0-2
 nerd-fonts-sf-mono-ligatures 3.3.0-2
-networkmanager 1.54.0-1
+networkmanager 1.54.1-1
 nexusmods-app-bin 0.16.4-1
 nmap 7.97-1
 noto-fonts-cjk 20240730-1
 noto-fonts-tc 2:20201206-1
-ntp 4.2.8.p18-3
+ntp 4.2.8.p18-4
 nvme-cli 2.15-1
 nvtop 3.2.0-1
 obs-plugin-input-overlay 5.1.0-1
@@ -118,7 +118,7 @@ opentofu 1.10.6-2
 paccache-hook 1.2.0-1
 partitionmanager 25.08.1-1
 pinta 3.0.3-1
-pipewire-alsa 1:1.4.8-1
+pipewire-alsa 1:1.4.8-2
 pkgstats 3.3.4-1
 plasma-browser-integration 6.4.5-1
 plasma-desktop 6.4.5-1
@@ -146,7 +146,7 @@ sddm-astronaut-theme 66.5e39e08-1
 sddm-kcm 6.4.5-1
 sdl2-compat 2.32.56-2
 shotcut 25.08.16-1
-signal-desktop 7.70.0-1
+signal-desktop 7.71.0-1
 spacecadetpinball-bin 2.1.0-2
 spectacle 1:6.4.5-1
 spotify 1:1.2.63.394-1
@@ -171,9 +171,9 @@ ventoy-bin 1.1.07-1
 vim 9.1.1734-1
 virtualbox 7.2.2-1
 virtualbox-host-modules-arch 7.2.2-2
-visual-studio-code-bin 1.104.0-1
+visual-studio-code-bin 1.104.1-1
 vlc 3.0.21-28
-vulkan-radeon 1:25.2.2-2
+vulkan-radeon 1:25.2.3-1
 vulkan-tools 1.4.321.0-1
 whois 5.6.4-1
 xdg-desktop-portal-kde 6.4.5-1
