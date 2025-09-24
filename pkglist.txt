@@ -20,7 +20,7 @@ breeze-gtk 6.4.5-1
 calf 0.90.8-4
 copyq 11.0.0-2
 desktop-patcher-hook v1.0.0.r25.g276de29-1
-discord_arch_electron 1:0.0.110-1
+discord_arch_electron 1:0.0.111-1
 docker 1:28.4.0-1
 docker-compose 2.39.4-1
 dolphin 25.08.1-1
@@ -28,7 +28,7 @@ dysk 3.1.0-1
 efibootmgr 18-3
 electron24-bin 24.8.8-4
 eza 0.23.3-1
-fastfetch 2.52.0-1
+fastfetch 2.53.0-1
 ffmpegthumbs 25.08.1-1
 firefox 143.0.1-1
 flatpak 1:1.16.1-1
@@ -66,7 +66,7 @@ kdiskmark 3.2.0-1
 kitty 0.42.2-1
 klassy 6.4.breeze6.4.0-1
 konsole 25.08.1-1
-krita 5.2.11-3
+krita 5.2.13-1
 kscreen 6.4.5-1
 kwallet-pam 6.4.5-1
 kwalletmanager 25.08.1-1
@@ -78,7 +78,7 @@ lib32-vulkan-radeon 1:25.2.3-2
 libva-utils 2.22.0-1
 libva-vdpau-driver 0.7.4-7
 libvdpau-va-gl 0.4.2-4
-linux 6.16.8.arch2-1
+linux 6.16.8.arch3-1
 linux-firmware 20250917-1
 lshw B.02.20-1
 lsp-plugins 1.2.23-1
@@ -119,7 +119,7 @@ paccache-hook 1.2.0-1
 partitionmanager 25.08.1-1
 pinta 3.0.3-1
 pipewire-alsa 1:1.4.8-2
-pkgstats 3.3.4-1
+pkgstats 3.4.0-1
 plasma-browser-integration 6.4.5-1
 plasma-desktop 6.4.5-1
 plasma-firewall 6.4.5-1
@@ -157,7 +157,7 @@ steamtinkerlaunch 12.12-1
 sudo 1.9.17.p2-1
 systemdgenie 0.99.0-6
 teamviewer 15.69.4-1
-tldr 3.4.2-1
+tldr 3.4.3-1
 tree 2.2.1-1
 ttf-firacode-nerd 3.4.0-1
 ttf-meslo-nerd-font-powerlevel10k 2.3.3-1
@@ -170,9 +170,9 @@ vdpauinfo 1.5-2
 ventoy-bin 1.1.07-1
 vim 9.1.1734-1
 virtualbox 7.2.2-1
-virtualbox-host-modules-arch 7.2.2-4
+virtualbox-host-modules-arch 7.2.2-5
 visual-studio-code-bin 1.104.1-1
-vlc 3.0.21-28
+vlc 3.0.21-29
 vulkan-radeon 1:25.2.3-2
 vulkan-tools 1.4.321.0-1
 whois 5.6.4-1
@@ -181,7 +181,7 @@ xmousepasteblock 1.4-3
 xwaylandvideobridge 0.4.0-2
 yay 12.5.0-1
 youtube-music 3.11.0-2
-yt-dlp 2025.09.05-1
+yt-dlp 2025.09.23-1
 zam-plugins-lv2 4.4-1
 zsh 5.9-5
 zsh-autosuggestions 0.7.1-1
