@@ -78,7 +78,7 @@ lib32-vulkan-radeon 1:25.2.3-2
 libva-utils 2.22.0-1
 libva-vdpau-driver 0.7.4-7
 libvdpau-va-gl 0.4.2-4
-linux 6.16.8.arch3-1
+linux 6.16.9.arch1-1
 linux-firmware 20250917-1
 lshw B.02.20-1
 lsp-plugins 1.2.23-1
@@ -132,7 +132,7 @@ portproton 1.7.3-1
 power-profiles-daemon 0.30-1
 powerdevil 6.4.5-1
 procs 0.14.10-1
-proton-ge-custom-bin 1:GE_Proton10_16-1
+proton-ge-custom-bin 1:GE_Proton10_17-1
 protontricks 1.13.0-3
 protonup-qt 2.14.0-1
 pwgen 2.08-3
@@ -146,7 +146,7 @@ sddm-astronaut-theme 66.5e39e08-1
 sddm-kcm 6.4.5-1
 sdl2-compat 2.32.56-2
 shotcut 25.08.16-1
-signal-desktop 7.71.0-1
+signal-desktop 7.72.1-1
 spacecadetpinball-bin 2.1.0-2
 spectacle 1:6.4.5-1
 spotify 1:1.2.63.394-1
@@ -170,7 +170,7 @@ vdpauinfo 1.5-2
 ventoy-bin 1.1.07-1
 vim 9.1.1734-1
 virtualbox 7.2.2-1
-virtualbox-host-modules-arch 7.2.2-5
+virtualbox-host-modules-arch 7.2.2-6
 visual-studio-code-bin 1.104.1-1
 vlc 3.0.21-29
 vulkan-radeon 1:25.2.3-2
