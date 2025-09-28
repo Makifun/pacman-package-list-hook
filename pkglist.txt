@@ -63,7 +63,7 @@ kdeconnect 25.08.1-1
 kdenlive 25.08.1-1
 kdeplasma-addons 6.4.5-1
 kdiskmark 3.2.0-1
-kitty 0.42.2-1
+kitty 0.43.0-1
 klassy 6.4.breeze6.4.0-1
 konsole 25.08.1-1
 krita 5.2.13-1
@@ -101,7 +101,7 @@ neofetch 7.1.0-2
 nerd-fonts-sf-mono-ligatures 3.3.0-2
 networkmanager 1.54.1-1
 nexusmods-app-bin 0.16.4-1
-nmap 7.97-1
+nmap 7.98-1
 noto-fonts-cjk 20240730-1
 noto-fonts-tc 2:20201206-1
 ntp 4.2.8.p18-4
@@ -119,7 +119,7 @@ paccache-hook 1.2.0-1
 partitionmanager 25.08.1-1
 pinta 3.0.3-1
 pipewire-alsa 1:1.4.8-2
-pkgstats 3.4.1-1
+pkgstats 3.4.2-1
 plasma-browser-integration 6.4.5-1
 plasma-desktop 6.4.5-1
 plasma-firewall 6.4.5-1
