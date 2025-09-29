@@ -18,7 +18,7 @@ bluedevil 1:6.4.5-1
 bottles 2:51.24-1
 breeze-gtk 6.4.5-1
 calf 0.90.8-4
-copyq 11.0.0-2
+copyq 12.0.0-1
 desktop-patcher-hook v1.0.0.r25.g276de29-1
 discord_arch_electron 1:0.0.111-1
 docker 1:28.4.0-1
@@ -100,8 +100,8 @@ ncdu 2.9.1-1
 neofetch 7.1.0-2
 nerd-fonts-sf-mono-ligatures 3.3.0-2
 networkmanager 1.54.1-1
-nexusmods-app-bin 0.16.4-1
-nmap 7.98-1
+nexusmods-app-bin 0.17.2-1
+nmap 7.98-3
 noto-fonts-cjk 20240730-1
 noto-fonts-tc 2:20201206-1
 ntp 4.2.8.p18-4
