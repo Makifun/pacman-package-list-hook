@@ -30,7 +30,7 @@ electron24-bin 24.8.8-4
 eza 0.23.3-1
 fastfetch 2.53.0-1
 ffmpegthumbs 25.08.1-1
-firefox 143.0.1-1
+firefox 143.0.3-1
 flatpak 1:1.16.1-1
 fzf 0.65.2-1
 gamemode 1.8.2-1
@@ -104,7 +104,7 @@ nexusmods-app-bin 0.17.2-1
 nmap 7.98-3
 noto-fonts-cjk 20240730-1
 noto-fonts-tc 2:20201206-1
-ntp 4.2.8.p18-4
+ntp 4.2.8.p18-5
 nvme-cli 2.15-1
 nvtop 3.2.0-1
 obs-plugin-input-overlay 5.1.0-1
@@ -113,7 +113,7 @@ obs-vkcapture-git r317.553fbb1-1
 ocs-url 3.1.0-7
 okular 25.08.1-1
 onefetch 2.25.0-1
-openssh 10.0p1-5
+openssh 10.0p1-6
 opentofu 1.10.6-2
 paccache-hook 1.2.0-1
 partitionmanager 25.08.1-1
