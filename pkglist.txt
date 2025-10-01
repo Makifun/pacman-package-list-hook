@@ -3,7 +3,7 @@ adobe-source-han-serif-otc-fonts 2.003-1
 alsa-utils 1.2.14-1
 amd-ucode 20250917-1
 ansible 12.0.0-1
-ansible-lint 25.9.0-1
+ansible-lint 25.9.1-1
 archlinux-artwork 1.6-6
 aria2 1.37.0-2
 ark 25.08.1-1
@@ -18,13 +18,14 @@ bluedevil 1:6.4.5-1
 bottles 2:51.24-1
 breeze-gtk 6.4.5-1
 calf 0.90.8-4
-copyq 12.0.0-1
+copyq 12.0.1-1
 desktop-patcher-hook v1.0.0.r25.g276de29-1
 discord_arch_electron 1:0.0.111-1
 docker 1:28.4.0-1
 docker-compose 2.39.4-1
 dolphin 25.08.1-1
 dysk 3.1.0-1
+easyeffects 7.2.5-1
 efibootmgr 18-3
 electron24-bin 24.8.8-4
 eza 0.23.3-1
@@ -63,7 +64,7 @@ kdeconnect 25.08.1-1
 kdenlive 25.08.1-1
 kdeplasma-addons 6.4.5-1
 kdiskmark 3.2.0-1
-kitty 0.43.0-1
+kitty 0.43.1-1
 klassy 6.4.breeze6.4.0-1
 konsole 25.08.1-1
 krita 5.2.13-1
@@ -87,8 +88,8 @@ makepkg-git-lfs-proto 1-1
 man-db 2.13.1-1
 mangohud 0.8.1-1
 mda.lv2 1.2.10-2
-mediainfo 25.07-1
-mediainfo-gui 25.07-1
+mediainfo 25.09-1
+mediainfo-gui 25.09-1
 mesa-utils 9.0.0-7
 meson 1.9.1-1
 microsoft-edge-stable-bin 140.0.3485.94-1
