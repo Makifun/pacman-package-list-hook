@@ -3,7 +3,7 @@ adobe-source-han-serif-otc-fonts 2.003-1
 alsa-utils 1.2.14-1
 amd-ucode 20250917-1
 ansible 12.1.0-1
-ansible-lint 25.9.1-1
+ansible-lint 25.9.2-1
 archlinux-artwork 1.6-6
 aria2 1.37.0-2
 ark 25.08.1-1
@@ -51,7 +51,7 @@ gwenview 25.08.1-1
 handbrake 1.10.2-4
 hdparm 9.65-3
 helvum 0.5.1-1
-heroic-games-launcher-bin 2.18.1-2
+heroic-games-launcher-bin 2.18.1-3
 htop 3.4.1-1
 inetutils 2.6-1
 informant 0.6.0-1
