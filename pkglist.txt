@@ -31,7 +31,7 @@ electron24-bin 24.8.8-4
 eza 0.23.4-1
 fastfetch 2.53.0-1
 ffmpegthumbs 25.08.2-1
-firefox 143.0.4-1
+firefox 144.0-1
 flatpak 1:1.16.1-1
 fzf 0.65.2-1
 gamemode 1.8.2-1
@@ -42,7 +42,7 @@ gnu-netcat 0.7.1-12
 godot 4.5-1
 goverlay 1.5.2-1
 gparted 1.7.0-1
-grub 2:2.12.r359.g19c698d12-1
+grub 2:2.12.r418.g6b5c671d-1
 grub-customizer 5.2.5-2
 gsmartcontrol 2.0.2-1
 gst-plugin-pipewire 1:1.4.9-1
@@ -133,7 +133,7 @@ portproton 1.7.3-1
 power-profiles-daemon 0.30-1
 powerdevil 6.4.5-2
 procs 0.14.10-1
-proton-ge-custom-bin 1:GE_Proton10_17-1
+proton-ge-custom-bin 1:GE_Proton10_20-1
 protontricks 1.13.0-3
 protonup-qt 2.14.0-1
 pwgen 2.08-3
@@ -157,7 +157,7 @@ steam 1.0.0.85-1
 steamtinkerlaunch 12.12-1
 sudo 1.9.17.p2-1
 systemdgenie 0.99.0-6
-teamviewer 15.69.4-1
+teamviewer 15.70.4-1
 tldr 3.4.3-1
 tree 2.2.1-1
 ttf-firacode-nerd 3.4.0-1
