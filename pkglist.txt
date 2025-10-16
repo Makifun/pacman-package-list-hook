@@ -20,7 +20,7 @@ breeze-gtk 6.4.5-1
 calf 0.90.8-4
 copyq 12.0.1-3
 desktop-patcher-hook v1.0.0.r25.g276de29-1
-discord_arch_electron 1:0.0.111-1
+discord_arch_electron 1:0.0.112-1
 docker 1:28.5.1-1
 docker-compose 2.40.0-1
 dolphin 25.08.2-1
@@ -37,7 +37,7 @@ fzf 0.65.2-1
 gamemode 1.8.2-1
 gamescope 3.16.17-1
 gdu 5.31.0-1
-git 2.51.0-1
+git 2.51.1-1
 gnu-netcat 0.7.1-12
 godot 4.5-1
 goverlay 1.5.2-1
@@ -46,7 +46,7 @@ grub 2:2.12.r418.g6b5c671d-1
 grub-customizer 5.2.5-2
 gsmartcontrol 2.0.2-1
 gst-plugin-pipewire 1:1.4.9-1
-gst-plugins-bad 1.26.6-3
+gst-plugins-bad 1.26.7-1
 gwenview 25.08.2-3
 handbrake 1.10.2-4
 hdparm 9.65-3
@@ -75,11 +75,11 @@ ldns 1.8.4-1
 lib32-gamemode 1.8.2-1
 lib32-mangohud 0.8.1-1
 lib32-vulkan-icd-loader 1.4.328.1-1
-lib32-vulkan-radeon 1:25.2.4-2
+lib32-vulkan-radeon 1:25.2.5-1
 libva-utils 2.22.0-1
 libva-vdpau-driver 0.7.4-7
 libvdpau-va-gl 0.4.2-4
-linux 6.17.2.arch1-1
+linux 6.17.3.arch1-1
 linux-firmware 20251011-1
 lshw B.02.20-1
 lsp-plugins 1.2.23-1
@@ -147,7 +147,7 @@ sddm-astronaut-theme 66.5e39e08-1
 sddm-kcm 6.4.5-1
 sdl2-compat 2.32.56-2
 shotcut 25.08.16-1
-signal-desktop 7.74.0-1
+signal-desktop 7.75.0-1
 spacecadetpinball-bin 2.1.0-2
 spectacle 1:6.4.5-2
 spotify 1:1.2.63.394-1
@@ -171,10 +171,10 @@ vdpauinfo 1.5-2
 ventoy-bin 1.1.07-1
 vim 9.1.1841-1
 virtualbox 7.2.2-2
-virtualbox-host-modules-arch 7.2.2-10
-visual-studio-code-bin 1.105.0-1
+virtualbox-host-modules-arch 7.2.2-11
+visual-studio-code-bin 1.105.1-1
 vlc 3.0.21-30
-vulkan-radeon 1:25.2.4-2
+vulkan-radeon 1:25.2.5-1
 vulkan-tools 1.4.328.1-1
 whois 5.6.4-1
 xdg-desktop-portal-kde 6.4.5-2
@@ -182,7 +182,7 @@ xmousepasteblock 1.4-3
 xwaylandvideobridge 0.4.0-2
 yay 12.5.2-2
 youtube-music 3.11.0-2
-yt-dlp 2025.09.26-1
+yt-dlp 2025.10.14-1
 zam-plugins-lv2 4.4-1
 zsh 5.9-5
 zsh-autosuggestions 0.7.1-1
