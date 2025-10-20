@@ -39,9 +39,9 @@ fzf 0.66.0-1
 gamemode 1.8.2-1
 gamescope 3.16.17-1
 gdu 5.31.0-1
-git 2.51.1-1
+git 2.51.1-2
 gnu-netcat 0.7.1-12
-godot 4.5-1
+godot 4.5.1-1
 goverlay 1.5.2-1
 gparted 1.7.0-1
 grub 2:2.12.r418.g6b5c671d-1
@@ -81,7 +81,7 @@ lib32-vulkan-radeon 1:25.2.5-1
 libva-utils 2.22.0-1
 libva-vdpau-driver 0.7.4-7
 libvdpau-va-gl 0.4.2-4
-linux 6.17.3.arch2-1
+linux 6.17.4.arch2-1
 linux-firmware 20251011-1
 lshw B.02.20-1
 lsp-plugins 1.2.23-1
@@ -100,7 +100,7 @@ mkinitcpio-firmware 1.6.0-1
 mpv 1:0.40.0-7
 mtr 0.96-1
 nano 8.6-1
-ncdu 2.9.1-1
+ncdu 2.9.1-2
 neofetch 7.1.0-2
 nerd-fonts-sf-mono-ligatures 3.3.0-2
 networkmanager 1.54.1-1
@@ -172,10 +172,10 @@ tuxclocker 1.5.1-2
 unp 1:2.0-1
 unrar 1:7.1.10-1
 vdpauinfo 1.5-2
-ventoy-bin 1.1.07-1
+ventoy-bin 1.1.07-2
 vim 9.1.1841-1
 virtualbox 7.2.2-2
-virtualbox-host-modules-arch 7.2.2-12
+virtualbox-host-modules-arch 7.2.2-13
 visual-studio-code-bin 1.105.1-1
 vlc 3.0.21-30
 vulkan-radeon 1:25.2.5-1
