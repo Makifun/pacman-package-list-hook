@@ -11,7 +11,7 @@ audacity 1:3.7.5-1
 base 3-2
 base-devel 1-2
 bash-completion 2.16.0-1
-bat 0.25.0-4
+bat 0.26.0-1
 bat-extras 2024.08.24-1
 bitwarden 2025.8.2-2
 bitwarden-cli 2025.8.0-1
@@ -44,7 +44,7 @@ gnu-netcat 0.7.1-12
 godot 4.5.1-1
 goverlay 1.5.2-1
 gparted 1.7.0-1
-grub 2:2.12.r418.g6b5c671d-1
+grub 2:2.12.r418.g6b5c671d-2
 grub-customizer 5.2.5-2
 gsmartcontrol 2.0.2-1
 gst-plugin-pipewire 1:1.4.9-1
@@ -95,7 +95,7 @@ mediainfo 25.09-1
 mediainfo-gui 25.09-1
 mesa-utils 9.0.0-7
 meson 1.9.1-1
-microsoft-edge-stable-bin 141.0.3537.85-1
+microsoft-edge-stable-bin 141.0.3537.92-1
 mkinitcpio-firmware 1.6.0-1
 mpv 1:0.40.0-7
 mtr 0.96-1
@@ -137,12 +137,12 @@ portproton 1.7.3-1
 power-profiles-daemon 0.30-1
 powerdevil 6.4.5-2
 procs 0.14.10-1
-proton-ge-custom-bin 1:GE_Proton10_20-1
+proton-ge-custom-bin 1:GE_Proton10_21-1
 protontricks 1.13.0-3
 protonup-qt 2.14.0-1
 pwgen 2.08-3
 python-pip 25.2-1
-qbittorrent 5.1.2-1
+qbittorrent 5.1.2-2
 reflector 2023-3
 rsync 3.4.1-2
 s3cmd 2.4.0-4
@@ -180,7 +180,7 @@ visual-studio-code-bin 1.105.1-1
 vlc 3.0.21-30
 vulkan-radeon 1:25.2.5-1
 vulkan-tools 1.4.328.1-1
-whois 5.6.4-1
+whois 5.6.5-1
 xdg-desktop-portal-kde 6.4.5-2
 xmousepasteblock 1.4-3
 xwaylandvideobridge 0.4.0-2
