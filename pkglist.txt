@@ -24,7 +24,7 @@ desktop-patcher-hook v1.0.0.r25.g276de29-1
 direnv 2.37.1-1
 discord_arch_electron 1:0.0.112-4
 docker 1:28.5.1-1
-docker-compose 2.40.1-1
+docker-compose 2.40.2-1
 dolphin 25.08.2-1
 dysk 3.1.0-1
 easyeffects 7.2.5-2
@@ -69,7 +69,7 @@ kdiskmark 3.2.0-1
 kitty 0.43.1-1
 klassy 6.4.breeze6.4.0-1
 konsole 25.08.2-1
-krita 5.2.13-1
+krita 5.2.13-2
 kscreen 6.5.0-1
 kwallet-pam 6.5.0-1
 kwalletmanager 25.08.2-1
@@ -77,11 +77,11 @@ ldns 1.8.4-1
 lib32-gamemode 1.8.2-1
 lib32-mangohud 0.8.1-1
 lib32-vulkan-icd-loader 1.4.328.1-1
-lib32-vulkan-radeon 1:25.2.5-1
+lib32-vulkan-radeon 1:25.2.5-2
 libva-utils 2.22.0-1
 libva-vdpau-driver 0.7.4-7
 libvdpau-va-gl 0.4.2-4
-linux 6.17.4.arch2-1
+linux 6.17.5.arch1-1
 linux-firmware 20251021-1
 lshw B.02.20-1
 lsp-plugins 1.2.23-1
@@ -94,8 +94,8 @@ mda.lv2 1.2.10-2
 mediainfo 25.09-1
 mediainfo-gui 25.09-1
 mesa-utils 9.0.0-7
-meson 1.9.1-1
-microsoft-edge-stable-bin 141.0.3537.92-1
+meson 1.9.1-2
+microsoft-edge-stable-bin 141.0.3537.99-1
 mkinitcpio-firmware 1.6.0-1
 mpv 1:0.40.0-7
 mtr 0.96-1
@@ -108,7 +108,7 @@ nexusmods-app-bin 0.19.4-1
 nmap 7.98-3
 noto-fonts-cjk 20240730-1
 noto-fonts-tc 2:20201206-1
-ntp 4.2.8.p18-5
+ntp 4.2.8.p18-6
 nvme-cli 2.15-1
 nvtop 3.2.0-1
 obs-plugin-input-overlay 5.1.0-1
@@ -151,7 +151,7 @@ sddm-astronaut-theme 66.5e39e08-1
 sddm-kcm 6.5.0-1
 sdl2-compat 2.32.56-2
 shotcut 25.08.16-1
-signal-desktop 7.75.1-1
+signal-desktop 7.76.0-1
 spacecadetpinball-bin 2.1.0-2
 spectacle 1:6.5.0-1
 spotify 1:1.2.63.394-1
@@ -174,11 +174,11 @@ unrar 1:7.1.10-1
 vdpauinfo 1.5-2
 ventoy-bin 1.1.07-2
 vim 9.1.1841-1
-virtualbox 7.2.2-2
-virtualbox-host-modules-arch 7.2.2-13
+virtualbox 7.2.4-1
+virtualbox-host-modules-arch 7.2.4-2
 visual-studio-code-bin 1.105.1-1
 vlc 3.0.21-30
-vulkan-radeon 1:25.2.5-1
+vulkan-radeon 1:25.2.5-2
 vulkan-tools 1.4.328.1-1
 whois 5.6.5-1
 xdg-desktop-portal-kde 6.5.0-1
@@ -186,7 +186,7 @@ xmousepasteblock 1.4-3
 xwaylandvideobridge 0.4.0-2
 yay 12.5.2-2
 youtube-music 3.11.0-2
-yt-dlp 2025.10.14-1
+yt-dlp 2025.10.22-1
 zam-plugins-lv2 4.4-1
 zsh 5.9-5
 zsh-autosuggestions 0.7.1-1
