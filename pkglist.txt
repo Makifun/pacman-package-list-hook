@@ -20,6 +20,7 @@ bottles 2:51.24-1
 breeze-gtk 6.5.0-1
 calf 0.90.8-4
 copyq 13.0.0-1
+cursor-bin 1.7.54-1
 desktop-patcher-hook v1.0.0.r25.g276de29-1
 direnv 2.37.1-1
 discord_arch_electron 1:0.0.112-4
