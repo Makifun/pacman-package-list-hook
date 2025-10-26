@@ -18,7 +18,7 @@ bitwarden-cli 2025.8.0-1
 bluedevil 1:6.5.0-1
 bottles 2:51.24-1
 breeze-gtk 6.5.0-1
-calf 0.90.8-4
+calf 0.90.8-5
 copyq 13.0.0-1
 cursor-bin 1.7.54-1
 desktop-patcher-hook v1.0.0.r25.g276de29-1
@@ -85,9 +85,9 @@ libvdpau-va-gl 0.4.2-4
 linux 6.17.5.arch1-1
 linux-firmware 20251021-1
 lshw B.02.20-1
-lsp-plugins 1.2.23-1
+lsp-plugins 1.2.24-1
 lutris 0.5.19-6
-lvm2 2.03.35-1
+lvm2 2.03.36-1
 makepkg-git-lfs-proto 1-1
 man-db 2.13.1-1
 mangohud 0.8.1-1
@@ -118,7 +118,7 @@ obs-vkcapture-git r317.553fbb1-1
 ocs-url 3.1.0-7
 okular 25.08.2-4
 onefetch 2.25.0-1
-openssh 10.2p1-1
+openssh 10.2p1-2
 opentofu 1.10.6-2
 paccache-hook 1.2.0-1
 packer 1.14.2-1
@@ -142,7 +142,7 @@ proton-ge-custom-bin 1:GE_Proton10_21-1
 protontricks 1.13.0-3
 protonup-qt 2.14.0-1
 pwgen 2.08-3
-python-pip 25.2-1
+python-pip 25.3-1
 qbittorrent 5.1.2-2
 reflector 2023-3
 rsync 3.4.1-2
