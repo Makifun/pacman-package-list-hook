@@ -36,11 +36,11 @@ fastfetch 2.54.0-1
 ffmpegthumbs 25.08.2-1
 firefox 144.0-1
 flatpak 1:1.16.1-1
-fzf 0.66.0-1
+fzf 0.66.1-1
 gamemode 1.8.2-1
 gamescope 3.16.17-1
 gdu 5.31.0-1
-git 2.51.1-2
+git 2.51.2-1
 gnu-netcat 0.7.1-12
 godot 4.5.1-1
 goverlay 1.5.2-1
