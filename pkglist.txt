@@ -28,7 +28,7 @@ discord_arch_electron 1:0.0.113-1
 docker 1:28.5.1-1
 docker-compose 2.40.3-1
 dolphin 25.08.2-1
-dysk 3.2.0-1
+dysk 3.3.0-1
 easyeffects 7.2.5-2
 efibootmgr 18-3
 electron24-bin 24.8.8-4
@@ -66,13 +66,13 @@ jq 1.8.1-1
 kate 25.08.2-1
 kde-gtk-config 6.5.1-1
 kdeconnect 25.08.2-2
-kdenlive 25.08.2-1
+kdenlive 25.08.2-2
 kdeplasma-addons 6.5.1-1
 kdiskmark 3.2.0-1
 kitty 0.43.1-1
 klassy 6.4.breeze6.4.0-1
 konsole 25.08.2-1
-krita 5.2.13-2
+krita 5.2.13-3
 kscreen 6.5.1-1
 kubectl 1.34.1-1
 kwallet-pam 6.5.1-1
@@ -85,7 +85,7 @@ lib32-vulkan-radeon 1:25.2.6-1
 libva-utils 2.22.0-1
 libva-vdpau-driver 0.7.4-7
 libvdpau-va-gl 0.4.2-4
-linux 6.17.6.arch1-1
+linux 6.17.7.arch1-1
 linux-firmware 20251021-1
 lshw B.02.20-1
 lsp-plugins 1.2.24-1
@@ -179,7 +179,7 @@ vdpauinfo 1.5-2
 ventoy-bin 1.1.07-2
 vim 9.1.1841-1
 virtualbox 7.2.4-1
-virtualbox-host-modules-arch 7.2.4-3
+virtualbox-host-modules-arch 7.2.4-4
 visual-studio-code-bin 1.105.1-1
 vlc 3.0.21-30
 vulkan-radeon 1:25.2.6-1
