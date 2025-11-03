@@ -16,7 +16,7 @@ bat-extras 2024.08.24-1
 bitwarden 2025.10.0-1
 bitwarden-cli 2025.10.0-1
 bluedevil 1:6.5.1-1
-bottles 2:51.24-1
+bottles 2:52.0-1
 breeze-gtk 6.5.1-1
 calf 0.90.8-5
 cilium-cli 0.18.7-1
@@ -69,7 +69,7 @@ kdeconnect 25.08.2-2
 kdenlive 25.08.2-2
 kdeplasma-addons 6.5.1-1
 kdiskmark 3.2.0-1
-kitty 0.43.1-1
+kitty 0.44.0-1
 klassy 6.4.breeze6.4.0-1
 konsole 25.08.2-1
 krita 5.2.13-3
@@ -141,7 +141,7 @@ portproton 1.7.3-1
 power-profiles-daemon 0.30-1
 powerdevil 6.5.1-1
 procs 0.14.10-1
-proton-ge-custom-bin 1:GE_Proton10_24-1
+proton-ge-custom-bin 1:GE_Proton10_25-1
 protontricks 1.13.0-3
 protonup-qt 2.14.0-1
 pwgen 2.08-3
