@@ -21,7 +21,7 @@ breeze-gtk 6.5.1-1
 calf 0.90.8-5
 cilium-cli 0.18.7-1
 copyq 13.0.0-1
-cursor-bin 2.0.43-1
+cursor-bin 2.0.54-1
 desktop-patcher-hook v1.0.0.r25.g276de29-1
 direnv 2.37.1-1
 discord_arch_electron 1:0.0.113-1
@@ -108,12 +108,12 @@ ncdu 2.9.2-1
 neofetch 7.1.0-2
 nerd-fonts-sf-mono-ligatures 3.3.0-2
 networkmanager 1.54.1-1
-nexusmods-app-bin 0.19.4-1
+nexusmods-app-bin 0.20.2-1
 nmap 7.98-3
 noto-fonts-cjk 20240730-1
 noto-fonts-tc 2:20201206-1
 ntp 4.2.8.p18-6
-nvme-cli 2.15-1
+nvme-cli 2.16-1
 nvtop 3.2.0-1
 obs-plugin-input-overlay 5.1.0-1
 obs-studio 32.0.1-2
@@ -181,7 +181,7 @@ vim 9.1.1841-1
 virtualbox 7.2.4-1
 virtualbox-host-modules-arch 7.2.4-4
 visual-studio-code-bin 1.105.1-1
-vlc 3.0.21-30
+vlc 3.0.21-31
 vulkan-radeon 1:25.2.6-1
 vulkan-tools 1.4.328.1-1
 whois 5.6.5-1
