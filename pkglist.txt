@@ -2,7 +2,7 @@ adobe-source-han-sans-otc-fonts 2.005-1
 adobe-source-han-serif-otc-fonts 2.003-1
 alsa-utils 1.2.14-1
 amd-ucode 20251021-1
-ansible 12.1.0-1
+ansible 12.2.0-1
 ansible-lint 25.9.2-1
 archlinux-artwork 1.6-6
 aria2 1.37.0-2
@@ -21,11 +21,11 @@ breeze-gtk 6.5.1-1
 calf 0.90.8-5
 cilium-cli 0.18.7-1
 copyq 13.0.0-1
-cursor-bin 2.0.54-1
+cursor-bin 2.0.63-1
 desktop-patcher-hook v1.0.0.r25.g276de29-1
 direnv 2.37.1-1
 discord_arch_electron 1:0.0.113-1
-docker 1:28.5.1-1
+docker 1:28.5.2-1
 docker-compose 2.40.3-1
 dolphin 25.08.2-1
 dysk 3.3.0-1
@@ -90,7 +90,7 @@ linux-firmware 20251021-1
 lshw B.02.20-1
 lsp-plugins 1.2.24-1
 lutris 0.5.19-6
-lvm2 2.03.36-1
+lvm2 2.03.36-2
 makepkg-git-lfs-proto 1-1
 man-db 2.13.1-1
 mangohud 0.8.1-1
