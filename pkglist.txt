@@ -3,7 +3,7 @@ adobe-source-han-serif-otc-fonts 2.003-1
 alsa-utils 1.2.14-1
 amd-ucode 20251021-1
 ansible 12.2.0-1
-ansible-lint 25.9.2-1
+ansible-lint 25.11.0-1
 archlinux-artwork 1.6-6
 aria2 1.37.0-2
 ark 25.08.3-1
@@ -66,7 +66,7 @@ jq 1.8.1-1
 kate 25.08.3-1
 kde-gtk-config 6.5.2-1
 kdeconnect 25.08.3-1
-kdenlive 25.08.3-2
+kdenlive 25.08.3-3
 kdeplasma-addons 6.5.2-2
 kdiskmark 3.2.0-1
 kitty 0.44.0-1
