@@ -29,13 +29,13 @@ docker 1:28.5.2-1
 docker-compose 2.40.3-1
 dolphin 25.08.3-1
 dysk 3.4.0-1
-easyeffects 8.0.1-1
+easyeffects 8.0.3-1
 efibootmgr 18-3
 electron24-bin 24.8.8-4
 eza 0.23.4-1
 fastfetch 2.55.0-1
 ffmpegthumbs 25.08.3-1
-firefox 145.0-1
+firefox 145.0-2
 flatpak 1:1.16.1-1
 fzf 0.66.1-1
 gamemode 1.8.2-1
@@ -81,7 +81,7 @@ ldns 1.8.4-1
 lib32-gamemode 1.8.2-1
 lib32-mangohud 0.8.1-1
 lib32-vulkan-icd-loader 1.4.328.1-1
-lib32-vulkan-radeon 1:25.3.0-1
+lib32-vulkan-radeon 1:25.3.0-2
 libva-utils 2.22.0-1
 libva-vdpau-driver 0.7.4-7
 libvdpau-va-gl 0.4.2-4
@@ -126,6 +126,7 @@ opentofu 1.10.7-1
 paccache-hook 1.2.0-1
 packer 1.14.2-1
 partitionmanager 25.08.3-1
+pear-desktop 3.11.0-1
 pinta 3.0.4-1
 pipewire-alsa 1:1.4.9-1
 pkgstats 3.4.3-1
@@ -156,7 +157,7 @@ sddm-astronaut-theme 66.5e39e08-1
 sddm-kcm 6.5.2-1
 sdl2-compat 2.32.58-1
 shotcut 25.10.31-1
-signal-desktop 7.78.0-1
+signal-desktop 7.79.0-1
 sipcalc 1.1.6-6
 spacecadetpinball-bin 2.1.0-2
 spectacle 1:6.5.2-1
@@ -183,14 +184,13 @@ virtualbox 7.2.4-1
 virtualbox-host-modules-arch 7.2.4-6
 visual-studio-code-bin 1.106.0-1
 vlc 3.0.21-31
-vulkan-radeon 1:25.3.0-1
+vulkan-radeon 1:25.3.0-2
 vulkan-tools 1.4.328.1-1
 whois 5.6.5-1
 xdg-desktop-portal-kde 6.5.2-1
 xmousepasteblock 1.4-3
 xwaylandvideobridge 0.4.0-2
 yay 12.5.2-2
-youtube-music 3.11.0-2
 yt-dlp 2025.11.12-2
 zam-plugins-lv2 4.4-1
 zsh 5.9-5
