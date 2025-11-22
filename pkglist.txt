@@ -21,7 +21,7 @@ breeze-gtk 6.5.3-1
 calf 0.90.8-6
 cilium-cli 0.18.7-1
 copyq 13.0.0-1
-cursor-bin 2.0.77-1
+cursor-bin 2.1.19-1
 desktop-patcher-hook v1.0.0.r25.g276de29-1
 direnv 2.37.1-1
 discord_arch_electron 1:0.0.115-1
@@ -29,7 +29,7 @@ docker 1:29.0.2-1
 docker-compose 2.40.3-1
 dolphin 25.08.3-1
 dysk 3.4.0-1
-easyeffects 8.0.3-1
+easyeffects 8.0.4-1
 efibootmgr 18-3
 electron24-bin 24.8.8-4
 eza 0.23.4-1
@@ -41,7 +41,7 @@ fzf 0.67.0-1
 gamemode 1.8.2-1
 gamescope 3.16.17-1
 gdu 5.31.0-1
-git 2.52.0-1
+git 2.52.0-2
 gnu-netcat 0.7.1-12
 godot 4.5.1-1
 goverlay 1.6.1-1
@@ -90,7 +90,7 @@ linux-firmware 20251111-1
 lshw B.02.20-1
 lsp-plugins 1.2.25-1
 lutris 0.5.19-6
-lvm2 2.03.36-2
+lvm2 2.03.37-1
 makepkg-git-lfs-proto 1-1
 man-db 2.13.1-1
 mangohud 0.8.1-1
@@ -157,7 +157,7 @@ sddm-astronaut-theme 66.5e39e08-1
 sddm-kcm 6.5.3-1
 sdl2-compat 2.32.58-1
 shotcut 25.10.31-1
-signal-desktop 7.79.0-1
+signal-desktop 7.80.0-1
 sipcalc 1.1.6-6
 spacecadetpinball-bin 2.1.0-2
 spectacle 1:6.5.3-1
