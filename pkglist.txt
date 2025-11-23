@@ -21,7 +21,6 @@ breeze-gtk 6.5.3-1
 calf 0.90.8-6
 cilium-cli 0.18.7-1
 copyq 13.0.0-1
-cursor-bin 2.1.19-1
 desktop-patcher-hook v1.0.0.r25.g276de29-1
 direnv 2.37.1-1
 discord_arch_electron 1:0.0.115-1
@@ -40,7 +39,7 @@ flatpak 1:1.16.1-1
 fzf 0.67.0-1
 gamemode 1.8.2-1
 gamescope 3.16.17-1
-gdu 5.31.0-1
+gdu 5.32.0-1
 git 2.52.0-2
 gnu-netcat 0.7.1-12
 godot 4.5.1-1
@@ -116,7 +115,7 @@ ntp 4.2.8.p18-6
 nvme-cli 2.16-1
 nvtop 3.2.0-1
 obs-plugin-input-overlay 5.1.0-1
-obs-studio 32.0.1-2
+obs-studio 32.0.2-2
 obs-vkcapture-git r317.553fbb1-1
 ocs-url 3.1.0-7
 okular 25.08.3-1
