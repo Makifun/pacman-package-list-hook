@@ -24,7 +24,7 @@ copyq 13.0.0-1
 desktop-patcher-hook v1.0.0.r25.g276de29-1
 direnv 2.37.1-1
 discord_arch_electron 1:0.0.116-1
-docker 1:29.0.4-1
+docker 1:29.1.1-1
 docker-compose 2.40.3-1
 dolphin 25.08.3-1
 dysk 3.4.0-1
@@ -48,7 +48,7 @@ gparted 1.7.0-1
 grub 2:2.14rc1-2
 grub-customizer 5.2.5-2
 gsmartcontrol 2.0.2-1
-gst-plugin-pipewire 1:1.4.9-1
+gst-plugin-pipewire 1:1.4.9-2
 gst-plugins-bad 1.26.8-1
 gwenview 25.08.3-1
 handbrake 1.10.2-4
@@ -78,7 +78,7 @@ kwallet-pam 6.5.3-1
 kwalletmanager 25.08.3-1
 ldns 1.8.4-1
 lib32-gamemode 1.8.2-1
-lib32-mangohud 0.8.1-1
+lib32-mangohud 0.8.2-1
 lib32-vulkan-icd-loader 1.4.328.1-1
 lib32-vulkan-radeon 1:25.3.0-2
 libva-utils 2.22.0-1
@@ -92,7 +92,7 @@ lutris 0.5.19-6
 lvm2 2.03.37-1
 makepkg-git-lfs-proto 1-1
 man-db 2.13.1-1
-mangohud 0.8.1-1
+mangohud 0.8.2-1
 mda.lv2 1.2.10-2
 mediainfo 25.10-1
 mediainfo-gui 25.10-1
@@ -127,10 +127,10 @@ packer 1.14.3-1
 partitionmanager 25.08.3-1
 pear-desktop 3.11.0-1
 pinta 3.0.5-1
-pipewire-alsa 1:1.4.9-1
+pipewire-alsa 1:1.4.9-2
 pkgstats 3.4.3-1
 plasma-browser-integration 6.5.3-1
-plasma-desktop 6.5.3-1
+plasma-desktop 6.5.3-2
 plasma-firewall 6.5.3-1
 plasma-nm 6.5.3-1
 plasma-pa 6.5.3-1
@@ -140,7 +140,7 @@ plezy 1.8.1-1
 plocate 1.1.23-1
 portproton 1.7.3-1
 power-profiles-daemon 0.30-1
-powerdevil 6.5.3-1
+powerdevil 6.5.3-2
 procs 0.14.10-1
 proton-ge-custom-bin 1:GE_Proton10_25-1
 protontricks 1.13.1-1
@@ -189,7 +189,7 @@ whois 5.6.5-1
 xdg-desktop-portal-kde 6.5.3-1
 xmousepasteblock 1.4-3
 xwaylandvideobridge 0.4.0-2
-yay 12.5.2-2
+yay 12.5.3-1
 yt-dlp 2025.11.12-2
 zam-plugins-lv2 4.4-1
 zsh 5.9-5
