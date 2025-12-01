@@ -19,6 +19,7 @@ bluedevil 1:6.5.3-1
 bottles 2:60.0-1
 breeze-gtk 6.5.3-1
 calf 0.90.8-6
+chatterino2-bin 2.5.4-1
 cilium-cli 0.18.7-1
 copyq 13.0.0-1
 desktop-patcher-hook v1.0.0.r25.g276de29-1
@@ -128,7 +129,7 @@ partitionmanager 25.08.3-1
 pear-desktop 3.11.0-1
 pinta 3.0.5-1
 pipewire-alsa 1:1.4.9-2
-pkgstats 3.4.3-1
+pkgstats 3.4.4-1
 plasma-browser-integration 6.5.3-1
 plasma-desktop 6.5.3-2
 plasma-firewall 6.5.3-1
@@ -165,6 +166,8 @@ sqlitebrowser 3.13.1-2
 sshfs 3.7.3-3
 steam 1.0.0.85-1
 steamtinkerlaunch 12.12-1
+streamlink 8.0.0-1
+streamlink-twitch-gui-bin 2.5.3-1
 sudo 1.9.17.p2-1
 systemdgenie 0.99.0-6
 tldr 3.4.3-2
