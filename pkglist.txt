@@ -101,7 +101,7 @@ mda.lv2 1.2.10-2
 mediainfo 25.10-1
 mediainfo-gui 25.10-1
 mesa-utils 9.0.0-7
-meson 1.9.2-1
+meson 1.10.0-1
 microsoft-edge-stable-bin 143.0.3650.66-1
 mkinitcpio-firmware 1.6.0-1
 mpv 1:0.40.0-7
@@ -146,7 +146,7 @@ portproton 1.7.3-1
 power-profiles-daemon 0.30-1
 powerdevil 6.5.3-2
 procs 0.14.10-1
-proton-ge-custom-bin 1:GE_Proton10_25-1
+proton-ge-custom-bin 1:GE_Proton10_26-1
 protontricks 1.13.1-1
 protonup-qt 2.14.0-1
 pwgen 2.08-3
@@ -183,7 +183,7 @@ tuxclocker 1.5.1-2
 unp 1:2.0-1
 unrar 1:7.2.2-1
 vdpauinfo 1.5-2
-ventoy-bin 1.1.07-2
+ventoy-bin 1.1.08-1
 vim 9.1.1908-1
 virtualbox 7.2.4-1
 virtualbox-host-modules-arch 7.2.4-8
@@ -197,7 +197,7 @@ xmousepasteblock 1.4-3
 xwaylandvideobridge 0.4.0-2
 yay 12.5.3-1
 yay-debug 12.5.3-1
-yt-dlp 2025.11.12-2
+yt-dlp 2025.12.08-1
 zam-plugins-lv2 4.4-1
 zsh 5.9-5
 zsh-autosuggestions 0.7.1-1
