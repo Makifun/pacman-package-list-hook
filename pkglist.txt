@@ -140,7 +140,6 @@ plasma-nm 6.5.4-1
 plasma-pa 6.5.4-1
 plasma-systemmonitor 6.5.4-1
 playerctl 2.4.1-4
-plezy 1.8.1-1
 plocate 1.1.23-1
 portproton 1.7.3-1
 power-profiles-daemon 0.30-1
