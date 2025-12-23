@@ -10,7 +10,7 @@ ark 25.12.0-1
 audacity 1:3.7.7-1
 base 3-2
 base-devel 1-2
-bash-completion 2.17.0-1
+bash-completion 2.17.0-2
 bat 0.26.1-1
 bat-extras 2024.08.24-1
 bitwarden 2025.12.0-1
@@ -28,7 +28,7 @@ discord_arch_electron 1:0.0.119-1
 docker 1:29.1.3-1
 docker-compose 5.0.0-1
 dolphin 25.12.0-1
-dysk 3.5.0-1
+dysk 3.6.0-1
 easyeffects 8.0.8-1
 efibootmgr 18-3
 electron24-bin 24.8.8-4
@@ -47,7 +47,7 @@ gdu 5.32.0-1
 git 2.52.0-2
 gnu-netcat 0.7.1-12
 godot 4.5.1-1
-goverlay 1.6.6-1
+goverlay 1.6.7-1
 gparted 1.7.0-1
 grub 2:2.14rc1.r54.g29f3131a-2
 grub-customizer 5.2.5-2
@@ -91,7 +91,7 @@ libvdpau-va-gl 0.4.2-4
 linux 6.18.2.arch2-1
 linux-firmware 20251125-2
 lshw B.02.20-1
-lsp-plugins 1.2.25-1
+lsp-plugins 1.2.26-1
 lutris 0.5.19-6
 lvm2 2.03.38-1
 makepkg-git-lfs-proto 2-1
@@ -190,6 +190,7 @@ visual-studio-code-bin 1.107.1-1
 vlc 3.0.21-32
 vulkan-radeon 1:25.3.2-1
 vulkan-tools 1.4.335.0-1
+waterfox-bin 6.6.6-1
 whois 5.6.5-1
 xdg-desktop-portal-kde 6.5.4-1
 xmousepasteblock 1.4-3
