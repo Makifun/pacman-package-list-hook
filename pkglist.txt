@@ -71,7 +71,7 @@ kdeconnect 25.12.0-1
 kdenlive 25.12.0-5
 kdeplasma-addons 6.5.4-1
 kdiskmark 3.2.0-1
-kitty 0.45.0-2
+kitty 0.45.0-4
 klassy 6.4.breeze6.4.0-1
 konsole 25.12.0-1
 krita 5.2.14-2
@@ -144,7 +144,7 @@ portproton 1.7.3-1
 power-profiles-daemon 0.30-1
 powerdevil 6.5.4-1
 procs 0.14.10-1
-proton-ge-custom-bin 1:GE_Proton10_27-1
+proton-ge-custom-bin 1:GE_Proton10_28-1
 protontricks 1.13.1-1
 protonup-qt 2.14.0-1
 pwgen 2.08-3
@@ -156,7 +156,7 @@ s3cmd 2.4.0-5
 sddm 0.21.0-6
 sddm-astronaut-theme 66.5e39e08-1
 sddm-kcm 6.5.4-1
-sdl2-compat 2.32.60-1
+sdl2-compat 2.32.62-1
 shotcut 25.10.31-1
 signal-desktop 7.83.0-1
 sipcalc 1.1.6-6
