@@ -129,7 +129,7 @@ paccache-hook 1.2.0-1
 packer 1.14.3-1
 partitionmanager 25.12.1-1
 pear-desktop 3.11.0-1
-pinta 3.1-1
+pinta 3.1.1-1
 pipewire-alsa 1:1.4.9-2
 pkgstats 3.4.4-1
 plasma-browser-integration 6.5.4-1
@@ -182,7 +182,7 @@ unp 1:2.0-1
 unrar 1:7.2.3-1
 vdpauinfo 1.5-2
 ventoy-bin 1.1.10-2
-vim 9.1.1975-2
+vim 9.1.2077-1
 virtualbox 7.2.4-2
 virtualbox-host-modules-arch 7.2.4-14
 visual-studio-code-bin 1.108.0-1
