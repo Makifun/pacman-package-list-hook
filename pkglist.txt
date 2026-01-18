@@ -20,7 +20,7 @@ bottles 2:60.1-1
 breeze-gtk 6.5.5-1
 calf 0.90.8-6
 chatterino2-bin 2.5.4-2
-cilium-cli 0.18.9-1
+cilium-cli 0.19.0-1
 copyq 13.0.0-1
 desktop-patcher-hook v1.0.0.r25.g276de29-1
 direnv 2.37.1-1
@@ -167,7 +167,7 @@ sqlitebrowser 3.13.1-2
 sshfs 3.7.3-3
 steam 1.0.0.85-1
 steamtinkerlaunch 12.12-1
-streamlink 8.1.0-2
+streamlink 8.1.1-1
 streamlink-twitch-gui-bin 2.5.3-1
 sudo 1.9.17.p2-2
 systemdgenie 0.99.0-6
