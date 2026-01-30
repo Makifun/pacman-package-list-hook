@@ -16,7 +16,7 @@ bat-extras 2024.08.24-1
 bitwarden 2025.12.0-1
 bitwarden-cli 2025.12.0-1
 bluedevil 1:6.5.5-1
-bottles 2:60.1-1
+bottles 2:61.1-1
 breeze-gtk 6.5.5-1
 calf 0.90.8-6
 chatterino2-bin 2.5.4-2
@@ -24,9 +24,9 @@ cilium-cli 0.19.0-1
 copyq 13.0.0-1
 desktop-patcher-hook v1.0.0.r25.g276de29-1
 direnv 2.37.1-1
-discord_arch_electron 1:0.0.121-1
-docker 1:29.1.4-1
-docker-compose 5.0.1-1
+discord_arch_electron 1:0.0.122-1
+docker 1:29.2.0-1
+docker-compose 5.0.2-1
 dolphin 25.12.1-1
 dysk 3.6.0-1
 easyeffects 8.1.0-1
@@ -36,9 +36,9 @@ eza 0.23.4-1
 fastfetch 2.58.0-1
 fcitx5-configtool 5.1.12-1
 fcitx5-gtk 5.1.5-1
-fcitx5-qt 5.1.12-1
+fcitx5-qt 5.1.12-2
 ffmpegthumbs 25.12.1-1
-firefox 147.0.1-1
+firefox 147.0.2-1
 flatpak 1:1.16.3-1
 fzf 0.67.0-2
 gamemode 1.8.2-1
@@ -46,9 +46,9 @@ gamescope 3.16.19-3
 gdu 5.32.0-1
 git 2.52.0-2
 gnu-netcat 0.7.1-12
-godot 4.5.1-1
-goverlay 1.7.1-1
-gparted 1.7.0-1
+godot 4.6-1
+goverlay 1.7.3-1
+gparted 1.8.0-1
 grub 2:2.14-1
 grub-customizer 5.2.5-2
 gsmartcontrol 2.0.2-1
@@ -59,9 +59,9 @@ handbrake 1.10.2-4
 hdparm 9.65-3
 helm 3.19.5-1
 helvum 0.5.1-1
-heroic-games-launcher-bin 2.18.1-3
+heroic-games-launcher-bin 2.19.1-1
 htop 3.4.1-1
-inetutils 2.6-1
+inetutils 2.7-2
 iotop 0.6-13
 irssi 1.4.5-5
 jq 1.8.1-1
@@ -74,7 +74,7 @@ kdiskmark 3.2.0-1
 kitty 0.45.0-4
 klassy 6.4.breeze6.4.0-1
 konsole 25.12.1-1
-krita 5.2.14-3
+krita 5.2.15-1
 kscreen 6.5.5-1
 kubectl 1.35.0-1
 kwallet-pam 6.5.5-1
@@ -116,7 +116,7 @@ noto-fonts-cjk 20240730-1
 noto-fonts-tc 2:20201206-1
 ntp 4.2.8.p18-6
 nvme-cli 2.16-1
-nvtop 3.2.0-1
+nvtop 3.3.0-1
 obs-plugin-input-overlay 5.1.0-1
 obs-studio 32.0.4-1
 obs-vkcapture-git r317.553fbb1-1
@@ -144,7 +144,7 @@ portproton 1.7.5-1
 power-profiles-daemon 0.30-1
 powerdevil 6.5.5-1
 procs 0.14.10-1
-proton-ge-custom-bin 1:GE_Proton10_28-1
+proton-ge-custom-bin 1:GE_Proton10_29-2
 protontricks 1.13.1-3
 protonup-qt 2.14.0-1
 pwgen 2.08-3
@@ -158,7 +158,7 @@ sddm-astronaut-theme 66.5e39e08-1
 sddm-kcm 6.5.5-1
 sdl2-compat 2.32.62-1
 shotcut 25.12.31-1
-signal-desktop 7.86.0-1
+signal-desktop 7.87.0-1
 sipcalc 1.1.6-6
 spacecadetpinball-bin 2.1.0-2
 spectacle 1:6.5.5-1
@@ -173,7 +173,7 @@ sudo 1.9.17.p2-2
 systemdgenie 0.99.0-6
 tldr 3.4.3-3
 tree 2.2.1-1
-ttf-firacode-nerd 3.4.0-1
+ttf-firacode-nerd 3.4.0-2
 ttf-meslo-nerd-font-powerlevel10k 2.3.3-1
 ttf-ms-win11-auto 10.0.26100.1742-4
 ttf-tw 2:5.0-3
@@ -183,8 +183,8 @@ unrar 1:7.2.3-1
 vdpauinfo 1.5-2
 ventoy-bin 1.1.10-2
 vim 9.1.2077-1
-virtualbox 7.2.4-2
-virtualbox-host-modules-arch 7.2.4-17
+virtualbox 7.2.6-1
+virtualbox-host-modules-arch 7.2.6-1
 visual-studio-code-bin 1.108.2-1
 vlc 3.0.21-32
 vulkan-radeon 1:25.3.4-1
@@ -194,7 +194,7 @@ whois 5.6.5-1
 xdg-desktop-portal-kde 6.5.5-1
 xmousepasteblock 1.4-3
 yay 12.5.7-1
-yt-dlp 2025.12.08-2
+yt-dlp 2026.01.29-1
 zam-plugins-lv2 4.4-1
 zsh 5.9-5
 zsh-autosuggestions 0.7.1-1
