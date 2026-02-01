@@ -20,7 +20,7 @@ bluez-utils 5.85-1
 bottles 2:61.1-1
 breeze-gtk 6.5.5-1
 calf 0.90.8-6
-chatterino2-bin 2.5.4-2
+chatterino2-bin 2.5.4-3
 cilium-cli 0.19.0-1
 copyq 13.0.0-1
 desktop-patcher-hook v1.0.0.r25.g276de29-1
@@ -53,8 +53,8 @@ gparted 1.8.0-1
 grub 2:2.14-1
 grub-customizer 5.2.5-2
 gsmartcontrol 2.0.2-1
-gst-plugin-pipewire 1:1.4.10-1
-gst-plugins-bad 1.26.10-3
+gst-plugin-pipewire 1:1.4.10-2
+gst-plugins-bad 1.26.10-4
 gwenview 25.12.1-1
 handbrake 1.10.2-4
 hdparm 9.65-3
@@ -125,14 +125,15 @@ ocs-url 3.1.0-7
 okular 25.12.1-1
 onefetch 2.26.1-1
 openssh 10.2p1-2
-opentofu 1.11.3-1
+openssl-1.1 1.1.1.w-7
+opentofu 1.11.4-1
 paccache-hook 1.2.0-1
 packer 1.14.3-1
 partitionmanager 25.12.1-1
 pear-desktop 3.11.0-1
 pinta 3.1.1-2
-pipewire-alsa 1:1.4.10-1
-pkgstats 3.4.4-1
+pipewire-alsa 1:1.4.10-2
+pkgstats 3.5.0-1
 plasma-browser-integration 6.5.5-1
 plasma-desktop 6.5.5-1
 plasma-firewall 6.5.5-1
@@ -158,7 +159,7 @@ sddm 0.21.0-6
 sddm-astronaut-theme 66.5e39e08-1
 sddm-kcm 6.5.5-1
 sdl2-compat 2.32.62-1
-shotcut 25.12.31-1
+shotcut 26.1.30-1
 signal-desktop 7.87.0-1
 sipcalc 1.1.6-6
 spacecadetpinball-bin 2.1.0-2
@@ -195,7 +196,7 @@ whois 5.6.5-1
 xdg-desktop-portal-kde 6.5.5-1
 xmousepasteblock 1.4-3
 yay 12.5.7-1
-yt-dlp 2026.01.29-1
+yt-dlp 2026.01.31-1
 zam-plugins-lv2 4.4-1
 zsh 5.9-5
 zsh-autosuggestions 0.7.1-1
