@@ -16,6 +16,7 @@ bat-extras 2024.08.24-1
 bitwarden 2025.12.0-1
 bitwarden-cli 2025.12.0-1
 bluedevil 1:6.5.5-1
+bluez-utils 5.85-1
 bottles 2:61.1-1
 breeze-gtk 6.5.5-1
 calf 0.90.8-6
