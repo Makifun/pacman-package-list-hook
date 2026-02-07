@@ -44,7 +44,7 @@ firefox 147.0.3-1
 flatpak 1:1.16.3-1
 fzf 0.67.0-2
 gamemode 1.8.2-1
-gamescope 3.16.19-3
+gamescope 3.16.20-1
 gdu 5.32.0-1
 git 2.53.0-1
 gnu-netcat 0.7.1-12
@@ -85,7 +85,7 @@ ldns 1.9.0-1
 lib32-gamemode 1.8.2-1
 lib32-mangohud 0.8.2-1
 lib32-vulkan-icd-loader 1.4.341.0-1
-lib32-vulkan-radeon 1:25.3.4-1
+lib32-vulkan-radeon 1:25.3.5-1
 libva-utils 2.22.0-1
 libva-vdpau-driver 0.7.4-7
 libvdpau-va-gl 0.4.2-4
@@ -191,7 +191,7 @@ virtualbox 7.2.6-1
 virtualbox-host-modules-arch 7.2.6-2
 visual-studio-code-bin 1.109.0-1
 vlc 3.0.21-32
-vulkan-radeon 1:25.3.4-1
+vulkan-radeon 1:25.3.5-1
 vulkan-tools 1.4.341.0-1
 waterfox-bin 6.6.6-1
 whois 5.6.5-1
