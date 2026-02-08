@@ -49,7 +49,7 @@ gdu 5.32.0-1
 git 2.53.0-1
 gnu-netcat 0.7.1-12
 godot 4.6-1
-goverlay 1.7.3-1
+goverlay 1.7.4-1
 gparted 1.8.0-1
 grub 2:2.14-1
 grub-customizer 5.2.5-2
@@ -129,7 +129,7 @@ openssh 10.2p1-2
 openssl-1.1 1.1.1.w-7
 opentofu 1.11.4-1
 paccache-hook 1.2.0-1
-packer 1.14.3-1
+packer 1.15.0-2
 partitionmanager 25.12.2-1
 pear-desktop 3.11.0-1
 pinta 3.1.1-2
