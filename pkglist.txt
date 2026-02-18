@@ -36,7 +36,7 @@ efibootmgr 18-3
 electron24-bin 24.8.8-4
 eza 0.23.4-3
 fastfetch 2.59.0-1
-fcitx5-configtool 5.1.12-1
+fcitx5-configtool 5.1.12-2
 fcitx5-gtk 5.1.5-1
 fcitx5-qt 5.1.12-2
 ffmpegthumbs 25.12.2-1
@@ -196,7 +196,7 @@ visual-studio-code-bin 1.109.4-1
 vlc 3.0.21-32
 vulkan-radeon 1:25.3.5-1
 vulkan-tools 1.4.341.0-1
-waterfox-bin 6.6.6-1
+waterfox-bin 6.6.8-1
 whois 5.6.6-1
 xdg-desktop-portal-kde 6.6.0-1
 xmousepasteblock 1.4-3
