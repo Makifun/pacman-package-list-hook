@@ -1,7 +1,7 @@
 adobe-source-han-sans-otc-fonts 2.005-1
 adobe-source-han-serif-otc-fonts 2.003-1
 alsa-utils 1.2.15.2-2
-amd-ucode 20260110-1
+amd-ucode 20260221-1
 ansible 13.3.0-1
 ansible-lint 26.1.1-1
 arch-install-scripts 31-1
@@ -75,7 +75,7 @@ kdenlive 25.12.2-1
 kdeplasma-addons 6.6.0-1
 kdiskmark 3.2.0-2
 kitty 0.45.0-4
-klassy 6.5.2-1
+klassy 6.5.3-1
 konsole 25.12.2-1
 krita 5.2.15-1
 kscreen 6.6.0-1
@@ -91,7 +91,7 @@ libva-utils 2.22.0-1
 libva-vdpau-driver 0.7.4-7
 libvdpau-va-gl 0.4.2-4
 linux 6.18.9.arch1-2
-linux-firmware 20260110-1
+linux-firmware 20260221-1
 lshw B.02.20-3
 lsp-plugins 1.2.26-1
 lutris 0.5.20-1
@@ -105,7 +105,7 @@ mediainfo 26.01-1
 mediainfo-gui 26.01-1
 mesa-utils 9.0.0-7
 meson 1.10.1-1
-microsoft-edge-stable-bin 145.0.3800.58-1
+microsoft-edge-stable-bin 145.0.3800.70-1
 mkinitcpio-firmware 1.6.0-1
 mpv 1:0.41.0-3
 mtr 0.96-1
@@ -116,6 +116,7 @@ nerd-fonts-sf-mono-ligatures 3.3.0-2
 networkmanager 1.54.3-1
 nexusmods-app-bin 0.21.1-1
 nix 2.33.3-2
+nixfmt 1.2.0-1
 nmap 7.98-5
 noto-fonts-cjk 20240730-1
 noto-fonts-tc 2:20201206-1
@@ -189,7 +190,7 @@ unrar 1:7.2.4-1
 vdpauinfo 1.5-2
 ventoy-bin 1.1.10-2
 vesktop 1.6.5-1
-vim 9.2.0010-1
+vim 9.2.0038-1
 virt-manager 5.1.0-3
 virtualbox 7.2.6-1
 virtualbox-host-modules-arch 7.2.6-4
@@ -202,7 +203,7 @@ whois 5.6.6-1
 xdg-desktop-portal-kde 6.6.0-1
 xmousepasteblock 1.4-3
 yay 12.5.7-1
-yt-dlp 2026.02.04-1
+yt-dlp 2026.02.21-1
 zam-plugins-lv2 4.4-1
 zsh 5.9-5
 zsh-autosuggestions 0.7.1-1
