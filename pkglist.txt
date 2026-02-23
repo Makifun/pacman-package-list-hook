@@ -22,7 +22,7 @@ bottles 2:62.0-1
 breeze-gtk 6.6.0-1
 calf 0.90.8-6
 chatterino2-bin 2.5.4-3
-cilium-cli 0.19.0-1
+cilium-cli 0.19.1-1
 copyq 13.0.0-1
 desktop-patcher-hook v1.0.0.r25.g276de29-1
 direnv 2.37.1-1
@@ -188,7 +188,7 @@ tuxclocker 1.5.1-2
 unp 1:2.0-1
 unrar 1:7.2.4-1
 vdpauinfo 1.5-2
-ventoy-bin 1.1.10-2
+ventoy-bin 1.1.10-3
 vesktop 1.6.5-1
 vim 9.2.0038-1
 virt-manager 5.1.0-3
