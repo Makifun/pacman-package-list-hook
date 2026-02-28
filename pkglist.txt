@@ -151,7 +151,7 @@ plocate 1.1.24-1
 portproton 1.7.5-1
 power-profiles-daemon 0.30-1
 powerdevil 6.6.1-1
-procs 0.14.10-2
+procs 0.14.11-1
 proton-ge-custom-bin 1:GE_Proton10_32-1
 protontricks 1.13.1-3
 protonup-qt 2.15.0-1
