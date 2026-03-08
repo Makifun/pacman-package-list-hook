@@ -22,12 +22,12 @@ bottles 2:62.0-1
 breeze-gtk 6.6.2-1
 calf 0.90.8-6
 chatterino2-bin 2.5.4-3
-cilium-cli 0.19.1-1
+cilium-cli 0.19.2-1
 copyq 13.0.0-1
 desktop-patcher-hook v1.0.0.r25.g276de29-1
 direnv 2.37.1-1
 discord_arch_electron 1:0.0.127-1
-docker 1:29.2.1-1
+docker 1:29.3.0-1
 docker-compose 5.1.0-1
 dolphin 25.12.3-1
 dysk 1:3.6.0b-1
@@ -35,7 +35,7 @@ easyeffects 8.1.2-1
 efibootmgr 18-3
 electron24-bin 24.8.8-4
 eza 0.23.4-3
-fastfetch 2.59.0-1
+fastfetch 2.60.0-1
 fcitx5-configtool 5.1.12-3
 fcitx5-gtk 5.1.5-1
 fcitx5-qt 5.1.12-2
@@ -56,7 +56,7 @@ gparted 1.8.0-1
 grub 2:2.14-1
 grub-customizer 5.2.5-2
 gsmartcontrol 2.0.2-1
-gst-plugin-pipewire 1:1.6.0-1
+gst-plugin-pipewire 1:1.6.0-2
 gst-plugins-bad 1.28.1-1
 gwenview 25.12.3-1
 handbrake 1.10.2-4
@@ -80,7 +80,7 @@ klassy 6.5.3-1
 konsole 25.12.3-1
 krita 5.2.16-1
 kscreen 6.6.2-1
-kubectl 1.35.1-1
+kubectl 1.35.2-1
 kwallet-pam 6.6.2-1
 kwalletmanager 25.12.3-1
 ldns 1.9.0-1
@@ -106,7 +106,7 @@ mediainfo 26.01-1
 mediainfo-gui 26.01-1
 mesa-utils 9.0.0-7
 meson 1.10.1-1
-microsoft-edge-stable-bin 145.0.3800.82-1
+microsoft-edge-stable-bin 145.0.3800.97-1
 mkinitcpio-firmware 1.6.0-1
 mpv 1:0.41.0-3
 mtr 0.96-1
@@ -138,7 +138,7 @@ packer 1.15.0-2
 partitionmanager 25.12.3-1
 pear-desktop 3.11.0-1
 pinta 3.1.1-2
-pipewire-alsa 1:1.6.0-1
+pipewire-alsa 1:1.6.0-2
 pkgstats 3.5.1-1
 plasma-browser-integration 6.6.2-1
 plasma-desktop 6.6.2-1
@@ -206,7 +206,7 @@ xdg-desktop-portal-kde 6.6.2-1
 xmousepasteblock 1.4-3
 yay 12.5.7-1
 yt-dlp 2026.03.03-1
-zam-plugins-lv2 4.4-1
+zam-plugins-lv2 4.4-2
 zsh 5.9-5
 zsh-autosuggestions 0.7.1-1
 zsh-completions 0.35.0-3
