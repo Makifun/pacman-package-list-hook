@@ -23,6 +23,7 @@ bluez-utils 5.86-4.1
 bottles 2:62.0-1
 brave-bin 1:1.88.132-1
 breeze-gtk 6.6.2-1
+cachyos-kernel-manager 1.16.1-1.1
 cachyos-keyring 20240331-1
 cachyos-mirrorlist 22-1
 cachyos-v3-mirrorlist 22-1
@@ -99,6 +100,8 @@ libva-utils 2.22.0-1.1
 libva-vdpau-driver 0.7.4-7
 libvdpau-va-gl 0.4.2-4.1
 linux 6.19.8.arch1-1
+linux-cachyos-bore 6.19.7-1
+linux-cachyos-bore-headers 6.19.7-1
 linux-firmware 1:20260309-1
 lshw B.02.20-3.1
 lsp-plugins 1.2.27-1
