@@ -115,7 +115,7 @@ mda.lv2 1.2.10-2.1
 mediainfo 26.01-1.1
 mediainfo-gui 26.01-1.1
 mesa-utils 9.0.0-7.1
-meson 1.10.1-1
+meson 1.10.2-1
 mkinitcpio-firmware 1.6.0-1
 mpv 1:0.41.0-3.1
 mtr 0.96-1.1
@@ -205,7 +205,7 @@ vesktop 1.6.5-1
 vim 9.2.0081-1.1
 virt-manager 5.1.0-3
 virtualbox 7.2.6-1
-virtualbox-host-modules-arch 7.2.6-8
+virtualbox-host-modules-arch 7.2.6-8.1
 visual-studio-code-bin 1.111.0-1
 vlc 3.0.21-32.1
 vulkan-radeon 2:26.0.2-3
