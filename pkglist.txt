@@ -17,7 +17,7 @@ bash-completion 2.17.0-3
 bat 0.26.1-2.1
 bat-extras 2024.08.24-1
 bitwarden 2026.1.0-1
-bitwarden-cli 2025.12.0-1
+bitwarden-cli 2026.2.0-1
 bluedevil 1:6.6.3-1.1
 bluez-utils 5.86-4.1
 bottles 2:62.0-1
