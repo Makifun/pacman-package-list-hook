@@ -29,7 +29,7 @@ cachyos-mirrorlist 22-1
 cachyos-v3-mirrorlist 22-1
 cachyos-v4-mirrorlist 22-1
 calf 0.90.9-2.1
-chatterino2-bin 2.5.5-2
+chatterino2-bin 2.5.5-3
 cilium-cli 0.19.2-1.1
 claude-code 2.1.86-1
 copyq 14.0.0-1.1
@@ -44,7 +44,7 @@ easyeffects 8.1.7-1.1
 efibootmgr 18-3.1
 electron24-bin 24.8.8-4
 eza 0.23.4-3.1
-fastfetch 2.60.0-1.1
+fastfetch 2.61.0-1.1
 fcitx5-configtool 5.1.13-1.1
 fcitx5-gtk 5.1.6-1.1
 fcitx5-qt 5.1.13-3.1
@@ -123,7 +123,7 @@ mtr 0.96-1.1
 nano 8.7.1-1.1
 ncdu 2.9.2-1.1
 neofetch 7.1.0-4
-neovim 0.11.6-1.1
+neovim 0.11.7-1.1
 nerd-fonts-sf-mono-ligatures 3.3.0-2
 networkmanager 1.56.0-1
 nexusmods-app-bin 0.21.1-1
@@ -166,7 +166,7 @@ power-profiles-daemon 0.30-3
 powerdevil 6.6.3-1.1
 procs 0.14.11-1.1
 proton-ge-custom-bin 1:GE_Proton10_34-1
-protontricks 1.14.0-1
+protontricks 1.14.1-1
 protonup-qt 2.15.0-1
 pwgen 2.08-3.1
 python-pip 26.0.1-1
@@ -188,7 +188,7 @@ spectacle 1:6.6.3-2.1
 spotify 1:1.2.63.394-1
 sqlitebrowser 3.13.1-3.1
 sshfs 3.7.5-1.1
-steam 1.0.0.85-5
+steam 1.0.0.85-6
 steamtinkerlaunch 12.12-1
 stow 2.4.1-1
 streamlink 8.2.1-1
@@ -197,7 +197,7 @@ sudo 1.9.17.p2-2.1
 systemdgenie 0.99.0-6.1
 tldr 3.4.4-1
 tmux 3.6_a-1.1
-tree 2.3.1-1
+tree 2.3.2-1
 tree-sitter-cli 0.25.10-3.1
 ttf-firacode-nerd 3.4.0-2
 ttf-iosevka-nerd 3.4.0-2
@@ -216,7 +216,7 @@ virt-manager 5.1.0-3
 virtualbox 7.2.6-4
 virtualbox-host-modules-arch 7.2.6-10.1
 visual-studio-code-bin 1.113.0-1
-vlc 3.0.22-1.1
+vlc 3.0.22-2.1
 vulkan-radeon 2:26.0.3-2
 vulkan-tools 1.4.341.0-2.1
 waterfox-bin 1:6.6.10-1
