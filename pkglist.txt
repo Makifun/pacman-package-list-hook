@@ -5,7 +5,7 @@ alsa-utils 1.2.15.2-2.1
 amd-ucode 1:20260309-1
 ansible 13.5.0-1
 ansible-lint 26.4.0-1
-antigravity 1.21.9-1
+antigravity 1.22.2-1
 arch-install-scripts 31-1
 archlinux-artwork 1.6-6
 aria2 1.37.0-2.1
@@ -19,7 +19,7 @@ bat-extras 2024.08.24-1
 bitwarden 2026.2.1-1.1
 bluedevil 1:6.6.4-1
 bluez-utils 5.86-4.1
-bottles 2:63.0-1
+bottles 2:63.2-1
 brave-bin 1:1.88.138-1
 breeze-gtk 6.6.4-1
 btop 1.4.6-2.1
@@ -31,7 +31,7 @@ cachyos-v4-mirrorlist 22-1
 calf 0.90.9-2.1
 chatterino2-bin 2.5.5-3
 cilium-cli 0.19.2-1.1
-claude-code 2.1.92-2
+claude-code 2.1.94-1
 copyq 14.0.0-1.1
 desktop-patcher-hook v1.0.0.r25.g276de29-1
 direnv 2.37.1-1.1
@@ -50,7 +50,7 @@ fcitx5-gtk 5.1.6-1.1
 fcitx5-qt 5.1.13-3.1
 fd 10.4.2-1.1
 ffmpegthumbs 25.12.3-1.1
-flatpak 1:1.16.3-1.1
+flatpak 1:1.16.4-1.1
 foot 1.26.1-1.1
 fzf 0.71.0-1.1
 gamemode 1.8.2-2.1
@@ -65,7 +65,7 @@ grub 2:2.14-1.1
 grub-customizer 5.2.5-2
 gsmartcontrol 2.0.2-1
 gst-plugin-pipewire 1:1.6.2-1.1
-gst-plugins-bad 1.28.1-2.1
+gst-plugins-bad 1.28.2-1
 gwenview 25.12.3-1.1
 handbrake 1.11.1-1.1
 hdparm 9.65-3.1
@@ -73,6 +73,7 @@ helm 4.1.3-1.1
 helvum 0.5.1-1
 heroic-games-launcher-bin 2.20.1-1
 htop 3.4.1-1.1
+hwatch-bin 0.3.20-1
 inetutils 2.7-2.1
 iotop 0.6-13
 irssi 1.4.5-5.1
@@ -101,8 +102,8 @@ libva-utils 2.22.0-1.1
 libva-vdpau-driver 0.7.4-7
 libvdpau-va-gl 0.4.2-4.1
 linux 6.19.11.arch1-1
-linux-cachyos-bore 6.19.10-1
-linux-cachyos-bore-headers 6.19.10-1
+linux-cachyos-bore 6.19.11-1
+linux-cachyos-bore-headers 6.19.11-1
 linux-firmware 1:20260309-1
 lshw B.02.20-3.1
 lsp-plugins 1.2.27-2.1
@@ -127,7 +128,7 @@ neovim 0.12.1-1.1
 nerd-fonts-sf-mono-ligatures 3.3.0-2
 networkmanager 1.56.0-1
 nexusmods-app-bin 0.21.1-1
-nix 2.34.4-2.1
+nix 2.34.5-1.1
 nixfmt 1.2.0-1
 nmap 7.99-2.1
 noto-fonts-cjk 20240730-1
@@ -210,13 +211,13 @@ tuxclocker 1.5.1-3
 unp 1:2.0-1
 unrar 1:7.2.5-1.1
 vdpauinfo 1.5-2.1
-ventoy-bin 1.1.11-3
+ventoy-bin 1.1.11-4
 vesktop 1.6.5-1
-vim 9.2.0315-1.1
+vim 9.2.0316-1.1
 virt-manager 5.1.0-3
 virtualbox 7.2.6-4
 virtualbox-host-modules-arch 7.2.6-11.1
-visual-studio-code-bin 1.114.0-1
+visual-studio-code-bin 1.115.0-1
 vlc 3.0.22-3.1
 vulkan-radeon 2:26.0.4-2
 vulkan-tools 1.4.341.0-2.1
