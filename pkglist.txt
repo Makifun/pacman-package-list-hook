@@ -20,7 +20,7 @@ bitwarden 2026.2.1-1.1
 bluedevil 1:6.6.4-1
 bluez-utils 5.86-4.1
 bottles 2:63.2-1
-brave-bin 1:1.88.138-1
+brave-bin 1:1.89.132-1
 breeze-gtk 6.6.4-1
 btop 1.4.6-2.1
 cachyos-kernel-manager 1.17.0-1
@@ -29,9 +29,9 @@ cachyos-mirrorlist 22-1
 cachyos-v3-mirrorlist 22-1
 cachyos-v4-mirrorlist 22-1
 calf 0.90.9-2.1
-chatterino2-bin 2.5.5-3
+chatterino2-bin 2.5.5-4
 cilium-cli 0.19.2-1.1
-claude-code 2.1.97-1
+claude-code 2.1.100-1
 copyq 14.0.0-1.1
 desktop-patcher-hook v1.0.0.r25.g276de29-1
 direnv 2.37.1-1.1
@@ -64,7 +64,7 @@ gparted 1.8.1-1.1
 grub 2:2.14-1.1
 grub-customizer 5.2.5-2
 gsmartcontrol 2.0.2-1
-gst-plugin-pipewire 1:1.6.2-1.1
+gst-plugin-pipewire 1:1.6.3-1.1
 gst-plugins-bad 1.28.2-1
 gwenview 25.12.3-1.1
 handbrake 1.11.1-1.1
@@ -150,7 +150,7 @@ packer 1.15.1-1.1
 partitionmanager 25.12.3-1.1
 pear-desktop 3.11.0-1
 pinta 3.1.2-1
-pipewire-alsa 1:1.6.2-1.1
+pipewire-alsa 1:1.6.3-1.1
 pkgfile 25-2.1
 pkgstats 3.5.2-1.1
 plasma-browser-integration 6.6.4-1.1
@@ -192,7 +192,7 @@ sshfs 3.7.5-1.1
 steam 1.0.0.85-6
 steamtinkerlaunch 12.12-1
 stow 2.4.1-1
-streamlink 8.2.1-1
+streamlink 8.3.0-1
 streamlink-twitch-gui-bin 2.5.3-1
 sudo 1.9.17.p2-2.1
 systemdgenie 0.99.0-7.1
