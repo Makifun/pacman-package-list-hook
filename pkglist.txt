@@ -31,7 +31,7 @@ cachyos-v4-mirrorlist 27-1
 calf 0.90.9-2.1
 chatterino2-bin 2.5.5-4
 cilium-cli 0.19.2-1.1
-claude-code 2.1.105-1
+claude-code 2.1.109-1
 copyq 15.0.0-1.1
 desktop-patcher-hook v1.0.0.r25.g276de29-1
 direnv 2.37.1-1.1
@@ -156,6 +156,7 @@ pkgstats 3.5.2-1.1
 plasma-browser-integration 6.6.4-1.1
 plasma-desktop 6.6.4-1.1
 plasma-firewall 6.6.4-1.1
+plasma-foreground-booster-dmemcg 0.1-2
 plasma-gamemode-git r6.4d60358-1
 plasma-nm 6.6.4-1
 plasma-pa 6.6.4-1.1
@@ -217,7 +218,7 @@ vim 9.2.0316-1.1
 virt-manager 5.1.0-3
 virtualbox 7.2.6-4
 virtualbox-host-modules-arch 7.2.6-11.1
-visual-studio-code-bin 1.115.0-2
+visual-studio-code-bin 1.116.0-1
 vlc 3.0.22-3.1
 vulkan-radeon 2:26.0.4-2
 vulkan-tools 1.4.341.0-2.1
