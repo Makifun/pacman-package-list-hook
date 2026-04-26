@@ -30,7 +30,7 @@ cachyos-mirrorlist 27-1
 cachyos-v3-mirrorlist 27-1
 cachyos-v4-mirrorlist 27-1
 calf 0.90.9-2.1
-chatterino2-bin 2.5.5-4
+chatterino2-bin 2.5.5-5
 cilium-cli 0.19.2-1.1
 claude-code 2.1.119-1
 copyq 15.0.0-1.1
@@ -41,7 +41,7 @@ docker 1:29.4.1-1.1
 docker-compose 5.1.3-1.1
 dolphin 26.04.0-1.1
 dysk 1:3.6.0b-1.1
-easyeffects 8.2.0-1.1
+easyeffects 8.2.1-1.1
 efibootmgr 18-3.1
 electron24-bin 24.8.8-4
 eza 0.23.4-3.1
@@ -55,7 +55,7 @@ flatpak 1:1.16.6-1.1
 foot 1.26.1-1.1
 fzf 0.71.0-1.1
 gamemode 1.8.2-2.1
-gamescope 3.16.21-2
+gamescope 3.16.23-2
 gdu 5.35.0-1.1
 git 2.54.0-1.1
 gnu-netcat 0.7.1-12
@@ -74,7 +74,7 @@ helm 4.1.4-1.1
 helvum 0.5.1-1
 heroic-games-launcher-bin 2.21.0-1
 htop 3.5.0-1.1
-hwatch-bin 0.4.0-1
+hwatch-bin 0.4.1-1
 inetutils 2.7-2.1
 iotop 0.6-13
 irssi 1.4.5-5.1
@@ -88,7 +88,7 @@ kdiskmark 3.2.0-2.1
 kitty 0.46.2-1.2
 klassy 6.5.3-1
 konsole 26.04.0-1.1
-krita 6.0.1-3.1
+krita 6.0.1-4.1
 kscreen 6.6.4-1.1
 kwallet-pam 6.6.4-1.1
 kwalletmanager 26.04.0-1.1
@@ -128,7 +128,7 @@ neovim 0.12.2-1.1
 nerd-fonts-sf-mono-ligatures 3.3.0-2
 networkmanager 1.56.0-1
 nexusmods-app-bin 0.21.1-1
-nix 2.34.6-2
+nix 2.34.6-2.1
 nixfmt 1.2.0-1
 nmap 7.99-2.1
 noto-fonts-cjk 20240730-1
@@ -146,7 +146,7 @@ openssh 10.3p1-1.1
 openssl-1.1 1.1.1.w-9
 opentofu 1.11.6-1.1
 paccache-hook 1.2.0-1
-packer 1.15.1-1.1
+packer 1.15.2-1.1
 partitionmanager 26.04.0-1.1
 pear-desktop 3.11.0-1
 pinta 3.1.2-1
@@ -181,7 +181,7 @@ sddm 0.21.0-8
 sddm-astronaut-theme 66.5e39e08-1
 sddm-kcm 6.6.4-1.1
 sdl2-compat 2.32.66-1.1
-shellcheck 0.11.0-95
+shellcheck 0.11.0-96
 shotcut 26.2.26-1.1
 signal-desktop 8.7.0-1
 sipcalc 1.1.6-6
@@ -223,6 +223,7 @@ vlc 3.0.22-3.1
 vulkan-radeon 2:26.0.5-4
 vulkan-tools 1.4.341.0-2.1
 waterfox-bin 1:6.6.12-1
+webkit2gtk-docs 2.50.6-3
 whois 5.6.6-1.1
 wine-discord-ipc-bridge-git 0.0.3.0.g86fcbdd-1
 wireguard-tools 1.0.20260223-1.1
