@@ -101,7 +101,7 @@ lib32-vulkan-radeon 2:26.0.5-2
 libva-utils 2.22.0-1.1
 libva-vdpau-driver 0.7.4-7
 libvdpau-va-gl 0.4.2-4.1
-linux 6.19.14.arch1-1
+linux 7.0.2.arch1-1
 linux-cachyos-bore 7.0.1-1
 linux-cachyos-bore-headers 7.0.1-1
 linux-firmware 1:20260309-1
@@ -171,7 +171,7 @@ proton-ge-custom-bin 1:GE_Proton10_34-1
 protontricks 1.14.1-1
 protonup-qt 2.15.0-1
 pwgen 2.08-3.1
-python-pip 26.0.1-1
+python-pip 26.1-1
 qbittorrent 5.1.4-2
 rbw 1.15.0-2.1
 reflector 2023-5
@@ -181,9 +181,9 @@ sddm 0.21.0-8
 sddm-astronaut-theme 66.5e39e08-1
 sddm-kcm 6.6.4-1.1
 sdl2-compat 2.32.66-1.1
-shellcheck 0.11.0-96
+shellcheck 0.11.0-97
 shotcut 26.2.26-1.1
-signal-desktop 8.7.0-1
+signal-desktop 8.8.0-1
 sipcalc 1.1.6-6
 sops 3.12.2-1.1
 spacecadetpinball-bin 2.1.0-2
