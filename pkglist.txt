@@ -52,11 +52,12 @@ fcitx5-qt 5.1.13-3.1
 fd 10.4.2-2.1
 ffmpegthumbs 26.04.0-1.1
 flatpak 1:1.16.6-1.1
+fluxcd 2.8.6-1.1
 foot 1.26.1-1.1
 fzf 0.71.0-1.1
 gamemode 1.8.2-2.1
 gamescope 3.16.23-2
-gdu 5.35.0-1.1
+gdu 5.36.0-1
 git 2.54.0-1.1
 gnu-netcat 0.7.1-12
 godot 4.6.2-1.1
@@ -88,7 +89,7 @@ kdiskmark 3.2.0-2.1
 kitty 0.46.2-1.2
 klassy 6.5.3-1
 konsole 26.04.0-1.1
-krita 6.0.1-4.1
+krita 6.0.1-5
 kscreen 6.6.4-1.1
 kwallet-pam 6.6.4-1.1
 kwalletmanager 26.04.0-1.1
@@ -146,7 +147,7 @@ openssh 10.3p1-1.1
 openssl-1.1 1.1.1.w-9
 opentofu 1.11.6-1.1
 paccache-hook 1.2.0-1
-packer 1.15.2-1.1
+packer 1.15.3-1
 partitionmanager 26.04.0-1.1
 pear-desktop 3.11.0-1
 pinta 3.1.2-1
@@ -175,7 +176,7 @@ python-pip 26.1-1
 qbittorrent 5.1.4-2
 rbw 1.15.0-2.1
 reflector 2023-5
-rsync 3.4.1-2.1
+rsync 3.4.2-1
 s3cmd 2.4.0-5
 sddm 0.21.0-8
 sddm-astronaut-theme 66.5e39e08-1
