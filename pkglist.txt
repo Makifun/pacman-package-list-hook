@@ -103,9 +103,9 @@ lib32-vulkan-radeon 2:26.0.6-2
 libva-utils 2.22.0-1.1
 libva-vdpau-driver 0.7.4-7
 libvdpau-va-gl 0.4.2-4.1
-linux 7.0.3.arch1-1
-linux-cachyos-bore 7.0.2-2
-linux-cachyos-bore-headers 7.0.2-2
+linux 7.0.3.arch1-2
+linux-cachyos-bore 7.0.3-1
+linux-cachyos-bore-headers 7.0.3-1
 linux-firmware 1:20260309-1
 lshw B.02.20-3.1
 lsp-plugins 1.2.29-1.1
@@ -169,6 +169,7 @@ portproton 1.7.5-1
 power-profiles-daemon 0.30-3
 powerdevil 6.6.4-1.1
 procs 0.14.11-1.1
+proton-cachyos-slr 1:10.0.20260424-1
 proton-ge-custom-bin 1:GE_Proton10_34-1
 protontricks 1.14.1-1
 protonup-qt 2.15.0-1
@@ -220,8 +221,8 @@ vesktop 1.6.5-1
 vim 9.2.0388-1.1
 virt-manager 5.1.0-3
 virtualbox 7.2.8-2
-virtualbox-host-modules-arch 7.2.8-8.1
-visual-studio-code-bin 1.118.0-1
+virtualbox-host-modules-arch 7.2.8-9.1
+visual-studio-code-bin 1.118.1-1
 vlc 3.0.22-3.1
 vulkan-radeon 2:26.0.6-2
 vulkan-tools 1.4.341.0-2.1
