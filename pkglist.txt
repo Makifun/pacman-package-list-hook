@@ -30,7 +30,7 @@ cachyos-mirrorlist 27-1
 cachyos-v3-mirrorlist 27-1
 cachyos-v4-mirrorlist 27-1
 calf 0.90.9-2.1
-chatterino2-bin 2.5.5-5
+chatterino2-bin 2.5.5-6
 cilium-cli 0.19.2-1.1
 claude-code 2.1.123-1
 copyq 15.0.0-1.1
@@ -114,7 +114,7 @@ lvm2 2.03.40-1.1
 lynis 3.1.6-1
 makepkg-git-lfs-proto 2-1
 man-db 2.13.1-1.1
-mangohud 0.8.3-2
+mangohud 0.8.3-2.1
 mda.lv2 1.2.10-2.1
 mediainfo 26.01-1.1
 mediainfo-gui 26.01-1.1
@@ -183,7 +183,7 @@ s3cmd 2.4.0-5
 sddm 0.21.0-8
 sddm-astronaut-theme 66.5e39e08-1
 sddm-kcm 6.6.4-1.1
-sdl2-compat 2.32.68-1
+sdl2-compat 2.32.68-1.1
 shellcheck 0.11.0-99
 shotcut 26.2.26-1.1
 signal-desktop 8.8.0-1
@@ -221,7 +221,7 @@ vesktop 1.6.5-1
 vim 9.2.0388-1.1
 virt-manager 5.1.0-3
 virtualbox 7.2.8-2
-virtualbox-host-modules-arch 7.2.8-10
+virtualbox-host-modules-arch 7.2.8-10.1
 visual-studio-code-bin 1.118.1-1
 vlc 3.0.22-3.1
 vulkan-radeon 2:26.0.6-2
@@ -235,6 +235,7 @@ wl-clipboard 1:2.3.0-1.1
 xdg-desktop-portal-kde 6.6.4-1.1
 xmousepasteblock 1.4-3
 yay 12.5.7-1
+yq 3.4.3-3
 yt-dlp 2026.03.17-1
 zam-plugins-lv2 4.5-1.1
 zsh 5.9-6.1
