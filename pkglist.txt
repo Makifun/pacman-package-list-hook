@@ -31,7 +31,6 @@ cachyos-v3-mirrorlist 27-1
 cachyos-v4-mirrorlist 27-1
 calf 0.90.9-2.1
 chatterino2-bin 2.5.5-6
-chrony 4.8-3
 cilium-cli 0.19.2-1.1
 claude-code 2.1.138-1
 copyq 15.0.0-1.1
