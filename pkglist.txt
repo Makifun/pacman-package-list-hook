@@ -225,7 +225,6 @@ vulkan-radeon 2:26.1.0-1
 vulkan-tools 1.4.341.0-2.1
 waterfox-bin 1:6.6.12-1
 webkit2gtk-docs 2.50.6-3
-wget 1.25.0-4
 whois 5.6.6-1.1
 wine-discord-ipc-bridge-git 0.0.3.0.g86fcbdd-1
 wireguard-tools 1.0.20260223-1.1
