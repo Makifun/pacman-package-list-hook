@@ -52,7 +52,7 @@ fcitx5-qt 5.1.13-3.1
 fd 10.4.2-2.1
 ffmpegthumbs 26.04.1-1.1
 flatpak 1:1.16.6-1.1
-fluxcd 2.8.6-1.1
+fluxcd 2.8.7-1.1
 foot 1.26.1-1.1
 fzf 0.72.0-1.1
 gamemode 1.8.2-2.1
@@ -114,8 +114,8 @@ makepkg-git-lfs-proto 2-1
 man-db 2.13.1-1.1
 mangohud 0.8.3-2.1
 mda.lv2 1.2.10-2.1
-mediainfo 26.01-1.1
-mediainfo-gui 26.01-1.1
+mediainfo 26.05-1.1
+mediainfo-gui 26.05-1.1
 mesa-utils 9.0.0-7.1
 meson 1.11.1-1
 mkinitcpio-firmware 1.6.0-1
