@@ -48,12 +48,12 @@ eza 0.23.4-3.1
 fastfetch 2.63.1-1.1
 fcitx5-configtool 5.1.13-1.1
 fcitx5-gtk 5.1.6-1.1
-fcitx5-qt 5.1.13-3.1
+fcitx5-qt 5.1.13-4.1
 fd 10.4.2-2.1
 ffmpegthumbs 26.04.1-1.1
 flatpak 1:1.16.6-1.1
 fluxcd 2.8.7-1.1
-foot 1.26.1-1.1
+foot 1.27.0-1.1
 fzf 0.72.0-1.1
 gamemode 1.8.2-2.1
 gamescope 3.16.23-2
@@ -65,7 +65,7 @@ gparted 1.8.1-1.1
 grub 2:2.14-1.1
 grub-customizer 5.2.5-2
 gsmartcontrol 2.0.2-1
-gst-plugin-pipewire 1:1.6.4-1.1
+gst-plugin-pipewire 1:1.6.5-1.1
 gst-plugins-bad 1.28.3-1
 gwenview 26.04.1-1.1
 handbrake 1.11.1-1.1
@@ -101,9 +101,9 @@ lib32-vulkan-radeon 2:26.1.0-1
 libva-utils 2.22.0-1.1
 libva-vdpau-driver 0.7.4-7
 libvdpau-va-gl 0.4.2-4.1
-linux 7.0.7.arch2-1
-linux-cachyos-bore 7.0.5-1
-linux-cachyos-bore-headers 7.0.5-1
+linux 7.0.8.arch1-1
+linux-cachyos-bore 7.0.8-1
+linux-cachyos-bore-headers 7.0.8-1
 linux-firmware 1:20260410-1
 lshw B.02.20-3.1
 lsp-plugins 1.2.29-1.1
@@ -150,7 +150,7 @@ packer 1.15.3-1.1
 partitionmanager 26.04.1-1.1
 pear-desktop 3.11.0-1
 pinta 3.1.2-1
-pipewire-alsa 1:1.6.4-1.1
+pipewire-alsa 1:1.6.5-1.1
 pkgfile 25-2.1
 pkgstats 3.5.3-1.1
 plasma-browser-integration 6.6.5-1.1
@@ -183,7 +183,7 @@ sddm 0.21.0-8
 sddm-astronaut-theme 66.5e39e08-1
 sddm-kcm 6.6.5-1.1
 sdl2-compat 2.32.68-1.1
-shellcheck 0.11.0-105
+shellcheck 0.11.0-106
 shotcut 26.4.30-1.1
 signal-desktop 8.10.0-1
 sipcalc 1.1.6-6
@@ -218,7 +218,7 @@ vesktop 1.6.5-1
 vim 9.2.0450-1.1
 virt-manager 5.1.0-3
 virtualbox 7.2.8-2
-virtualbox-host-modules-arch 7.2.8-13.1
+virtualbox-host-modules-arch 7.2.8-14.1
 visual-studio-code-bin 1.120.0-1
 vlc 3.0.22-3.1
 vulkan-radeon 2:26.1.0-1
