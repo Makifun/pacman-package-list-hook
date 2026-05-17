@@ -101,7 +101,7 @@ lib32-vulkan-radeon 2:26.1.0-1
 libva-utils 2.22.0-1.1
 libva-vdpau-driver 0.7.4-7
 libvdpau-va-gl 0.4.2-4.1
-linux 7.0.8.arch1-1
+linux 7.0.9.arch1-1
 linux-cachyos-bore 7.0.8-1
 linux-cachyos-bore-headers 7.0.8-1
 linux-firmware 1:20260410-1
@@ -137,7 +137,7 @@ ntp 4.2.8.p18-6
 nvme-cli 2.16-2
 nvtop 3.3.2-1.1
 obs-plugin-input-overlay 5.1.0-1
-obs-studio 32.1.2-2.1
+obs-studio 32.1.2-3.1
 obs-vkcapture-git r317.553fbb1-1
 ocs-url 3.1.0-7
 okular 26.04.1-1.1
@@ -224,7 +224,8 @@ vlc 3.0.22-4.1
 vulkan-radeon 2:26.1.0-1
 vulkan-tools 1.4.350.0-1.1
 waterfox-bin 1:6.6.12-1
-webkit2gtk-docs 2.50.6-3
+webkit2gtk-docs 2.50.6-7
+wget 1.25.0-4.1
 whois 5.6.6-1.1
 wine-discord-ipc-bridge-git 0.0.3.0.g86fcbdd-1
 wireguard-tools 1.0.20260223-1.1
