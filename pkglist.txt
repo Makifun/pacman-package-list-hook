@@ -5,7 +5,7 @@ alsa-utils 1.2.15.2-2.1
 amd-ucode 1:20260410-1
 ansible 13.7.0-1
 ansible-lint 26.4.0-1
-antigravity 2.0.1-1
+antigravity-ide 2.0.3-1
 arch-install-scripts 31-1
 archlinux-artwork 1.6-6
 aria2 1.37.0-3.1
@@ -24,6 +24,7 @@ bottles 2:63.2-1
 brave-bin 1:1.90.124-1
 breeze-gtk 6.6.5-1
 btop 1.4.7-1.1
+bubblejail 0.10.2-1
 cachyos-kernel-manager 1.18.0-1
 cachyos-keyring 20240331-1
 cachyos-mirrorlist 27-1
@@ -32,13 +33,13 @@ cachyos-v4-mirrorlist 27-1
 calf 0.90.9-2.1
 chatterino2-bin 2.5.5-7
 cilium-cli 0.19.2-1.1
-claude-code 2.1.146-1
+claude-code 2.1.148-1
 copyq 15.0.0-1.1
 desktop-patcher-hook v1.0.0.r25.g276de29-1
 direnv 2.37.1-1.1
 discord_arch_electron 1:0.0.135-1
 docker 1:29.5.1-1.1
-docker-compose 5.1.3-1.1
+docker-compose 5.1.4-1.1
 dolphin 26.04.1-1.1
 dysk 1:3.6.1-1.1
 easyeffects 8.2.2-1.1
@@ -51,6 +52,7 @@ fcitx5-gtk 5.1.6-1.1
 fcitx5-qt 5.1.13-5.1
 fd 10.4.2-2.1
 ffmpegthumbs 26.04.1-1.1
+firejail 0.9.80-1.1
 flatpak 1:1.16.6-1.1
 fluxcd 2.8.8-1.1
 foot 1.27.0-1.1
@@ -101,7 +103,7 @@ lib32-vulkan-radeon 2:26.1.1-1
 libva-utils 2.22.0-1.1
 libva-vdpau-driver 0.7.4-7
 libvdpau-va-gl 0.4.2-4.1
-linux 7.0.9.arch1-1
+linux 7.0.9.arch2-1
 linux-cachyos-bore 7.0.9-1
 linux-cachyos-bore-headers 7.0.9-1
 linux-firmware 1:20260410-1
@@ -117,7 +119,7 @@ mda.lv2 1.2.10-2.1
 mediainfo 26.05-1.1
 mediainfo-gui 26.05-1.1
 mesa-utils 9.0.0-7.1
-meson 1.11.1-2
+meson 1.11.1-3
 mkinitcpio-firmware 1.6.0-1
 mpv 1:0.41.0-3.1
 mtr 0.96-1.1
@@ -129,6 +131,7 @@ nerd-fonts-sf-mono-ligatures 3.3.0-2
 networkmanager 1.56.1-1
 nexusmods-app-bin 0.21.1-1
 nix 2.34.7-1.1
+nixd 2.9.1-1
 nixfmt 1.2.0-1
 nmap 7.99-2.1
 noto-fonts-cjk 20240730-1
@@ -174,7 +177,7 @@ pwgen 2.08-3.1
 python-pip 26.1.1-1
 qbittorrent 5.2.0-1
 rbw 1.15.0-2.1
-rclone 1.74.1-1.1
+rclone 1.74.2-1.1
 reflector 2023-5
 rsync 3.4.3-1.1
 rust 1:1.95.0-1.1
@@ -185,13 +188,13 @@ sddm-kcm 6.6.5-1.1
 sdl2-compat 2.32.68-1.1
 shellcheck 0.11.0-107
 shotcut 26.4.30-1.1
-signal-desktop 8.10.0-1
+signal-desktop 8.11.0-1
 sipcalc 1.1.6-6
 sops 3.13.1-1.1
 spectacle 1:6.6.5-1.1
 sqlitebrowser 3.13.1-3.1
 sshfs 3.7.5-1.1
-steam 1.0.0.85-6
+steam 1.0.0.85-7
 stow 2.4.1-1
 streamlink 8.4.0-1
 streamlink-twitch-gui-bin 2.5.3-1
@@ -215,7 +218,7 @@ unrar 1:7.2.6-1.1
 vdpauinfo 1.5-2.1
 ventoy-bin 1.1.12-1
 vesktop 1.6.5-1
-vim 9.2.0498-1.1
+vim 9.2.0511-1.1
 virt-manager 5.1.0-3
 virtualbox 7.2.8-2
 virtualbox-host-modules-arch 7.2.8-16.1
@@ -223,7 +226,7 @@ visual-studio-code-bin 1.121.0-1
 vlc 3.0.22-4.1
 vulkan-radeon 2:26.1.1-1
 vulkan-tools 1.4.350.0-1.1
-waterfox-bin 1:6.6.12-1
+waterfox-bin 1:6.6.13-1
 webkit2gtk-docs 2.50.6-7
 wget 1.25.0-5.1
 whois 5.6.6-1.1
