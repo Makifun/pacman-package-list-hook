@@ -2,7 +2,7 @@ adobe-source-han-sans-otc-fonts 2.005-2
 adobe-source-han-serif-otc-fonts 2.003-2
 age 1.3.1-1.1
 alsa-utils 1.2.15.2-2.1
-amd-ucode 1:20260410-1
+amd-ucode 1:20260519-1
 ansible 13.7.0-1
 ansible-lint 26.4.0-1
 antigravity-ide 2.0.3-1
@@ -33,7 +33,7 @@ cachyos-v4-mirrorlist 27-1
 calf 0.90.9-2.1
 chatterino2-bin 2.5.5-7
 cilium-cli 0.19.2-1.1
-claude-code 2.1.148-1
+claude-code 2.1.150-1
 copyq 15.0.0-1.1
 desktop-patcher-hook v1.0.0.r25.g276de29-1
 direnv 2.37.1-1.1
@@ -42,7 +42,7 @@ docker 1:29.5.1-1.1
 docker-compose 5.1.4-1.1
 dolphin 26.04.1-1.1
 dysk 1:3.6.1-1.1
-easyeffects 8.2.2-1.1
+easyeffects 8.2.4-1.1
 efibootmgr 18-4.1
 electron24-bin 24.8.8-4
 eza 0.23.4-3.1
@@ -52,7 +52,6 @@ fcitx5-gtk 5.1.6-1.1
 fcitx5-qt 5.1.13-5.1
 fd 10.4.2-2.1
 ffmpegthumbs 26.04.1-1.1
-firejail 0.9.80-1.1
 flatpak 1:1.16.6-1.1
 fluxcd 2.8.8-1.1
 foot 1.27.0-1.1
@@ -103,10 +102,10 @@ lib32-vulkan-radeon 2:26.1.1-1
 libva-utils 2.22.0-1.1
 libva-vdpau-driver 0.7.4-7
 libvdpau-va-gl 0.4.2-4.1
-linux 7.0.9.arch2-1
+linux 7.0.10.arch1-1
 linux-cachyos-bore 7.0.9-1
 linux-cachyos-bore-headers 7.0.9-1
-linux-firmware 1:20260410-1
+linux-firmware 1:20260519-1
 lshw B.02.20-3.1
 lsp-plugins 1.2.29-1.1
 lutris 0.5.22-1
@@ -221,7 +220,7 @@ vesktop 1.6.5-1
 vim 9.2.0511-1.1
 virt-manager 5.1.0-3
 virtualbox 7.2.8-2
-virtualbox-host-modules-arch 7.2.8-16.1
+virtualbox-host-modules-arch 7.2.8-17.1
 visual-studio-code-bin 1.121.0-1
 vlc 3.0.22-4.1
 vulkan-radeon 2:26.1.1-1
