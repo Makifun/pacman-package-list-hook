@@ -107,6 +107,7 @@ linux 7.0.10.arch1-1
 linux-cachyos-bore 7.0.10-1
 linux-cachyos-bore-headers 7.0.10-1
 linux-firmware 1:20260519-1
+lmstudio-bin 0.4.14-4
 lshw B.02.20-3.1
 lsp-plugins 1.2.29-1.1
 lutris 0.5.22-1
@@ -212,7 +213,6 @@ ttf-jetbrains-mono-nerd 3.4.0-2
 ttf-meslo-nerd-font-powerlevel10k 2.3.3-1
 ttf-ms-win11-auto 10.0.26100.1742-4
 ttf-tw 2:5.0-3
-tuxclocker 1.5.1-3
 unp 1:2.0-2
 unrar 1:7.2.6-1.1
 vdpauinfo 1.5-2.1
