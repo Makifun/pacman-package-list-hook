@@ -21,7 +21,7 @@ bitwarden 2026.2.1-1.1
 bluedevil 1:6.6.5-1.1
 bluez-utils 5.86-6.1
 brave-bin 1:1.91.172-1
-breeze-gtk 6.6.5-1
+breeze-gtk 6.7.0-1
 btop 1.4.7-1.1
 bubblejail 0.10.3-1
 cachyos-kernel-manager 1.18.1-1
@@ -32,7 +32,7 @@ cachyos-v4-mirrorlist 27-1
 calf 0.90.9-2.1
 chatterino2-bin 2.5.5-7
 cilium-cli 0.19.4-1.1
-claude-code 2.1.177-1
+claude-code 2.1.178-1
 copyq 16.0.0-1.1
 desktop-patcher-hook v1.0.0.r25.g276de29-1
 direnv 2.37.1-1.1
@@ -55,7 +55,7 @@ fluxcd 2.8.8-1.1
 foot 1.27.0-1.1
 fzf 0.72.0-1.1
 gamemode 1.8.2-2.1
-gamescope 3.16.23-2
+gamescope 3.16.24-1
 gdu 5.36.1-1.1
 git 2.54.0-1.1
 github-cli 2.94.0-1.1
@@ -173,7 +173,7 @@ protontricks 1.14.1-1
 protonup-qt 2.15.0-1
 pwgen 2.08-3.1
 python-pip 26.1.2-1
-qbittorrent 5.2.1-1
+qbittorrent 5.2.2-1
 rbw 1.15.0-2.1
 rclone 1.74.3-1.1
 reflector 2023-5
@@ -215,7 +215,7 @@ unrar 1:7.2.6-1.1
 vdpauinfo 1.5-2.1
 ventoy-bin 1.1.12-1
 vesktop 1.6.5-1
-vim 9.2.0623-1.1
+vim 9.2.0653-1.1
 virt-manager 5.1.0-3
 visual-studio-code-bin 1.124.2-1
 vlc 3.0.23_2-7.1
