@@ -58,7 +58,7 @@ gamemode 1.8.2-2.1
 gamescope 3.16.24-1
 gdu 5.36.1-1.1
 git 2.54.0-1.1
-github-cli 2.94.0-1.1
+github-cli 2.95.0-1.1
 gnu-netcat 0.7.1-12
 godot 4.6.3-1.1
 gparted 1.8.1-2.1
@@ -70,7 +70,7 @@ gst-plugins-bad 1.28.4-1.1
 gwenview 26.04.2-1.1
 handbrake 1.11.2-1.1
 hdparm 9.65-3.1
-helm 4.2.0-1.1
+helm 4.2.1-2
 helvum 0.6.2-1
 heroic-games-launcher-bin 2.22.0-1
 htop 3.5.1-1.1
@@ -84,7 +84,7 @@ kde-gtk-config 6.6.5-1.1
 kdeconnect 26.04.2-1.1
 kdenlive 26.04.2-1.1
 kdeplasma-addons 6.6.5-1.1
-kdiskmark 3.2.0-2.1
+kdiskmark 3.3.0-1.1
 kitty 0.47.1-1.1
 konsole 26.04.2-1.1
 krew 0.5.0-1.1
@@ -186,7 +186,7 @@ sddm-kcm 6.6.5-1.1
 sdl2-compat 2.32.70-1.1
 shellcheck 0.11.0-111
 shotcut 26.4.30-1.1
-signal-desktop 8.14.0-1
+signal-desktop 8.15.0-1
 sipcalc 1.1.6-6
 sops 3.13.1-1.1
 spectacle 1:6.6.5-1.1
@@ -196,7 +196,7 @@ steam 1.0.0.85-7
 stow 2.4.1-1
 streamlink 8.4.0-1
 streamlink-twitch-gui-bin 2.5.3-1
-sudo 1.9.17.p2-2.1
+sudo 1.9.17.p2-6.1
 systemdgenie 0.99.0-8.1
 television 0.15.9-1.1
 tldr 3.4.4-1
@@ -215,9 +215,9 @@ unrar 1:7.2.6-1.1
 vdpauinfo 1.5-2.1
 ventoy-bin 1.1.12-1
 vesktop 1.6.5-1
-vim 9.2.0653-1.1
+vim 9.2.0670-1.1
 virt-manager 5.1.0-3
-visual-studio-code-bin 1.124.2-1
+visual-studio-code-bin 1.125.0-1
 vlc 3.0.23_2-7.1
 vulkan-radeon 2:26.1.2-1
 vulkan-tools 1.4.350.0-1.1
