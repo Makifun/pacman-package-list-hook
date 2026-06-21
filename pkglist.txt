@@ -184,7 +184,7 @@ sddm 0.21.0-8
 sddm-astronaut-theme 66.5e39e08-1
 sddm-kcm 6.7.0-1.1
 sdl2-compat 2.32.70-1.1
-shellcheck 0.11.0-116
+shellcheck 0.11.0-119
 shotcut 26.4.30-1.1
 signal-desktop 8.15.0-1
 sipcalc 1.1.6-6
@@ -192,7 +192,7 @@ sops 3.13.1-1.1
 spectacle 1:6.7.0-1.1
 sqlitebrowser 3.13.1-3.1
 sshfs 3.7.6-1.1
-steam 1.0.0.85-7
+steam 1.0.0.86-1
 stow 2.4.1-1
 streamlink 8.4.0-1
 streamlink-twitch-gui-bin 2.5.3-1
