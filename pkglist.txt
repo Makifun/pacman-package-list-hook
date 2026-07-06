@@ -125,7 +125,7 @@ mtr 0.96-1.1
 nano 9.1-1.1
 ncdu 2.9.2-1.1
 neofetch 7.1.0-4
-neovim 0.12.3-1.1
+neovim 0.12.4-1.1
 networkmanager 1.56.1-2
 nexusmods-app-bin 0.21.1-1
 nix 2.34.7-1.1
