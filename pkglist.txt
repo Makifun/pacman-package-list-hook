@@ -20,7 +20,7 @@ bat-extras 2024.08.24-1
 bitwarden 2026.3.1-2.1
 bluedevil 1:6.7.2-1.1
 bluez-utils 5.87-2.1
-brave-bin 1:1.92.134-1
+brave-bin 1:1.92.139-1
 breeze-gtk 6.7.2-1
 btop 1.4.7-1.1
 bubblejail 0.10.3-1
@@ -44,7 +44,7 @@ easyeffects 8.2.7-1.1
 efibootmgr 18-4.1
 electron24-bin 24.8.8-4
 eza 0.23.5-2.1
-fastfetch 2.65.2-1
+fastfetch 2.66.0-1.1
 fcitx5-configtool 5.1.14-1.1
 fcitx5-gtk 5.1.7-1.1
 fcitx5-qt 5.1.14-1.1
@@ -88,7 +88,7 @@ kdiskmark 3.3.0-1.1
 kitty 0.47.4-1.1
 konsole 26.04.3-1.1
 krew 0.5.0-1.1
-krita 6.0.2.1-1.1
+krita 6.0.2.1-2.1
 kscreen 6.7.2-1.1
 kwallet-pam 6.7.2-1.1
 kwalletmanager 26.04.3-1.1
@@ -178,7 +178,7 @@ rbw 1.15.0-2.1
 rclone 1.74.4-1.1
 reflector 2023-5
 rsync 3.4.4-1.1
-rust 1:1.96.1-1.1
+rust 1:1.97.0-1
 s3cmd 2.4.0-5
 sddm 0.21.0-8
 sddm-astronaut-theme 66.5e39e08-1
