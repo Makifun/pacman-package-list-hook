@@ -32,7 +32,7 @@ cachyos-v4-mirrorlist 27-1
 calf 0.90.9-2.1
 chatterino2-bin 2.5.5-7
 cilium-cli 0.19.4-1.1
-claude-code 2.1.204-1
+claude-code 2.1.207-1
 copyq 16.0.0-1.1
 desktop-patcher-hook v1.0.0.r25.g276de29-1
 direnv 2.37.1-1.1
@@ -173,12 +173,12 @@ protontricks 1.14.1-1
 protonup-qt 2.15.1-1
 pwgen 2.08-3.1
 python-pip 26.1.2-1
-qbittorrent 5.2.3-1
+qbittorrent 5.2.3-2
 rbw 1.15.0-2.1
 rclone 1.74.4-1.1
 reflector 2023-5
 rsync 3.4.4-1.1
-rust 1:1.97.0-1
+rust 1:1.97.0-1.1
 s3cmd 2.4.0-5
 sddm 0.21.0-8
 sddm-astronaut-theme 66.5e39e08-1
@@ -230,7 +230,7 @@ wireguard-tools 1.0.20260223-1.1
 wl-clipboard 1:2.3.0-1.1
 xdg-desktop-portal-kde 6.7.2-1.1
 xmousepasteblock 1.4-3
-yq 4.1.1-1
+yq 4.1.2-1
 yt-dlp 2026.07.04-1
 zam-plugins-lv2 4.5-1.1
 zsh 5.9.1-1.1
