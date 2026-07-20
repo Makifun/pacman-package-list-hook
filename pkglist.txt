@@ -32,7 +32,7 @@ cachyos-v4-mirrorlist 27-1
 calf 0.90.9-2.1
 chatterino2-bin 2.5.5-8
 cilium-cli 0.19.4-1.1
-claude-code 2.1.214-1
+claude-code 2.1.215-1
 copyq 16.0.0-1.1
 desktop-patcher-hook v1.0.0.r25.g276de29-1
 direnv 2.37.1-1.1
@@ -54,7 +54,7 @@ ffmpegthumbs 26.04.3-1.1
 flatpak 1:1.18.0-1.1
 fluxcd 2.9.2-1.1
 foot 1.27.0-1.1
-fzf 0.74.0-1.1
+fzf 0.74.1-1.1
 gamemode 1.8.2-3.1
 gamescope 3.16.24-1
 gdu 5.36.1-1.1
