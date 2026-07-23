@@ -20,7 +20,7 @@ bat-extras 2024.08.24-1
 bitwarden 2026.3.1-2.1
 bluedevil 1:6.7.3-1.1
 bluez-utils 5.87-2.1
-brave-bin 1:1.92.141-1
+brave-bin 1:1.92.143-1
 breeze-gtk 6.7.3-1
 btop 1.4.7-1.1
 bubblejail 0.10.3-1
@@ -36,7 +36,6 @@ claude-code 2.1.217-1
 copyq 16.0.0-1.1
 desktop-patcher-hook v1.0.0.r25.g276de29-1
 direnv 2.37.1-1.1
-docker 1:29.6.2-1.1
 docker-compose 5.3.1-1.1
 docker-sbx 0.35.0-1
 dolphin 26.04.3-1.1
@@ -61,7 +60,7 @@ gdu 5.36.1-1.1
 git 2.55.0-1.1
 github-cli 2.96.0-1.1
 gnu-netcat 0.7.1-12
-godot 4.7-2.1
+godot 4.7.1-1.1
 gparted 1.8.1-2.1
 grub 2:2.14-1.1
 grub-customizer 5.2.5-2
@@ -167,6 +166,7 @@ plasma-pa 6.7.3-1.1
 plasma-systemmonitor 6.7.3-1.1
 playerctl 2.4.1-5.1
 plocate 1.1.24-1.1
+podman 6.0.1-1.1
 power-profiles-daemon 0.30-3
 powerdevil 6.7.3-1.1
 procs 0.14.12-1.1
@@ -189,7 +189,7 @@ sddm-kcm 6.7.3-1.1
 sdl2-compat 2.32.70-1.1
 shellcheck 0.11.0-130
 shotcut 26.6.25-1.1
-signal-desktop 8.19.0-1
+signal-desktop 8.20.0-1
 sipcalc 1.1.6-6
 sops 3.13.2-1.1
 spectacle 1:6.7.3-1.1
