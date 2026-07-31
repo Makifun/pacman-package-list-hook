@@ -20,7 +20,7 @@ bat-extras 2024.08.24-1
 bitwarden 2026.3.1-2.1
 bluedevil 1:6.7.3-1.1
 bluez-utils 5.87-2.1
-brave-bin 1:1.92.144-1
+brave-bin 1:1.93.129-1
 breeze-gtk 6.7.3-1
 btop 1.4.7-1.1
 bubblejail 0.10.3-1
@@ -44,6 +44,7 @@ easyeffects 8.2.8-1.1
 efibootmgr 18-4.1
 electron24-bin 24.8.8-4
 eza 0.23.5-2.1
+f3 10.0-1
 fastfetch 2.66.0-1.1
 fcitx5-configtool 5.1.14-1.1
 fcitx5-gtk 5.1.7-1.1
@@ -99,7 +100,7 @@ ldns 1.9.2-1.1
 lib32-gamemode 1.8.2-1
 lib32-mangohud 0.8.4-1
 lib32-vulkan-icd-loader 1.4.357.0-1
-lib32-vulkan-radeon 3:26.1.5-1
+lib32-vulkan-radeon 3:26.1.6-1
 libva-utils 2.24.0-1.1
 libva-vdpau-driver 0.7.4-7
 libvdpau-va-gl 0.4.2-5.1
@@ -177,7 +178,7 @@ proton-ge-custom-bin 1:GE_Proton10_34-1
 protontricks 1.14.1-1
 protonup-qt 2.15.1-1
 pwgen 2.08-3.1
-python-pip 26.1.2-1
+python-pip 26.2-1
 qbittorrent 5.2.3-3
 rbw 1.15.0-2.1
 rclone 1.74.4-1.1
@@ -191,7 +192,7 @@ sddm-kcm 6.7.3-1.1
 sdl2-compat 2.32.70-1.1
 shellcheck 0.11.0-130
 shotcut 26.6.25-1.1
-signal-desktop 8.20.0-1
+signal-desktop 8.21.0-1
 sipcalc 1.1.6-6
 sops 3.13.3-1.1
 spectacle 1:6.7.3-1.1
@@ -224,9 +225,9 @@ vim 9.2.0849-1.1
 virt-manager 5.1.0-4
 visual-studio-code-bin 1.131.0-1
 vlc 3.0.23_2-9.1
-vulkan-radeon 3:26.1.5-1
+vulkan-radeon 3:26.1.6-1
 vulkan-tools 1.4.350.1-1.1
-waterfox-bin 1:6.6.16.1-1
+waterfox-bin 1:6.6.17-1
 webkit2gtk-docs 2.50.6-8
 wget 1.25.0-6.1
 whois 5.6.6-1.1
