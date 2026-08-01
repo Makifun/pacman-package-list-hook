@@ -59,7 +59,7 @@ gamemode 1.8.2-3.1
 gamescope 3.16.24-1
 gdu 5.36.1-1.1
 git 2.55.0-1.1
-github-cli 2.96.0-1.1
+github-cli 2.97.0-1.1
 gnu-netcat 0.7.1-12
 godot 4.7.1-1.1
 gparted 1.8.1-2.1
@@ -90,7 +90,7 @@ kdiskmark 3.3.0-1.1
 kitty 0.48.1-1.1
 konsole 26.04.3-1.1
 krew 0.5.0-1.1
-krita 6.0.3-1.1
+krita 6.0.3-2.1
 kscreen 6.7.3-1.1
 kustomize 5.8.1-1.1
 kwallet-pam 6.7.3-1.1
@@ -169,7 +169,7 @@ plasma-pa 6.7.3-1.1
 plasma-systemmonitor 6.7.3-1.1
 playerctl 2.4.1-5.1
 plocate 1.1.24-1.1
-podman 6.0.2-2.1
+podman 6.0.2-3.1
 power-profiles-daemon 0.30-3
 powerdevil 6.7.3-1.1
 procs 0.14.12-1.1
@@ -181,7 +181,7 @@ pwgen 2.08-3.1
 python-pip 26.2-1
 qbittorrent 5.2.3-3
 rbw 1.15.0-2.1
-rclone 1.74.4-1.1
+rclone 1.75.0-1.1
 reflector 2023-5
 rsync 3.4.4-1.1
 rust 1:1.97.1-1.1
