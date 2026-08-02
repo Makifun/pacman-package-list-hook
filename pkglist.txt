@@ -30,7 +30,7 @@ cachyos-mirrorlist 27-1
 cachyos-v3-mirrorlist 27-1
 cachyos-v4-mirrorlist 27-1
 calf 0.90.9-2.1
-chatterino2-bin 2.5.5-8
+chatterino2-bin 2.5.5-9
 cilium-cli 0.19.4-1.1
 claude-code 2.1.220-1
 copyq 16.0.0-1.1
@@ -159,7 +159,7 @@ pear-desktop 3.12.0-1
 pinta 3.1.2-2
 pipewire-alsa 1:1.6.8-1.1
 pkgfile 25-2.1
-pkgstats 3.5.4-1.1
+pkgstats 3.5.5-1.1
 plasma-browser-integration 6.7.3-1.1
 plasma-desktop 6.7.3-1.1
 plasma-firewall 6.7.3-1.1
@@ -198,7 +198,7 @@ sops 3.13.3-1.1
 spectacle 1:6.7.3-1.1
 sqlitebrowser 3.13.1-3.1
 sshfs 3.7.6-1.1
-steam 1.0.0.86-2
+steam 1.0.0.87-3
 stow 2.4.1-1
 streamlink 8.4.0-1
 streamlink-twitch-gui-bin 2.5.3-1
@@ -226,7 +226,7 @@ virt-manager 5.1.0-4
 visual-studio-code-bin 1.131.0-1
 vlc 3.0.23_2-9.1
 vulkan-radeon 3:26.1.6-1
-vulkan-tools 1.4.350.1-1.1
+vulkan-tools 1.4.357.0-1.1
 waterfox-bin 1:6.6.17-1
 webkit2gtk-docs 2.50.6-8
 wget 1.25.0-6.1
