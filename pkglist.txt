@@ -54,7 +54,7 @@ ffmpegthumbs 26.04.3-1.1
 flatpak 1:1.18.0-1.1
 fluxcd 2.9.3-1.1
 foot 1.27.0-2.1
-fzf 0.74.1-1.1
+fzf 0.74.2-1.1
 gamemode 1.8.2-3.1
 gamescope 3.16.24-1
 gdu 5.36.1-1.1
@@ -87,7 +87,7 @@ kdeconnect 26.04.3-1.1
 kdenlive 26.04.3-1.1
 kdeplasma-addons 6.7.3-1.1
 kdiskmark 3.3.0-1.1
-kitty 0.48.1-1.1
+kitty 0.48.2-1.1
 konsole 26.04.3-1.1
 krew 0.5.0-1.1
 krita 6.0.3-2.1
@@ -147,7 +147,7 @@ ocs-url 3.1.0-7
 okular 26.04.3-1.1
 onefetch 2.27.1-1.1
 openai-codex 0.146.0-1.1
-opencode 1.18.8-1.1
+opencode 1.18.11-1.1
 openssh 10.4p1-3.1
 openssl-1.1 1.1.1.w-11
 opentofu 1.12.1-1.1
@@ -200,7 +200,7 @@ sqlitebrowser 3.13.1-3.1
 sshfs 3.7.6-1.1
 steam 1.0.0.87-3
 stow 2.4.1-1
-streamlink 8.4.0-1
+streamlink 8.5.0-1
 streamlink-twitch-gui-bin 2.5.3-1
 sudo 1.9.17.p2-6.1
 systemdgenie 0.99.0-8.1
