@@ -21,7 +21,7 @@ bitwarden 2026.3.1-2.1
 bluedevil 1:6.7.3-1.1
 bluez-utils 5.87-2.1
 brave-bin 1:1.93.129-1
-breeze-gtk 6.7.3-1
+breeze-gtk 6.7.4-1
 btop 1.4.7-1.1
 bubblejail 0.10.3-1
 cachyos-kernel-manager 1.19.0-1
@@ -32,7 +32,7 @@ cachyos-v4-mirrorlist 27-1
 calf 0.90.9-2.1
 chatterino2-bin 2.5.5-9
 cilium-cli 0.19.4-1.1
-claude-code 2.1.220-1
+claude-code 2.1.221-1
 copyq 16.0.0-1.1
 desktop-patcher-hook v1.0.0.r25.g276de29-1
 direnv 2.37.1-1.1
@@ -95,7 +95,7 @@ kscreen 6.7.3-1.1
 kustomize 5.8.1-1.1
 kwallet-pam 6.7.3-1.1
 kwalletmanager 26.04.3-1.1
-lazygit 0.63.1-1.1
+lazygit 0.64.0-1.1
 ldns 1.9.2-1.1
 lib32-gamemode 1.8.2-1
 lib32-mangohud 0.8.4-1
@@ -147,7 +147,7 @@ ocs-url 3.1.0-7
 okular 26.04.3-1.1
 onefetch 2.27.1-1.1
 openai-codex 0.146.0-1.1
-opencode 1.18.11-1.1
+opencode 1.18.13-1.1
 openssh 10.4p1-3.1
 openssl-1.1 1.1.1.w-11
 opentofu 1.12.1-1.1
@@ -178,7 +178,7 @@ proton-ge-custom-bin 1:GE_Proton10_34-1
 protontricks 1.14.1-1
 protonup-qt 2.15.1-1
 pwgen 2.08-3.1
-python-pip 26.2-1
+python-pip 26.2.1-1
 qbittorrent 5.2.3-3
 rbw 1.15.0-2.1
 rclone 1.75.0-1.1
