@@ -20,7 +20,7 @@ bat-extras 2024.08.24-1
 bitwarden 2026.3.1-2.1
 bluedevil 1:6.7.4-1.1
 bluez-utils 5.87-2.1
-brave-bin 1:1.93.129-1
+brave-bin 1:1.93.134-1
 breeze-gtk 6.7.4-1
 btop 1.4.7-1.1
 bubblejail 0.10.3-1
@@ -32,7 +32,7 @@ cachyos-v4-mirrorlist 27-1
 calf 0.90.9-2.1
 chatterino2-bin 2.5.5-9
 cilium-cli 0.19.4-1.1
-claude-code 2.1.222-1
+claude-code 2.1.226-1
 copyq 16.0.0-1.1
 desktop-patcher-hook v1.0.0.r25.g276de29-1
 direnv 2.37.1-1.1
@@ -66,7 +66,7 @@ grub 2:2.14-1.1
 grub-customizer 5.2.8-2
 gsmartcontrol 2.0.2-1
 gst-plugin-pipewire 1:1.6.8-1.1
-gst-plugins-bad 1.28.6-1
+gst-plugins-bad 1.28.6-1.1
 gwenview 26.04.3-1.1
 handbrake 1.11.2-1.1
 hdparm 9.65-3.1
@@ -112,7 +112,7 @@ lmstudio-bin 0.4.20-1
 lshw B.02.20-3.1
 lsp-plugins 1.2.33-2.1
 lutris 0.5.22-2
-lvm2 2.03.41-1.1
+lvm2 2.03.42-1.1
 lynis 3.1.7-1
 man-db 2.13.1-2.1
 mangohud 0.8.4-1.1
@@ -140,7 +140,7 @@ ntp 4.2.8.p18-6
 nvme-cli 2.16-2
 nvtop 3.3.2-1.1
 obs-plugin-input-overlay 5.1.0.r56.g673e594-1
-obs-studio 32.2.1-6.1
+obs-studio 32.2.1-6.2
 obs-vkcapture-git r317.553fbb1-1
 ocs-url 3.1.0-7
 okular 26.04.3-1.1
