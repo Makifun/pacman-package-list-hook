@@ -44,7 +44,7 @@ efibootmgr 18-4.1
 electron24-bin 24.8.8-4
 eza 0.23.5-2.1
 f3 10.0-1
-fastfetch 2.66.0-1.1
+fastfetch 2.67.0-1.1
 fcitx5-configtool 5.1.14-1.1
 fcitx5-gtk 5.1.7-1.1
 fcitx5-qt 5.1.14-1.1
@@ -72,7 +72,7 @@ handbrake 1.11.2-1.1
 hdparm 9.65-3.1
 helm 4.2.2-1.1
 helvum 0.6.2-1
-heroic-games-launcher-bin 2.22.0-1
+heroic-games-launcher-bin 2.22.1-2
 htop 3.5.2-1.1
 hwatch-bin 0.4.2-1
 inetutils 2.8-1.1
@@ -157,7 +157,7 @@ paru 2.1.0-3
 pear-desktop 3.12.0-1
 pinta 3.1.2-2
 pipewire-alsa 1:1.6.8-1.1
-pkgfile 25-2.1
+pkgfile 26-1.1
 pkgstats 3.5.5-1.1
 plasma-browser-integration 6.7.4-1.1
 plasma-desktop 6.7.4-1.1
