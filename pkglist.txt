@@ -6,7 +6,7 @@ amd-ucode 1:20260622-1
 ansible 14.2.0-1
 ansible-lint 26.6.0-1
 antigravity-ide 2.1.1-1
-arch-install-scripts 31-1
+arch-install-scripts 31-2
 archlinux-artwork 1.6-6
 aria2 1.37.0-3.1
 ark 26.04.3-1.1
@@ -31,7 +31,7 @@ cachyos-v3-mirrorlist 27-1
 cachyos-v4-mirrorlist 27-1
 calf 0.90.9-2.1
 chatterino2-bin 2.5.5-9
-cilium-cli 0.19.4-1.1
+cilium-cli 0.19.4-2.1
 claude-code 2.1.226-1
 copyq 16.0.0-1.1
 desktop-patcher-hook v1.0.0.r25.g276de29-1
@@ -120,7 +120,7 @@ mda.lv2 1.2.12-1.1
 mediainfo 26.05-1.1
 mediainfo-gui 26.05-1.1
 mesa-utils 9.0.0-7.1
-meson 1.11.2-1
+meson 1.12.0-1
 mkinitcpio-firmware 1.6.0-1
 mpv 1:0.41.0-4.1
 mtr 0.96-1.1
@@ -146,8 +146,8 @@ ocs-url 3.1.0-7
 okular 26.04.3-1.1
 onefetch 2.27.1-1.1
 openai-codex 0.146.1-1.1
-opencode 1.18.15-1.1
-openssh 10.4p1-3.1
+opencode 1.18.16-1.1
+openssh 10.4p1-4.1
 openssl-1.1 1.1.1.w-11
 opentofu 1.12.1-1.1
 paccache-hook 1.2.0-1
@@ -167,7 +167,7 @@ plasma-nm 6.7.4-1.1
 plasma-pa 6.7.4-1.1
 plasma-systemmonitor 6.7.4-1.1
 playerctl 2.4.1-5.1
-plocate 1.1.24-1.1
+plocate 1.1.24-2.1
 podman 6.0.2-3.1
 power-profiles-daemon 0.30-3
 powerdevil 6.7.4-1.1
