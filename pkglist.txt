@@ -32,7 +32,7 @@ cachyos-v4-mirrorlist 27-1
 calf 0.90.9-2.1
 chatterino2-bin 2.5.5-9
 cilium-cli 0.19.4-2.1
-claude-code 2.1.229-1
+claude-code 2.1.232-1
 copyq 16.0.0-1.1
 desktop-patcher-hook v1.0.0.r25.g276de29-1
 direnv 2.37.1-1.1
@@ -234,7 +234,6 @@ wl-clipboard 1:2.3.0-1.1
 xdg-desktop-portal-kde 6.7.4-2.1
 xmousepasteblock 1.4-3
 yq 4.1.2-1
-yt-dlp 2026.07.04-1
 zam-plugins-lv2 4.5-1.1
 zsh 5.9.2-1.1
 zsh-autosuggestions 0.7.1-1
