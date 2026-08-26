@@ -32,7 +32,7 @@ cachyos-v4-mirrorlist 27-1
 calf 0.90.9-2.1
 chatterino2-bin 2.5.5-9
 cilium-cli 0.19.4-2.1
-claude-code 2.1.241-1
+claude-code 2.1.245-1
 copyq 16.0.0-1.1
 desktop-patcher-hook v1.0.0.r25.g276de29-1
 direnv 2.37.1-1.1
@@ -66,7 +66,7 @@ grub 2:2.14-1.1
 grub-customizer 5.2.8-2
 gsmartcontrol 2.0.2-1
 gst-plugin-pipewire 1:1.6.8-1.1
-gst-plugins-bad 1.28.6-1.1
+gst-plugins-bad 1.28.6-2
 gwenview 26.08.0-1.1
 handbrake 1.11.2-1.1
 hdparm 9.65-3.1
@@ -142,9 +142,9 @@ obs-plugin-input-overlay 5.1.0.r56.g673e594-2
 obs-studio 32.2.2-1.1
 obs-vkcapture-git r317.553fbb1-1
 ocs-url 3.1.0-7
-okular 26.08.0-1.1
+okular 26.08.0-2.1
 onefetch 2.27.1-1.1
-openai-codex 0.149.0-1.1
+openai-codex 0.149.1-1.1
 openssh 10.5p1-1.1
 openssl-1.1 1.1.1.w-11
 opentofu 1.12.1-1.1
@@ -218,7 +218,7 @@ unrar 1:7.2.7-1.1
 vdpauinfo 1.5-3.1
 ventoy-bin 1.1.17-1
 vesktop 1.6.7-1
-vim 9.2.1001-1.1
+vim 9.2.1011-1.1
 virt-manager 5.1.0-4
 visual-studio-code-bin 1.134.0-1
 vlc 3.0.23_2-11.1
