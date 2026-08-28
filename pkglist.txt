@@ -32,7 +32,7 @@ cachyos-v4-mirrorlist 27-1
 calf 0.90.9-2.1
 chatterino2-bin 2.5.5-9
 cilium-cli 0.19.4-2.1
-claude-code 2.1.246-1
+claude-code 2.1.247-1
 copyq 16.0.0-1.1
 desktop-patcher-hook v1.0.0.r25.g276de29-1
 direnv 2.37.1-1.1
@@ -50,7 +50,7 @@ fcitx5-gtk 5.1.7-1.1
 fcitx5-qt 5.1.14-2.1
 fd 10.4.2-2.1
 ffmpegthumbs 26.08.0-1.1
-flatpak 1:1.18.1-1.1
+flatpak 1:1.18.2-1.1
 fluxcd 2.9.4-1.1
 foot 1.27.0-2.1
 fzf 0.74.3-1.1
@@ -144,7 +144,7 @@ obs-vkcapture-git r317.553fbb1-1
 ocs-url 3.1.0-7
 okular 26.08.0-2.1
 onefetch 2.27.1-1.1
-openai-codex 0.150.0-1.1
+openai-codex 0.150.1-1.1
 openssh 10.5p1-1.1
 openssl-1.1 1.1.1.w-11
 opentofu 1.12.1-1.1
@@ -189,7 +189,7 @@ sddm-kcm 6.7.4-1.1
 sdl2-compat 2.32.70-1.1
 shellcheck 0.11.0-131
 shotcut 26.8.1-1.1
-signal-desktop 8.24.1-1
+signal-desktop 8.25.0-1
 sipcalc 1.1.6-6
 sops 3.13.3-1.1
 spectacle 1:6.7.4-1.1
@@ -220,7 +220,7 @@ ventoy-bin 1.1.17-1
 vesktop 1.6.7-1
 vim 9.2.1011-1.1
 virt-manager 5.1.0-4
-visual-studio-code-bin 1.134.0-1
+visual-studio-code-bin 1.135.0-1
 vlc 3.0.23_2-12.1
 vulkan-radeon 3:26.2.1-1
 vulkan-tools 1.4.357.0-1.1
