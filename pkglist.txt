@@ -234,6 +234,7 @@ xdg-desktop-portal-kde 6.7.4-2.1
 xmousepasteblock 1.4-3
 yq 4.1.2-1
 zam-plugins-lv2 4.5-1.1
+zed 1.18.0-1
 zsh 5.9.2-1.1
 zsh-autosuggestions 0.7.1-1
 zsh-completions 0.36.0-1
