@@ -31,7 +31,7 @@ cachyos-v4-mirrorlist 27-1
 calf 0.90.9-2.1
 chatterino2-bin 2.5.5-9
 cilium-cli 0.19.4-2.1
-claude-code 2.1.260-1
+claude-code 2.1.263-1
 copyq 16.0.0-1.1
 desktop-patcher-hook v1.0.0.r25.g276de29-1
 direnv 2.37.1-1.1
@@ -44,9 +44,9 @@ electron24-bin 24.8.8-4
 eza 0.23.5-2.1
 f3 10.0-1
 fastfetch 2.68.1-1.1
-fcitx5-configtool 5.1.14-1.1
+fcitx5-configtool 5.1.15-1.1
 fcitx5-gtk 5.1.7-1.1
-fcitx5-qt 5.1.14-2.1
+fcitx5-qt 5.1.15-1.1
 fd 10.5.0-3.1
 ffmpegthumbs 26.08.0-1.1
 flatpak 1:1.18.2-1.1
@@ -143,7 +143,7 @@ obs-vkcapture-git r317.553fbb1-1
 ocs-url 3.1.0-7
 okular 26.08.0-2.1
 onefetch 2.28.1-1.1
-openai-codex 0.153.3-1.1
+openai-codex 0.153.4-1.1
 openssh 10.5p1-1.1
 openssl-1.1 1.1.1.w-11
 opentofu 1.12.1-1.1
@@ -164,7 +164,7 @@ plasma-nm 6.7.4-1.1
 plasma-pa 6.7.4-1.1
 plasma-systemmonitor 6.7.4-1.1
 playerctl 2.4.1-5.1
-plocate 1.1.24-2.1
+plocate 1.1.25-1.1
 podman 6.1.1-1.1
 power-profiles-daemon 0.30-3
 powerdevil 6.7.4-3.1
@@ -185,8 +185,8 @@ screen 5.0.2-2.1
 sddm 0.21.0-8
 sddm-astronaut-theme 66.5e39e08-1
 sddm-kcm 6.7.4-1.1
-sdl2-compat 2.32.70-1.1
-shellcheck 0.11.0-136
+sdl2-compat 2.32.72-1.1
+shellcheck 0.11.0-137
 shotcut 26.8.1-1.1
 signal-desktop 8.26.0-1
 sipcalc 1.1.6-6
@@ -234,7 +234,7 @@ xdg-desktop-portal-kde 6.7.4-2.1
 xmousepasteblock 1.4-3
 yq 4.1.2-1
 zam-plugins-lv2 4.5-1.1
-zed 1.18.0-1
+zed 1.18.1-1
 zsh 5.9.2-1.1
 zsh-autosuggestions 0.7.1-1
 zsh-completions 0.36.0-1
