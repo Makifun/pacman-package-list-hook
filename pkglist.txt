@@ -93,7 +93,7 @@ kscreen 6.7.4-1.1
 kustomize 5.8.1-1.1
 kwallet-pam 6.7.4-1.1
 kwalletmanager 26.08.0-1.1
-lazygit 0.64.1-1.1
+lazygit 0.65.0-1.1
 ldns 1.9.2-1.1
 lib32-gamemode 1.8.2-1
 lib32-mangohud 0.8.4-1
@@ -102,8 +102,8 @@ lib32-vulkan-radeon 3:26.2.2-2
 libva-utils 2.24.0-1.1
 libva-vdpau-driver 0.7.4-7
 libvdpau-va-gl 0.4.2-5.1
-linux-cachyos 7.2.2-1
-linux-cachyos-headers 7.2.2-1
+linux-cachyos 7.2.3-1
+linux-cachyos-headers 7.2.3-1
 linux-cachyos-lts 6.18.48-1
 linux-cachyos-lts-headers 6.18.48-1
 linux-firmware 1:20260810-2
@@ -128,14 +128,13 @@ ncdu 2.9.2-1.1
 neofetch 7.1.0-4
 neovim 0.12.5-1.1
 networkmanager 1.58.1-1
-nexusmods-app-bin 0.21.1-1
 nix 2.35.2-2.1
 nixd 2.9.2-1
 nmap 7.991-1.1
 noto-fonts-cjk 20240730-1
 noto-fonts-tc 2:20201206-1
 ntp 4.2.8.p18-6
-nvme-cli 2.16-2
+nvme-cli 3.0-1
 nvtop 3.3.2-1.1
 obs-plugin-input-overlay 5.1.0.r56.g673e594-2
 obs-studio 32.2.2-1.1
@@ -220,7 +219,7 @@ vesktop 1.6.7-1
 vim 9.2.1011-1.1
 virt-manager 5.1.0-4
 visual-studio-code-bin 1.136.1-1
-vlc 3.0.23_2-13.1
+vlc 3.0.23_2-14.1
 vulkan-radeon 3:26.2.2-2
 vulkan-tools 1.4.357.0-1.1
 waterfox-bin 1:6.7.1.1-1
@@ -234,7 +233,6 @@ xdg-desktop-portal-kde 6.7.4-2.1
 xmousepasteblock 1.4-3
 yq 4.1.2-1
 zam-plugins-lv2 4.5-1.1
-zed 1.18.1-1
 zsh 5.9.2-1.1
 zsh-autosuggestions 0.7.1-1
 zsh-completions 0.36.0-1
