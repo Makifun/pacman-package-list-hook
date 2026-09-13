@@ -31,7 +31,7 @@ cachyos-v4-mirrorlist 27-1
 calf 0.90.9-2.1
 chatterino2-bin 2.5.5-9
 cilium-cli 0.19.4-2.1
-claude-code 2.1.267-1
+claude-code 2.1.269-1
 copyq 16.0.0-1.1
 desktop-patcher-hook v1.0.0.r25.g276de29-1
 direnv 2.37.1-1.1
@@ -52,7 +52,7 @@ ffmpegthumbs 26.08.1-1.1
 flatpak 1:1.18.2-1.1
 fluxcd 2.9.5-1.1
 foot 1.28.0-2.1
-fzf 0.74.3-1.1
+fzf 0.74.4-1.1
 gamemode 1.8.2-3.1
 gamescope 3.16.25-1
 gdu 5.37.0-1.1
@@ -105,8 +105,8 @@ libva-vdpau-driver 0.7.4-7
 libvdpau-va-gl 0.4.2-5.1
 linux-cachyos 7.2.4-3
 linux-cachyos-headers 7.2.4-3
-linux-cachyos-lts 6.18.50-2
-linux-cachyos-lts-headers 6.18.50-2
+linux-cachyos-lts 6.18.50-3
+linux-cachyos-lts-headers 6.18.50-3
 linux-firmware 1:20260810-2
 lmstudio-bin 0.4.24-1
 lshw B.02.20-3.1
@@ -169,7 +169,6 @@ podman 6.1.1-1.1
 power-profiles-daemon 0.30-3
 powerdevil 6.7.5-1.1
 procs 0.14.12-1.1
-proton-cachyos-slr 1:11.0.20260703-1
 proton-ge-custom-bin 1:GE_Proton11_6-1
 protontricks 1.14.1-1
 protonup-qt 2.15.1-1
