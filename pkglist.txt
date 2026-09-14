@@ -37,7 +37,7 @@ desktop-patcher-hook v1.0.0.r25.g276de29-1
 direnv 2.37.1-1.1
 docker-compose 5.5.1-1.1
 dolphin 26.08.1-1.1
-dysk 1:3.6.1-1.1
+dysk 1:3.7.0-1.1
 easyeffects 8.2.9-1.1
 efibootmgr 18-4.1
 electron24-bin 24.8.8-4
@@ -195,7 +195,7 @@ sqlitebrowser 3.13.1-3.1
 sshfs 3.7.6-1.1
 steam 1.0.0.87-3
 stow 2.4.1-1
-streamlink 8.5.0-1
+streamlink 8.6.0-1
 streamlink-twitch-gui-bin 2.5.3-1
 sudo 1.9.17.p2-6.1
 systemdgenie 0.99.0-8.1
