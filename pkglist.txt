@@ -72,7 +72,7 @@ handbrake 1.11.2-1.1
 hdparm 9.65-3.1
 helm 4.3.0-1.1
 helvum 0.6.2-2
-heroic-games-launcher-bin 2.22.1-2
+heroic-games-launcher 2.22.3-2
 htop 3.5.3-1.1
 hwatch-bin 0.4.2-1
 inetutils 2.8-1.1
@@ -99,7 +99,7 @@ ldns 1.9.2-1.1
 lib32-gamemode 1.8.2-1
 lib32-mangohud 0.8.4-1
 lib32-vulkan-icd-loader 1.4.357.0-1
-lib32-vulkan-radeon 3:26.2.2-2
+lib32-vulkan-radeon 3:26.2.3-2
 libreoffice-fresh 26.8.0-2.1
 libva-utils 2.24.0-1.1
 libva-vdpau-driver 0.7.4-7
@@ -137,7 +137,7 @@ nmap 7.991-1.1
 noto-fonts-cjk 20240730-1
 noto-fonts-tc 2:20201206-1
 ntp 4.2.8.p18-6
-nvme-cli 3.0-2
+nvme-cli 3.1-1
 nvtop 3.3.2-1.1
 obs-plugin-input-overlay 5.1.0.r56.g673e594-3
 obs-studio 32.2.2-1.1
@@ -145,12 +145,12 @@ obs-vkcapture-git r317.553fbb1-1
 ocs-url 3.1.0-7
 okular 26.08.1-1.1
 onefetch 2.28.1-1.1
-openai-codex 0.154.0-1.1
+openai-codex 0.155.1-1.1
 openssh 10.5p1-1.1
 openssl-1.1 1.1.1.w-11
 opentofu 1.12.6-1.1
 paccache-hook 1.2.0-1
-packer 1.16.0-1.1
+packer 1.16.1-1.1
 partitionmanager 26.08.1-1.1
 paru 2.1.0-3
 pear-desktop 3.12.0-1
@@ -222,7 +222,7 @@ vim 9.2.1046-1.1
 virt-manager 5.1.0-4
 visual-studio-code-bin 1.138.0-1
 vlc 3.0.23_2-14.1
-vulkan-radeon 3:26.2.2-2
+vulkan-radeon 3:26.2.3-1
 vulkan-tools 1.4.357.0-1.1
 waterfox-bin 1:6.7.1.1-1
 wayvr 26.8.0-1
