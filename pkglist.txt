@@ -149,6 +149,7 @@ openai-codex 0.155.1-1.1
 openssh 10.5p1-1.1
 openssl-1.1 1.1.1.w-11
 opentofu 1.12.6-1.1
+oversteer 0.8.3-3
 paccache-hook 1.2.0-1
 packer 1.16.1-1.1
 partitionmanager 26.08.1-1.1
@@ -215,6 +216,7 @@ ttf-ms-win11-auto 10.0.26100.1742-4
 ttf-tw 2:5.0-3
 unp 1:2.0-2
 unrar 1:7.3.1-1.1
+usb_modeswitch 2.6.2.20251207-1.1
 vdpauinfo 1.5-3.1
 ventoy-bin 1.1.17-1
 vesktop 1.6.7-1
