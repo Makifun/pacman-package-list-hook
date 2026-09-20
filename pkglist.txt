@@ -15,12 +15,12 @@ aws-cli-v2 2.36.44-1
 base 3-3
 base-devel 1-2
 bash-completion 2.18.0-1
-bat 0.26.1-2.1
+bat 0.26.1-3.1
 bat-extras 2024.08.24-1
 bitwarden 2026.3.1-2.1
 bluedevil 1:6.7.5-1.1
 bluez-utils 5.87-2.1
-brave-bin 1:1.95.102-1
+brave-bin 1:1.95.104-1
 breeze-gtk 6.7.5-1
 btop 1.4.7-1.1
 cachyos-kernel-manager 1.19.0-1
@@ -31,7 +31,7 @@ cachyos-v4-mirrorlist 27-1
 calf 0.90.9-2.1
 chatterino2-bin 2.5.5-9
 cilium-cli 0.19.4-2.1
-claude-code 2.1.270-1
+claude-code 2.1.278-1
 copyq 16.0.0-1.1
 desktop-patcher-hook v1.0.0.r25.g276de29-1
 direnv 2.37.1-1.1
@@ -109,7 +109,7 @@ linux-cachyos-headers 7.2.6-1
 linux-cachyos-lts 6.18.52-1
 linux-cachyos-lts-headers 6.18.52-1
 linux-firmware 1:20260916-1
-lmstudio-bin 0.4.24-1
+lmstudio-bin 0.4.25-1
 lovr-playspace-bin 0.2.1-2
 lshw B.02.20-3.1
 lsp-plugins 1.2.35-1.1
@@ -208,6 +208,7 @@ tmux 3.7_c-1.1
 traceroute 2.1.6-1.1
 tree 2.3.2-1
 tree-sitter-cli 0.26.9-1.1
+truckersmp-cli 0.11.0-1
 ttf-firacode-nerd 3.5.1-2
 ttf-iosevka-nerd 3.5.1-2
 ttf-jetbrains-mono-nerd 3.5.1-2
@@ -223,10 +224,10 @@ vesktop 1.6.7-1
 vim 9.2.1046-1.1
 virt-manager 5.1.0-4
 visual-studio-code-bin 1.138.0-1
-vlc 3.0.23_2-14.1
+vlc 3.0.23_2-16.1
 vulkan-radeon 3:26.2.3-1
 vulkan-tools 1.4.357.0-1.1
-waterfox-bin 1:6.7.1.1-1
+waterfox-bin 1:6.7.3-1
 wayvr 26.8.0-1
 webkit2gtk-docs 2.50.6-8
 wget 1.25.0-6.1
@@ -236,7 +237,7 @@ wireguard-tools 1.0.20260223-1.1
 wl-clipboard 1:2.3.0-1.1
 xdg-desktop-portal-kde 6.7.5-1.1
 xmousepasteblock 1.4-3
-yq 4.1.2-1
+yq 4.2.0-1
 zam-plugins-lv2 4.5-1.1
 zsh 5.9.2-1.1
 zsh-autosuggestions 0.7.1-1
