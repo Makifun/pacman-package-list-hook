@@ -11,7 +11,7 @@ archlinux-artwork 1.6-6
 aria2 1.37.0-3.1
 ark 26.08.1-1.1
 audacity 1:3.7.9-1
-aws-cli-v2 2.36.44-1
+aws-cli-v2 2.36.49-1
 base 3-3
 base-devel 1-2
 bash-completion 2.18.0-1
@@ -180,7 +180,7 @@ python-pip 26.2.1-1
 qbittorrent 5.2.3-3
 rbw 1.15.0-2.1
 reflector 2023-5
-rsync 3.5.0-1
+rsync 3.5.1-1.1
 rust 1:1.98.1-1.1
 s3cmd 2.4.0-5
 screen 5.0.2-2.1
