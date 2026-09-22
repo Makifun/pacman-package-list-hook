@@ -31,7 +31,7 @@ cachyos-v4-mirrorlist 27-1
 calf 0.90.9-2.1
 chatterino2-bin 2.5.5-9
 cilium-cli 0.19.4-2.1
-claude-code 2.1.278-1
+claude-code 2.1.280-1
 copyq 16.0.0-1.1
 desktop-patcher-hook v1.0.0.r25.g276de29-1
 direnv 2.37.1-1.1
@@ -145,7 +145,7 @@ obs-vkcapture-git r317.553fbb1-1
 ocs-url 3.1.0-7
 okular 26.08.1-1.1
 onefetch 2.28.1-1.1
-openai-codex 0.155.1-1.1
+openai-codex 0.156.0-1.1
 openssh 10.5p1-1.1
 openssl-1.1 1.1.1.w-11
 opentofu 1.12.6-1.1
@@ -170,7 +170,7 @@ playerctl 2.4.1-5.1
 plocate 1.1.25-1.1
 podman 6.1.2-1.1
 power-profiles-daemon 0.30-3
-powerdevil 6.7.5-1.1
+powerdevil 6.7.5-2.1
 procs 0.14.12-1.1
 proton-ge-custom-bin 1:GE_Proton11_7-1
 protontricks 1.14.1-1
@@ -188,7 +188,7 @@ sddm 0.21.0-8
 sddm-astronaut-theme 66.5e39e08-1
 sddm-kcm 6.7.5-1.1
 sdl2-compat 2.32.72-1.1
-shellcheck 0.11.0-138
+shellcheck 0.11.0-139
 shotcut 26.8.1-2.1
 signal-desktop 8.27.0-1
 sipcalc 1.1.6-6
