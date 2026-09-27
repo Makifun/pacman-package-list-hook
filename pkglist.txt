@@ -31,7 +31,7 @@ cachyos-v4-mirrorlist 27-1
 calf 0.90.9-2.1
 chatterino2-bin 2.5.5-9
 cilium-cli 0.19.4-2.1
-claude-code 2.1.282-1
+claude-code 2.1.283-1
 copyq 16.0.0-1.1
 desktop-patcher-hook v1.0.0.r25.g276de29-1
 direnv 2.37.1-1.1
@@ -44,8 +44,8 @@ electron24-bin 24.8.8-4
 envision-xr-git 3.2.0.r68.g733995a-1
 eza 0.23.5-2.1
 f3 10.0-1
-fastfetch 2.68.1-1.1
-fcitx5-configtool 5.1.16-1.1
+fastfetch 2.69.0-1.1
+fcitx5-configtool 5.1.16-2.1
 fcitx5-gtk 5.1.7-1.1
 fcitx5-qt 5.1.16-1.1
 fd 10.5.0-3.1
@@ -104,8 +104,8 @@ libreoffice-fresh 26.8.0-2.1
 libva-utils 2.24.0-1.1
 libva-vdpau-driver 0.7.4-7
 libvdpau-va-gl 0.4.2-5.1
-linux-cachyos 7.2.7-1
-linux-cachyos-headers 7.2.7-1
+linux-cachyos 7.2.8-1
+linux-cachyos-headers 7.2.8-1
 linux-cachyos-lts 6.18.52-1
 linux-cachyos-lts-headers 6.18.52-1
 linux-firmware 1:20260916-1
@@ -145,7 +145,7 @@ obs-vkcapture-git r317.553fbb1-1
 ocs-url 3.1.0-7
 okular 26.08.1-1.1
 onefetch 2.28.1-1.1
-openai-codex 0.157.0-2.1
+openai-codex 0.157.1-1.1
 openssh 10.5p1-1.1
 openssl-1.1 1.1.1.w-11
 opentofu 1.12.6-1.1
@@ -188,9 +188,9 @@ sddm 0.21.0-8
 sddm-astronaut-theme 66.5e39e08-1
 sddm-kcm 6.7.5-1.1
 sdl2-compat 2.32.72-1.1
-shellcheck 0.11.0-139
+shellcheck 0.11.0-140
 shotcut 26.8.1-2.1
-signal-desktop 8.27.0-1
+signal-desktop 8.28.0-1
 sipcalc 1.1.6-6
 sops 3.13.3-1.1
 spectacle 1:6.7.5-1.1
@@ -227,7 +227,7 @@ visual-studio-code-bin 1.139.1-1
 vlc 3.0.23_2-16.1
 vulkan-radeon 3:26.2.3-1
 vulkan-tools 1.4.357.0-1.1
-waterfox-bin 1:6.7.3-1
+waterfox-bin 1:6.7.4-1
 wayvr 26.8.0-1
 webkit2gtk-docs 2.50.6-8
 wget 1.25.0-6.1
@@ -237,7 +237,7 @@ wireguard-tools 1.0.20260223-1.1
 wl-clipboard 1:2.3.0-1.1
 xdg-desktop-portal-kde 6.7.5-1.1
 xmousepasteblock 1.4-3
-yq 4.2.0-1
+yq 4.3.0-1
 zam-plugins-lv2 4.5-1.1
 zsh 5.9.2-1.1
 zsh-autosuggestions 0.7.1-1
