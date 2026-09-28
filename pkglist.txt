@@ -145,7 +145,8 @@ obs-vkcapture-git r317.553fbb1-1
 ocs-url 3.1.0-7
 okular 26.08.1-1.1
 onefetch 2.28.1-1.1
-openai-codex 0.157.1-1.1
+openai-codex 0.158.0-1.1
+opencode 2.0.18-1.1
 openssh 10.5p1-1.1
 openssl-1.1 1.1.1.w-11
 opentofu 1.12.6-1.1
@@ -155,6 +156,7 @@ packer 1.16.1-1.1
 partitionmanager 26.08.1-1.1
 paru 2.1.0-3
 pear-desktop 3.12.0-1
+pi 0.87.1-1
 pinta 3.1.2-2
 pipewire-alsa 1:1.6.9-1
 pkgfile 26-1.1
@@ -188,8 +190,8 @@ sddm 0.21.0-8
 sddm-astronaut-theme 66.5e39e08-1
 sddm-kcm 6.7.5-1.1
 sdl2-compat 2.32.72-1.1
-shellcheck 0.11.0-140
-shotcut 26.8.1-2.1
+shellcheck 0.11.0-142
+shotcut 26.9.27-1.1
 signal-desktop 8.28.0-1
 sipcalc 1.1.6-6
 sops 3.13.3-1.1
@@ -237,7 +239,7 @@ wireguard-tools 1.0.20260223-1.1
 wl-clipboard 1:2.3.0-1.1
 xdg-desktop-portal-kde 6.7.5-1.1
 xmousepasteblock 1.4-3
-yq 4.3.0-1
+yq 4.4.0-1
 zam-plugins-lv2 4.5-1.1
 zsh 5.9.2-1.1
 zsh-autosuggestions 0.7.1-1
