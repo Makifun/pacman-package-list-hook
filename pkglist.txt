@@ -142,7 +142,7 @@ noto-fonts-tc 2:20201206-1
 ntp 4.2.8.p18-6
 nvme-cli 3.1-1
 nvtop 3.3.2-1.1
-obs-plugin-input-overlay 5.1.1.r0.g3ebbbaf-1
+obs-plugin-input-overlay 5.1.2.r0.gb0ecb84-1
 obs-studio 32.2.2-1.1
 obs-vkcapture-git r317.553fbb1-1
 ocs-url 3.1.0-7
@@ -161,7 +161,7 @@ packer 1.16.2-1.1
 partitionmanager 26.08.2-1.1
 paru 2.1.0-3
 pear-desktop 3.12.0-1
-pi 1.4.0-1
+pi 1.4.0-2
 pinta 3.1.2-2
 pipewire-alsa 1:1.6.10-1
 pkgfile 27-1.1
