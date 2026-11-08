@@ -57,10 +57,10 @@ foot 1.28.0-2.1
 fzf 0.74.5-1.1
 gamemode 1.8.2-3.1
 gamescope 3.17.0-1
-gdu 5.38.0-1.1
+gdu 5.39.0-1.1
 git 2.56.0-1.1
 git-lfs 3.8.1-1.1
-github-cli 2.102.1-1.1
+github-cli 2.103.3-1
 gnu-netcat 0.7.1-12
 go 2:1.27.3-2
 godot 4.7.2-2.1
@@ -107,10 +107,10 @@ libreoffice-fresh 26.8.2-1.1
 libva-utils 2.24.0-1.1
 libva-vdpau-driver 0.7.4-7
 libvdpau-va-gl 0.4.2-5.1
-linux-cachyos 7.3.1-1
-linux-cachyos-headers 7.3.1-1
-linux-cachyos-lts 6.18.55-2
-linux-cachyos-lts-headers 6.18.55-2
+linux-cachyos 7.3.3-1
+linux-cachyos-headers 7.3.3-1
+linux-cachyos-lts 6.18.60-2
+linux-cachyos-lts-headers 6.18.60-2
 linux-firmware 1:20261019-1
 lmstudio-bin 0.4.28-2
 lovr-playspace-bin 0.2.1-2
@@ -149,7 +149,7 @@ ocs-url 3.1.0-7
 okular 26.08.3-1.1
 onefetch 3.2.0-1.1
 openai-codex 0.167.0-1.1
-opencode 2.2.5-1.1
+opencode 2.2.6-1.1
 openssh 10.6p1-2.1
 opentofu 1.13.2-1.1
 otf-apple-sf-mono 18.0d1e1-2
