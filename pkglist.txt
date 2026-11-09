@@ -45,7 +45,7 @@ electron24-bin 24.8.8-4
 envision-xr-git 3.2.0.r75.gd2b5045-1
 eza 0.23.5-2.1
 f3 10.0-2
-fastfetch 2.70.0-1.1
+fastfetch 2.71.0-1.1
 fcitx5-configtool 5.1.16-3.1
 fcitx5-gtk 5.1.7-1.1
 fcitx5-qt 5.1.16-2.1
@@ -69,7 +69,7 @@ grub 2:2.16-1.1
 grub-customizer 5.2.8-2
 gsmartcontrol 2.0.2-1
 gst-plugin-pipewire 1:1.6.11-1
-gst-plugins-bad 1.28.8-2
+gst-plugins-bad 1.28.9-1
 gwenview 26.08.3-1.1
 handbrake 1.11.2-1.1
 hdparm 9.65-3.1
@@ -141,7 +141,7 @@ noto-fonts-cjk 20240730-1
 noto-fonts-tc 2:20201206-1
 ntp 4.2.8.p18-7
 nvme-cli 3.2-2
-nvtop 3.3.2-1.1
+nvtop 3.4.0-1.1
 obs-plugin-input-overlay 5.1.2.r2.gb60de6c-1
 obs-studio 33.0.1-1.1
 obs-vkcapture-git r317.553fbb1-1
